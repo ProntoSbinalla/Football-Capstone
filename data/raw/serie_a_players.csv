@@ -1,0 +1,570 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+Alex Meret,28,Goalkeeper,Italy,€12.00m,SSC Napoli
+Simone Scuffet,28,Goalkeeper,Italy,€2.00m,SSC Napoli
+Nikita Contini,28,Goalkeeper,Italy / Ukraine,€400k,SSC Napoli
+Claudio Turi,20,Goalkeeper,Italy,€150k,SSC Napoli
+Alessandro Buongiorno,25,Centre-Back,Italy,€45.00m,SSC Napoli
+Amir Rrahmani,31,Centre-Back,Kosovo / Albania,€12.00m,SSC Napoli
+Rafa Marín,22,Centre-Back,Spain,€7.00m,SSC Napoli
+Juan Jesus,33,Centre-Back,Brazil / Italy,€1.50m,SSC Napoli
+Mathías Olivera,27,Left-Back,Uruguay / Spain,€18.00m,SSC Napoli
+Leonardo Spinazzola,32,Left-Back,Italy,€3.50m,SSC Napoli
+Giovanni Di Lorenzo,31,Right-Back,Italy,€15.00m,SSC Napoli
+Pasquale Mazzocchi,29,Right-Back,Italy,€3.00m,SSC Napoli
+Stanislav Lobotka,30,Defensive Midfield,Slovakia,€25.00m,SSC Napoli
+Billy Gilmour,23,Defensive Midfield,Scotland,€16.00m,SSC Napoli
+Scott McTominay,28,Central Midfield,Scotland / England,€40.00m,SSC Napoli
+Frank Anguissa,29,Central Midfield,Cameroon,€27.00m,SSC Napoli
+Philip Billing,28,Central Midfield,Denmark / Nigeria,€12.00m,SSC Napoli
+Luis Hasa,21,Central Midfield,Italy / Albania,€1.00m,SSC Napoli
+David Neres,28,Left Winger,Brazil,€30.00m,SSC Napoli
+Noah Okafor,24,Left Winger,Switzerland / Nigeria,€15.00m,SSC Napoli
+Matteo Politano,31,Right Winger,Italy,€10.00m,SSC Napoli
+Cyril Ngonge,24,Right Winger,Belgium / DR Congo,€10.00m,SSC Napoli
+Giacomo Raspadori,25,Second Striker,Italy,€20.00m,SSC Napoli
+Romelu Lukaku,32,Centre-Forward,Belgium / DR Congo,€22.00m,SSC Napoli
+Giovanni Simeone,29,Centre-Forward,Argentina / Spain,€8.00m,SSC Napoli
+Mike Maignan,29,Goalkeeper,France / French Guiana,€25.00m,AC Milan
+Marco Sportiello,33,Goalkeeper,Italy,€1.50m,AC Milan
+Lorenzo Torriani,20,Goalkeeper,Italy,€500k,AC Milan
+Fikayo Tomori,27,Centre-Back,England / Canada,€20.00m,AC Milan
+Malick Thiaw,23,Centre-Back,Germany / Finland,€20.00m,AC Milan
+Strahinja Pavlović,23,Centre-Back,Serbia,€18.00m,AC Milan
+Matteo Gabbia,25,Centre-Back,Italy,€14.00m,AC Milan
+Theo Hernández,27,Left-Back,France / Spain,€40.00m,AC Milan
+Álex Jiménez,20,Right-Back,Spain,€10.00m,AC Milan
+Emerson Royal,26,Right-Back,Brazil,€10.00m,AC Milan
+Kyle Walker,34,Right-Back,England,€6.00m,AC Milan
+Filippo Terracciano,22,Right-Back,Italy,€4.50m,AC Milan
+Alessandro Florenzi,34,Right-Back,Italy,€1.50m,AC Milan
+Youssouf Fofana,26,Defensive Midfield,France / Mali,€30.00m,AC Milan
+Tijjani Reijnders,26,Central Midfield,Netherlands,€50.00m,AC Milan
+Yunus Musah,22,Central Midfield,United States / England,€22.00m,AC Milan
+Ruben Loftus-Cheek,29,Central Midfield,England / Guyana,€16.00m,AC Milan
+Warren Bondo,21,Central Midfield,France / DR Congo,€10.00m,AC Milan
+Rafael Leão,25,Left Winger,Portugal / Angola,€75.00m,AC Milan
+Riccardo Sottil,25,Left Winger,Italy,€6.00m,AC Milan
+Christian Pulisic,26,Right Winger,United States / Croatia,€50.00m,AC Milan
+Samuel Chukwueze,25,Right Winger,Nigeria,€14.00m,AC Milan
+João Félix,25,Second Striker,Portugal,€25.00m,AC Milan
+Santiago Gimenez,24,Centre-Forward,Mexico / Italy,€37.00m,AC Milan
+Tammy Abraham,27,Centre-Forward,England / Nigeria,€15.00m,AC Milan
+Luka Jović,27,Centre-Forward,Serbia / Bosnia-Herzegovina,€2.50m,AC Milan
+Lukasz Skorupski,34,Goalkeeper,Poland,€2.50m,Bologna FC 1909
+Federico Ravaglia,25,Goalkeeper,Italy,€1.00m,Bologna FC 1909
+Nicola Bagnolini,21,Goalkeeper,Italy,€200k,Bologna FC 1909
+Sam Beukema,26,Centre-Back,Netherlands,€25.00m,Bologna FC 1909
+Jhon Lucumí,26,Centre-Back,Colombia,€18.00m,Bologna FC 1909
+Nicolò Casale,27,Centre-Back,Italy,€7.00m,Bologna FC 1909
+Martin Erlić,27,Centre-Back,Croatia,€5.00m,Bologna FC 1909
+Juan Miranda,25,Left-Back,Spain,€11.00m,Bologna FC 1909
+Charalampos Lykogiannis,31,Left-Back,Greece,€1.50m,Bologna FC 1909
+Emil Holm,25,Right-Back,Sweden,€8.00m,Bologna FC 1909
+Davide Calabria,28,Right-Back,Italy,€7.50m,Bologna FC 1909
+Lorenzo De Silvestri,36,Right-Back,Italy,€400k,Bologna FC 1909
+Nikola Moro,27,Defensive Midfield,Croatia,€5.00m,Bologna FC 1909
+Oussama El Azzouzi,23,Defensive Midfield,Morocco / Netherlands,€2.00m,Bologna FC 1909
+Lewis Ferguson,25,Central Midfield,Scotland,€24.00m,Bologna FC 1909
+Tommaso Pobega,25,Central Midfield,Italy,€10.00m,Bologna FC 1909
+Michel Aebischer,28,Central Midfield,Switzerland,€10.00m,Bologna FC 1909
+Remo Freuler,33,Central Midfield,Switzerland,€6.50m,Bologna FC 1909
+Andri Fannar Baldursson,23,Central Midfield,Iceland,€900k,Bologna FC 1909
+Giovanni Fabbian,22,Attacking Midfield,Italy,€13.00m,Bologna FC 1909
+Jens Odgaard,26,Attacking Midfield,Denmark,€12.00m,Bologna FC 1909
+Benja Domínguez,21,Left Winger,Argentina,€15.00m,Bologna FC 1909
+Nicolò Cambiaghi,24,Left Winger,Italy,€7.00m,Bologna FC 1909
+Estanis Pedrola,21,Left Winger,Spain,€1.80m,Bologna FC 1909
+Dan Ndoye,24,Right Winger,Switzerland / Senegal,€25.00m,Bologna FC 1909
+Riccardo Orsolini,28,Right Winger,Italy,€20.00m,Bologna FC 1909
+Santiago Castro,20,Centre-Forward,Argentina / Italy,€35.00m,Bologna FC 1909
+Thijs Dallinga,24,Centre-Forward,Netherlands,€12.00m,Bologna FC 1909
+Devis Vásquez,27,Goalkeeper,Colombia,€2.00m,FC Empoli
+Jacopo Seghetti,20,Goalkeeper,Italy,€1.00m,FC Empoli
+Marco Silvestri,34,Goalkeeper,Italy,€500k,FC Empoli
+Federico Brancolini,23,Goalkeeper,Italy,€200k,FC Empoli
+Saba Goglichidze,20,Centre-Back,Georgia,€8.00m,FC Empoli
+Mattia Viti,23,Centre-Back,Italy,€6.50m,FC Empoli
+Ardian Ismajli,28,Centre-Back,Albania / Kosovo,€6.00m,FC Empoli
+Luca Marianucci,20,Centre-Back,Italy,€5.00m,FC Empoli
+Saba Sazonov,23,Centre-Back,Georgia / Russia,€2.50m,FC Empoli
+Liberato Cacace,24,Left-Back,New Zealand / Italy,€3.00m,FC Empoli
+Giuseppe Pezzella,27,Left-Back,Italy,€2.50m,FC Empoli
+Tyronne Ebuehi,29,Right-Back,Nigeria / Netherlands,€1.50m,FC Empoli
+Junior Sambia,28,Right-Back,France / Central African Republic,€1.40m,FC Empoli
+Mattia De Sciglio,32,Right-Back,Italy,€1.00m,FC Empoli
+Alberto Grassi,30,Defensive Midfield,Italy,€2.00m,FC Empoli
+Jacopo Fazzini,22,Central Midfield,Italy,€8.00m,FC Empoli
+Youssef Maleh,26,Central Midfield,Morocco / Italy,€4.00m,FC Empoli
+Szymon Żurkowski,27,Central Midfield,Poland,€2.50m,FC Empoli
+Liam Henderson,29,Central Midfield,Scotland,€1.80m,FC Empoli
+Nicolas Haas,29,Central Midfield,Switzerland,€700k,FC Empoli
+Emmanuel Gyasi,31,Right Midfield,Ghana / Italy,€2.00m,FC Empoli
+Tino Anjorin,23,Attacking Midfield,England / Nigeria,€6.00m,FC Empoli
+Viktor Kovalenko,29,Attacking Midfield,Ukraine,€1.00m,FC Empoli
+Ola Solbakken,26,Right Winger,Norway,€2.50m,FC Empoli
+Sebastiano Esposito,22,Second Striker,Italy,€10.00m,FC Empoli
+Christian Kouamé,27,Centre-Forward,Cote d'Ivoire / Italy,€6.00m,FC Empoli
+Lorenzo Colombo,23,Centre-Forward,Italy,€6.00m,FC Empoli
+Pietro Pellegri,24,Centre-Forward,Italy,€2.50m,FC Empoli
+Jean Butez,29,Goalkeeper,France,€3.00m,Como 1907
+Pepe Reina,42,Goalkeeper,Spain,€600k,Como 1907
+Mauro Vigorito,34,Goalkeeper,Italy,€150k,Como 1907
+Pierre Bolchini,26,Goalkeeper,Italy,€50k,Como 1907
+Alberto Dossena,26,Centre-Back,Italy,€7.00m,Como 1907
+Marc Oliver Kempf,30,Centre-Back,Germany,€2.50m,Como 1907
+Edoardo Goldaniga,31,Centre-Back,Italy,€2.00m,Como 1907
+Fellipe Jack,19,Centre-Back,Italy / Brazil,€1.40m,Como 1907
+Álex Valle,21,Left-Back,Spain,€4.50m,Como 1907
+Alberto Moreno,32,Left-Back,Spain,€1.80m,Como 1907
+Ignace Van der Brempt,23,Right-Back,Belgium,€4.00m,Como 1907
+Mërgim Vojvoda,30,Right-Back,Kosovo / Albania,€3.00m,Como 1907
+Ivan Smolcic,24,Right-Back,Croatia,€2.00m,Como 1907
+Máximo Perrone,22,Defensive Midfield,Argentina / Spain,€9.00m,Como 1907
+Yannik Engelhardt,24,Defensive Midfield,Germany,€7.00m,Como 1907
+Maxence Caqueret,25,Central Midfield,France,€15.00m,Como 1907
+Lucas Da Cunha,23,Central Midfield,France / Portugal,€7.00m,Como 1907
+Sergi Roberto,33,Central Midfield,Spain,€2.00m,Como 1907
+Matthias Braunöder,23,Central Midfield,Austria,€1.60m,Como 1907
+Giuseppe Mazzaglia,19,Central Midfield,Italy,€250k,Como 1907
+Alessio Iovine,34,Right Midfield,Italy,€400k,Como 1907
+Nico Paz,20,Attacking Midfield,Argentina / Spain,€35.00m,Como 1907
+Dele Alli,29,Attacking Midfield,England / Nigeria,€3.50m,Como 1907
+Naj Razi,18,Attacking Midfield,Ireland / Algeria,€300k,Como 1907
+Alieu Fadera,23,Left Winger,The Gambia,€5.00m,Como 1907
+Assane Diao,19,Right Winger,Senegal / Spain,€25.00m,Como 1907
+Jonathan Ikoné,27,Right Winger,France / DR Congo,€8.00m,Como 1907
+Gabriel Strefezza,28,Right Winger,Brazil / Italy,€6.00m,Como 1907
+Anastasios Douvikas,25,Centre-Forward,Greece,€8.00m,Como 1907
+Patrick Cutrone,27,Centre-Forward,Italy,€7.00m,Como 1907
+Iván Azón,22,Centre-Forward,Spain,€3.00m,Como 1907
+Alessandro Gabrielloni,30,Centre-Forward,Italy,€1.00m,Como 1907
+Zion Suzuki,22,Goalkeeper,Japan,€14.00m,Parma Calcio 1913
+Edoardo Corvi,24,Goalkeeper,Italy,€350k,Parma Calcio 1913
+Richard Marcone,32,Goalkeeper,Italy / Romania,€250k,Parma Calcio 1913
+Alessandro Circati,21,Centre-Back,Australia / Italy,€8.50m,Parma Calcio 1913
+Giovanni Leoni,18,Centre-Back,Italy,€6.00m,Parma Calcio 1913
+Botond Balogh,22,Centre-Back,Hungary,€2.50m,Parma Calcio 1913
+Alessandro Vogliacco,26,Centre-Back,Italy,€2.00m,Parma Calcio 1913
+Yordan Osorio,31,Centre-Back,Venezuela,€1.70m,Parma Calcio 1913
+Lautaro Valenti,26,Centre-Back,Argentina / Italy,€1.50m,Parma Calcio 1913
+Mathias Løvik,21,Left-Back,Norway,€5.00m,Parma Calcio 1913
+Emanuele Valeri,26,Left-Back,Italy,€3.00m,Parma Calcio 1913
+Enrico Delprato,25,Right-Back,Italy,€6.00m,Parma Calcio 1913
+Antoine Hainaut,23,Right-Back,France,€1.00m,Parma Calcio 1913
+Mandela Keita,23,Defensive Midfield,Belgium / Guinea,€11.00m,Parma Calcio 1913
+Nahuel Estévez,29,Defensive Midfield,Argentina / Spain,€3.50m,Parma Calcio 1913
+Adrián Bernabé,23,Central Midfield,Spain,€15.00m,Parma Calcio 1913
+Simon Sohm,24,Central Midfield,Switzerland / Nigeria,€5.00m,Parma Calcio 1913
+Hernani,31,Central Midfield,Brazil,€2.00m,Parma Calcio 1913
+Drissa Camara,23,Central Midfield,Cote d'Ivoire / Italy,€1.80m,Parma Calcio 1913
+Jacob Ondrejka,22,Left Winger,Sweden,€7.00m,Parma Calcio 1913
+Adrian Benedyczak,24,Left Winger,Poland,€4.50m,Parma Calcio 1913
+Valentin Mihăilă,25,Left Winger,Romania,€3.00m,Parma Calcio 1913
+Dennis Man,26,Right Winger,Romania,€12.50m,Parma Calcio 1913
+Matteo Cancellieri,23,Right Winger,Italy,€5.00m,Parma Calcio 1913
+Pontus Almqvist,25,Right Winger,Sweden,€2.50m,Parma Calcio 1913
+Anas Haj Mohamed,20,Right Winger,Tunisia / Morocco,€1.80m,Parma Calcio 1913
+Mateusz Kowalski,19,Second Striker,Poland,€300k,Parma Calcio 1913
+Ange-Yoan Bonny,21,Centre-Forward,France / Cote d'Ivoire,€20.00m,Parma Calcio 1913
+Mateo Pellegrino,23,Centre-Forward,Argentina / Spain,€3.50m,Parma Calcio 1913
+Gabriel Charpentier,25,Centre-Forward,Congo / France,€1.60m,Parma Calcio 1913
+Milan Djuric,34,Centre-Forward,Bosnia-Herzegovina / Italy,€1.50m,Parma Calcio 1913
+Wladimiro Falcone,30,Goalkeeper,Italy,€4.00m,US Lecce
+Christian Früchtl,25,Goalkeeper,Germany,€1.50m,US Lecce
+Jasper Samooja,21,Goalkeeper,Finland,€75k,US Lecce
+Federico Baschirotto,28,Centre-Back,Italy,€3.80m,US Lecce
+Kialonda Gaspar,27,Centre-Back,Angola,€2.50m,US Lecce
+Gaby Jean,25,Centre-Back,France,€2.00m,US Lecce
+Tiago Gabriel,20,Centre-Back,Portugal,€1.00m,US Lecce
+Sebastian Esposito,20,Centre-Back,Australia / Italy,€200k,US Lecce
+Elijah Scott,19,Centre-Back,Germany / United States,-,US Lecce
+Antonino Gallo,25,Left-Back,Italy,€4.50m,US Lecce
+Marco Sala,25,Left-Back,Italy,€1.00m,US Lecce
+Vernon Addo,19,Left-Back,Netherlands / Ghana,€150k,US Lecce
+Frédéric Guilbert,30,Right-Back,France,€2.50m,US Lecce
+Danilo Veiga,22,Right-Back,Portugal / Brazil,€1.00m,US Lecce
+Ylber Ramadani,29,Defensive Midfield,Albania / Kosovo,€2.20m,US Lecce
+Balthazar Pierret,24,Defensive Midfield,France,€1.50m,US Lecce
+Thórir Jóhann Helgason,24,Central Midfield,Iceland,€2.50m,US Lecce
+Lassana Coulibaly,29,Central Midfield,Mali,€2.50m,US Lecce
+Mohamed Kaba,23,Central Midfield,France / Guinea,€2.30m,US Lecce
+Hamza Rafia,26,Central Midfield,Tunisia / France,€1.70m,US Lecce
+Medon Berisha,21,Central Midfield,Albania / Kosovo,€1.00m,US Lecce
+Joan González,23,Central Midfield,Spain,€800k,US Lecce
+Filip Marchwinski,23,Attacking Midfield,Poland,€3.00m,US Lecce
+Lameck Banda,24,Left Winger,Zambia,€6.00m,US Lecce
+Jesper Karlsson,26,Left Winger,Sweden,€4.50m,US Lecce
+Tete Morente,28,Left Winger,Spain,€2.00m,US Lecce
+Ante Rebić,31,Left Winger,Croatia,€1.50m,US Lecce
+Nicola Sansone,33,Left Winger,Italy / Germany,€400k,US Lecce
+Santiago Pierotti,24,Right Winger,Argentina / Italy,€4.00m,US Lecce
+Konan N’Dri,24,Right Winger,Cote d'Ivoire,€1.50m,US Lecce
+Jeppe Corfitzen,20,Right Winger,Denmark,€400k,US Lecce
+Nikola Krstović,25,Centre-Forward,Montenegro / Serbia,€14.00m,US Lecce
+Rareș Burnete,21,Centre-Forward,Romania,€700k,US Lecce
+Joel Voelkerling Persson,22,Centre-Forward,Sweden,€350k,US Lecce
+Nicola Leali,32,Goalkeeper,Italy,€1.50m,Genoa CFC
+Benjamin Siegrist,33,Goalkeeper,Switzerland,€650k,Genoa CFC
+Daniele Sommariva,27,Goalkeeper,Italy,€100k,Genoa CFC
+Koni De Winter,22,Centre-Back,Belgium,€18.00m,Genoa CFC
+Johan Vásquez,26,Centre-Back,Mexico,€12.00m,Genoa CFC
+Alan Matturro,20,Centre-Back,Uruguay / Italy,€8.00m,Genoa CFC
+Mattia Bani,31,Centre-Back,Italy,€2.00m,Genoa CFC
+Sebastian Otoa,21,Centre-Back,Denmark,€2.00m,Genoa CFC
+Aarón Martín,28,Left-Back,Spain,€6.50m,Genoa CFC
+Honest Ahanor,17,Left-Back,Italy / Nigeria,€3.00m,Genoa CFC
+Alessandro Zanoli,24,Right-Back,Italy,€6.00m,Genoa CFC
+Brooke Norton-Cuffy,21,Right-Back,England / Dominica,€3.50m,Genoa CFC
+Stefano Sabelli,32,Right-Back,Italy,€1.50m,Genoa CFC
+Jean Onana,25,Defensive Midfield,Cameroon,€3.00m,Genoa CFC
+Lior Kassa,19,Defensive Midfield,Israel / Ethiopia,€1.50m,Genoa CFC
+Milan Badelj,36,Defensive Midfield,Croatia,€800k,Genoa CFC
+Morten Frendrup,24,Central Midfield,Denmark,€20.00m,Genoa CFC
+Fabio Miretti,21,Central Midfield,Italy,€14.00m,Genoa CFC
+Patrizio Masini,24,Central Midfield,Italy,€3.50m,Genoa CFC
+Morten Thorsby,29,Central Midfield,Norway,€3.00m,Genoa CFC
+Ruslan Malinovskyi,32,Attacking Midfield,Ukraine,€3.50m,Genoa CFC
+Hugo Cuenca,20,Attacking Midfield,Paraguay / Spain,€300k,Genoa CFC
+Maxwel Cornet,28,Left Winger,Cote d'Ivoire / France,€8.00m,Genoa CFC
+Junior Messias,34,Right Winger,Brazil / Italy,€2.00m,Genoa CFC
+Andrea Pinamonti,25,Centre-Forward,Italy,€16.00m,Genoa CFC
+Vitinha,25,Centre-Forward,Portugal,€10.00m,Genoa CFC
+Jeff Ekhator,18,Centre-Forward,Italy / Nigeria,€5.00m,Genoa CFC
+Caleb Ekuban,31,Centre-Forward,Ghana / Italy,€1.50m,Genoa CFC
+Mario Balotelli,34,Centre-Forward,Italy / Ghana,€500k,Genoa CFC
+Marco Carnesecchi,24,Goalkeeper,Italy,€25.00m,Atalanta BC
+Rui Patrício,37,Goalkeeper,Portugal,€1.00m,Atalanta BC
+Francesco Rossi,34,Goalkeeper,Italy,€100k,Atalanta BC
+Giorgio Scalvini,21,Centre-Back,Italy,€35.00m,Atalanta BC
+Isak Hien,26,Centre-Back,Sweden / Burkina Faso,€30.00m,Atalanta BC
+Odilon Kossounou,24,Centre-Back,Cote d'Ivoire,€25.00m,Atalanta BC
+Stefan Posch,27,Centre-Back,Austria,€10.00m,Atalanta BC
+Sead Kolasinac,31,Centre-Back,Bosnia-Herzegovina / Germany,€10.00m,Atalanta BC
+Berat Djimsiti,32,Centre-Back,Albania / Switzerland,€8.00m,Atalanta BC
+Rafael Tolói,34,Centre-Back,Italy / Brazil,€1.50m,Atalanta BC
+Marten de Roon,34,Defensive Midfield,Netherlands,€7.00m,Atalanta BC
+Ibrahim Sulemana,21,Defensive Midfield,Ghana,€6.00m,Atalanta BC
+Éderson,25,Central Midfield,Brazil,€50.00m,Atalanta BC
+Lazar Samardžić,23,Central Midfield,Serbia / Germany,€20.00m,Atalanta BC
+Mario Pasalic,30,Central Midfield,Croatia,€13.00m,Atalanta BC
+Marco Brescianini,25,Central Midfield,Italy,€8.00m,Atalanta BC
+Raoul Bellanova,24,Right Midfield,Italy,€22.00m,Atalanta BC
+Davide Zappacosta,32,Right Midfield,Italy,€6.00m,Atalanta BC
+Marco Palestra,20,Right Midfield,Italy,€3.00m,Atalanta BC
+Juan Cuadrado,36,Right Midfield,Colombia / Italy,€1.00m,Atalanta BC
+Matteo Ruggeri,22,Left Midfield,Italy,€20.00m,Atalanta BC
+Charles De Ketelaere,24,Attacking Midfield,Belgium,€38.00m,Atalanta BC
+Daniel Maldini,23,Attacking Midfield,Italy / Venezuela,€10.00m,Atalanta BC
+Ademola Lookman,27,Second Striker,Nigeria / England,€60.00m,Atalanta BC
+Mateo Retegui,26,Centre-Forward,Italy / Argentina,€45.00m,Atalanta BC
+Gianluca Scamacca,26,Centre-Forward,Italy,€24.00m,Atalanta BC
+Maduka Okoye,25,Goalkeeper,Nigeria / Germany,€7.50m,Udinese Calcio
+Răzvan Sava,22,Goalkeeper,Romania,€2.50m,Udinese Calcio
+Daniele Padelli,39,Goalkeeper,Italy,€150k,Udinese Calcio
+Edoardo Piana,21,Goalkeeper,Italy,€50k,Udinese Calcio
+Jaka Bijol,26,Centre-Back,Slovenia,€18.00m,Udinese Calcio
+Oumar Solet,25,Centre-Back,France / Central African Republic,€14.00m,Udinese Calcio
+Isaak Touré,22,Centre-Back,France / Cote d'Ivoire,€8.00m,Udinese Calcio
+Thomas Kristensen,23,Centre-Back,Denmark,€6.00m,Udinese Calcio
+Lautaro Giannetti,31,Centre-Back,Argentina / Italy,€2.50m,Udinese Calcio
+Matteo Palma,17,Centre-Back,Germany / Italy,€1.00m,Udinese Calcio
+Christian Kabasele,34,Centre-Back,Belgium / DR Congo,€1.00m,Udinese Calcio
+Jordan Zemura,25,Left-Back,Zimbabwe / England,€5.00m,Udinese Calcio
+Hassane Kamara,31,Left-Back,Cote d'Ivoire / France,€3.50m,Udinese Calcio
+Kingsley Ehizibue,29,Right-Back,Netherlands / Nigeria,€3.00m,Udinese Calcio
+Jesper Karlström,29,Defensive Midfield,Sweden,€3.50m,Udinese Calcio
+Sandi Lovrić,27,Central Midfield,Slovenia / Austria,€8.00m,Udinese Calcio
+Jurgen Ekkelenkamp,25,Central Midfield,Netherlands,€7.50m,Udinese Calcio
+Martín Payero,26,Central Midfield,Argentina / Italy,€6.00m,Udinese Calcio
+Arthur Atta,22,Central Midfield,France / Benin,€2.50m,Udinese Calcio
+Oier Zarraga,26,Central Midfield,Spain,€2.00m,Udinese Calcio
+Rui Modesto,25,Right Midfield,Angola / Portugal,€1.80m,Udinese Calcio
+Simone Pafundi,19,Attacking Midfield,Italy,€6.00m,Udinese Calcio
+David Pejičić,17,Attacking Midfield,Slovenia,€1.00m,Udinese Calcio
+Florian Thauvin,32,Second Striker,France,€5.00m,Udinese Calcio
+Lorenzo Lucca,24,Centre-Forward,Italy,€22.00m,Udinese Calcio
+Brenner,25,Centre-Forward,Brazil,€4.50m,Udinese Calcio
+Keinan Davis,27,Centre-Forward,England,€4.00m,Udinese Calcio
+Damián Pizarro,20,Centre-Forward,Chile,€4.00m,Udinese Calcio
+Iker Bravo,20,Centre-Forward,Spain,€2.50m,Udinese Calcio
+Alexis Sánchez,36,Centre-Forward,Chile,€2.00m,Udinese Calcio
+Lorenzo Montipò,29,Goalkeeper,Italy,€3.00m,Hellas Verona
+Federico Magro,20,Goalkeeper,Italy,€300k,Hellas Verona
+Simone Perilli,30,Goalkeeper,Italy,€200k,Hellas Verona
+Alessandro Berardi,34,Goalkeeper,Italy,€50k,Hellas Verona
+Diego Coppola,21,Centre-Back,Italy / Netherlands,€7.50m,Hellas Verona
+Nicolás Valentini,24,Centre-Back,Argentina / Italy,€4.50m,Hellas Verona
+Flavius Daniliuc,24,Centre-Back,Austria,€4.00m,Hellas Verona
+Daniele Ghilardi,22,Centre-Back,Italy,€4.00m,Hellas Verona
+Paweł Dawidowicz,29,Centre-Back,Poland,€2.50m,Hellas Verona
+Tobias Slotsager,19,Centre-Back,Denmark,€2.00m,Hellas Verona
+Luan Patrick,23,Centre-Back,Brazil,€1.30m,Hellas Verona
+Yllan Okou,22,Centre-Back,France / Cote d'Ivoire,€900k,Hellas Verona
+Domagoj Bradarić,25,Left-Back,Croatia,€4.00m,Hellas Verona
+Martin Frese,27,Left-Back,Denmark,€2.00m,Hellas Verona
+Jackson Tchatchoua,23,Right-Back,Cameroon / Belgium,€8.00m,Hellas Verona
+Davide Faraoni,33,Right-Back,Italy,€1.00m,Hellas Verona
+Daniel Oyegoke,22,Right-Back,England / Nigeria,€400k,Hellas Verona
+Cheikh Niasse,25,Defensive Midfield,Senegal / France,€2.00m,Hellas Verona
+Suat Serdar,28,Central Midfield,Germany / Türkiye,€5.00m,Hellas Verona
+Ondrej Duda,30,Central Midfield,Slovakia,€4.00m,Hellas Verona
+Antoine Bernede,25,Central Midfield,France / Cameroon,€3.50m,Hellas Verona
+Abdou Harroui,27,Central Midfield,Morocco / Netherlands,€2.00m,Hellas Verona
+Darko Lazović,34,Left Midfield,Serbia,€1.00m,Hellas Verona
+Tomas Suslov,22,Attacking Midfield,Slovakia,€6.00m,Hellas Verona
+Grigoris Kastanos,27,Attacking Midfield,Cyprus,€1.80m,Hellas Verona
+Alphadjo Cissè,18,Attacking Midfield,Italy / Guinea,€1.40m,Hellas Verona
+Casper Tengstedt,24,Centre-Forward,Denmark,€7.00m,Hellas Verona
+Amin Sarr,24,Centre-Forward,Sweden / Senegal,€4.00m,Hellas Verona
+Daniel Mosquera,25,Centre-Forward,Colombia,€1.50m,Hellas Verona
+Dailon Rocha Livramento,24,Centre-Forward,Cape Verde / Netherlands,€800k,Hellas Verona
+Mathis Lambourde,19,Centre-Forward,France / Guadeloupe,€500k,Hellas Verona
+Junior Ajayi,20,Centre-Forward,Cote d'Ivoire,€300k,Hellas Verona
+Ivan Provedel,31,Goalkeeper,Italy,€7.00m,SS Lazio
+Christos Mandas,23,Goalkeeper,Greece,€5.00m,SS Lazio
+Davide Renzetti,18,Goalkeeper,Italy,€100k,SS Lazio
+Alessio Furlanetto,23,Goalkeeper,Italy,€50k,SS Lazio
+Mario Gila,24,Centre-Back,Spain,€28.00m,SS Lazio
+Alessio Romagnoli,30,Centre-Back,Italy,€12.00m,SS Lazio
+Samuel Gigot,31,Centre-Back,France,€4.00m,SS Lazio
+Patric,32,Centre-Back,Spain,€4.00m,SS Lazio
+Oliver Provstgaard,21,Centre-Back,Denmark,€3.50m,SS Lazio
+Filipe Bordon,19,Centre-Back,Brazil / Italy,€500k,SS Lazio
+Nuno Tavares,25,Left-Back,Portugal / Cape Verde,€25.00m,SS Lazio
+Luca Pellegrini,26,Left-Back,Italy,€2.50m,SS Lazio
+Adam Marusic,32,Right-Back,Montenegro / Serbia,€4.00m,SS Lazio
+Elseid Hysaj,31,Right-Back,Albania,€2.00m,SS Lazio
+Nicolò Rovella,23,Defensive Midfield,Italy,€28.00m,SS Lazio
+Reda Belahyane,20,Defensive Midfield,Morocco / France,€10.00m,SS Lazio
+Mattéo Guendouzi,26,Central Midfield,France / Morocco,€32.00m,SS Lazio
+Matías Vecino,33,Central Midfield,Uruguay / Italy,€2.50m,SS Lazio
+Toma Bašić,28,Central Midfield,Croatia,€1.00m,SS Lazio
+Manuel Lazzari,31,Right Midfield,Italy,€4.00m,SS Lazio
+Fisayo Dele-Bashiru,24,Attacking Midfield,Nigeria / England,€8.00m,SS Lazio
+Arijon Ibrahimovic,19,Attacking Midfield,Germany / Kosovo,€4.00m,SS Lazio
+Cristo Muñoz,20,Attacking Midfield,Spain,€250k,SS Lazio
+André Anderson,25,Attacking Midfield,Italy / Brazil,€200k,SS Lazio
+Mattia Zaccagni,29,Left Winger,Italy,€20.00m,SS Lazio
+Gustav Isaksen,24,Right Winger,Denmark,€20.00m,SS Lazio
+Tijjani Noslin,25,Right Winger,Netherlands,€12.00m,SS Lazio
+Loum Tchaouna,21,Right Winger,France / Chad,€10.00m,SS Lazio
+Pedro,37,Right Winger,Spain,€1.00m,SS Lazio
+Taty Castellanos,26,Centre-Forward,Argentina,€25.00m,SS Lazio
+Boulaye Dia,28,Centre-Forward,Senegal / France,€15.00m,SS Lazio
+Stefano Turati,23,Goalkeeper,Italy,€7.50m,AC Monza
+Semuel Pizzignacco,23,Goalkeeper,Italy,€800k,AC Monza
+Andrea Mazza,21,Goalkeeper,Italy,€75k,AC Monza
+Tomás Palacios,22,Centre-Back,Argentina,€5.00m,AC Monza
+Andrea Carboni,24,Centre-Back,Italy,€3.40m,AC Monza
+Armando Izzo,33,Centre-Back,Italy,€2.50m,AC Monza
+Stefan Leković,21,Centre-Back,Serbia,€1.80m,AC Monza
+Luca Caldirola,34,Centre-Back,Italy,€800k,AC Monza
+Danilo D'Ambrosio,36,Centre-Back,Italy,€800k,AC Monza
+Arvid Brorsson,26,Centre-Back,Sweden,€600k,AC Monza
+Samuele Birindelli,25,Right-Back,Italy,€3.00m,AC Monza
+Pedro Pereira,27,Right-Back,Portugal,€1.80m,AC Monza
+Leonardo Colombo,19,Defensive Midfield,Italy,€250k,AC Monza
+Matteo Pessina,28,Central Midfield,Italy,€9.00m,AC Monza
+Kacper Urbanski,20,Central Midfield,Poland,€7.00m,AC Monza
+Alessandro Bianco,22,Central Midfield,Italy,€5.00m,AC Monza
+Gaetano Castrovilli,28,Central Midfield,Italy,€3.50m,AC Monza
+Kevin Zeroli,20,Central Midfield,Italy / Nigeria,€3.50m,AC Monza
+Roberto Gagliardini,31,Central Midfield,Italy,€2.00m,AC Monza
+Stefano Sensi,29,Central Midfield,Italy,€1.50m,AC Monza
+Jean-Daniel Akpa Akpro,32,Central Midfield,Cote d'Ivoire / France,€500k,AC Monza
+Patrick Ciurria,30,Right Midfield,Italy,€3.00m,AC Monza
+Georgios Kyriakopoulos,29,Left Midfield,Greece,€3.50m,AC Monza
+Samuele Vignato,21,Attacking Midfield,Italy / Brazil,€3.50m,AC Monza
+Keita Baldé,30,Left Winger,Senegal / Spain,€1.00m,AC Monza
+Omari Forson,20,Right Winger,England / Ghana,€2.00m,AC Monza
+Kevin Martins,20,Right Winger,Italy / Nigeria,€1.50m,AC Monza
+Dany Mota,27,Second Striker,Portugal / Luxembourg,€5.00m,AC Monza
+Gianluca Caprari,31,Second Striker,Italy,€1.50m,AC Monza
+Silvere Ganvoula,28,Centre-Forward,Congo,€2.00m,AC Monza
+Andrea Petagna,29,Centre-Forward,Italy,€1.40m,AC Monza
+Elia Caprile,23,Goalkeeper,Italy,€8.00m,Cagliari Calcio
+Alen Sherri,27,Goalkeeper,Albania,€1.00m,Cagliari Calcio
+Giuseppe Ciocci,23,Goalkeeper,Italy,€100k,Cagliari Calcio
+Sebastiano Luperto,28,Centre-Back,Italy,€3.50m,Cagliari Calcio
+Yerry Mina,30,Centre-Back,Colombia,€3.00m,Cagliari Calcio
+Adam Obert,22,Centre-Back,Slovakia,€3.00m,Cagliari Calcio
+José Luis Palomino,35,Centre-Back,Argentina / Bulgaria,€700k,Cagliari Calcio
+Tommaso Augello,30,Left-Back,Italy,€1.80m,Cagliari Calcio
+Gabriele Zappa,25,Right-Back,Italy,€4.00m,Cagliari Calcio
+Matteo Prati,21,Defensive Midfield,Italy,€7.00m,Cagliari Calcio
+Antoine Makoumbou,26,Defensive Midfield,Congo / France,€4.00m,Cagliari Calcio
+Răzvan Marin,28,Defensive Midfield,Romania,€3.50m,Cagliari Calcio
+Michel Adopo,24,Central Midfield,France / Cote d'Ivoire,€3.00m,Cagliari Calcio
+Alessandro Deiola,29,Central Midfield,Italy,€1.60m,Cagliari Calcio
+Nadir Zortea,25,Right Midfield,Italy,€4.50m,Cagliari Calcio
+Jakub Jankto,29,Left Midfield,Czech Republic,€1.00m,Cagliari Calcio
+Gianluca Gaetano,25,Attacking Midfield,Italy,€4.00m,Cagliari Calcio
+Nicolas Viola,35,Attacking Midfield,Italy,€1.00m,Cagliari Calcio
+Florinel Coman,27,Left Winger,Romania,€6.00m,Cagliari Calcio
+Mattia Felici,24,Left Winger,Italy,€3.00m,Cagliari Calcio
+Roberto Piccoli,24,Centre-Forward,Italy,€8.00m,Cagliari Calcio
+Zito Luvumbo,23,Centre-Forward,Angola,€5.50m,Cagliari Calcio
+Kingstone Mutandwa,22,Centre-Forward,Zambia,€1.00m,Cagliari Calcio
+Leonardo Pavoletti,36,Centre-Forward,Italy,€700k,Cagliari Calcio
+Josep Martínez,26,Goalkeeper,Spain,€12.00m,Inter Milan
+Yann Sommer,36,Goalkeeper,Switzerland,€4.00m,Inter Milan
+Raffaele Di Gennaro,31,Goalkeeper,Italy,€300k,Inter Milan
+Alessandro Bastoni,26,Centre-Back,Italy,€80.00m,Inter Milan
+Benjamin Pavard,29,Centre-Back,France,€30.00m,Inter Milan
+Yann Bisseck,24,Centre-Back,Germany / Cameroon,€30.00m,Inter Milan
+Stefan de Vrij,33,Centre-Back,Netherlands,€7.00m,Inter Milan
+Francesco Acerbi,37,Centre-Back,Italy,€3.00m,Inter Milan
+Federico Dimarco,27,Left-Back,Italy,€60.00m,Inter Milan
+Carlos Augusto,26,Left-Back,Brazil / Italy,€22.00m,Inter Milan
+Denzel Dumfries,29,Right-Back,Netherlands / Aruba,€28.00m,Inter Milan
+Matteo Darmian,35,Right-Back,Italy,€4.00m,Inter Milan
+Hakan Çalhanoğlu,31,Defensive Midfield,Türkiye / Germany,€35.00m,Inter Milan
+Kristjan Asllani,23,Defensive Midfield,Albania / Italy,€15.00m,Inter Milan
+Nicolò Barella,28,Central Midfield,Italy,€80.00m,Inter Milan
+Davide Frattesi,25,Central Midfield,Italy,€32.00m,Inter Milan
+Piotr Zieliński,30,Central Midfield,Poland / Italy,€14.00m,Inter Milan
+Henrikh Mkhitaryan,36,Central Midfield,Armenia,€4.00m,Inter Milan
+Nicola Zalewski,23,Left Midfield,Poland,€10.00m,Inter Milan
+Valentín Carboni,20,Attacking Midfield,Argentina / Italy,€12.00m,Inter Milan
+Joaquín Correa,30,Second Striker,Argentina / Italy,€3.00m,Inter Milan
+Lautaro Martínez,27,Centre-Forward,Argentina,€95.00m,Inter Milan
+Marcus Thuram,27,Centre-Forward,France / Guadeloupe,€75.00m,Inter Milan
+Mehdi Taremi,32,Centre-Forward,Iran,€5.00m,Inter Milan
+Marko Arnautovic,36,Centre-Forward,Austria / Serbia,€3.50m,Inter Milan
+Michele Di Gregorio,27,Goalkeeper,Italy,€18.00m,Juventus FC
+Mattia Perin,32,Goalkeeper,Italy,€3.00m,Juventus FC
+Carlo Pinsoglio,35,Goalkeeper,Italy,€200k,Juventus FC
+Bremer,28,Centre-Back,Brazil,€50.00m,Juventus FC
+Pierre Kalulu,24,Centre-Back,France / DR Congo,€26.00m,Juventus FC
+Federico Gatti,26,Centre-Back,Italy,€25.00m,Juventus FC
+Lloyd Kelly,26,Centre-Back,England / Jamaica,€18.00m,Juventus FC
+Renato Veiga,21,Centre-Back,Portugal,€18.00m,Juventus FC
+Andrea Cambiaso,25,Left-Back,Italy,€40.00m,Juventus FC
+Juan Cabal,24,Left-Back,Colombia,€9.00m,Juventus FC
+Jonas Rouhi,21,Left-Back,Sweden / Morocco,€2.00m,Juventus FC
+Nicolò Savona,22,Right-Back,Italy,€14.00m,Juventus FC
+Alberto Costa,21,Right-Back,Portugal,€10.00m,Juventus FC
+Manuel Locatelli,27,Defensive Midfield,Italy,€28.00m,Juventus FC
+Khéphren Thuram,24,Central Midfield,France / Guadeloupe,€40.00m,Juventus FC
+Douglas Luiz,27,Central Midfield,Brazil,€38.00m,Juventus FC
+Weston McKennie,26,Central Midfield,United States,€24.00m,Juventus FC
+Teun Koopmeiners,27,Attacking Midfield,Netherlands,€40.00m,Juventus FC
+Vasilije Adžić,19,Attacking Midfield,Montenegro,€3.00m,Juventus FC
+Kenan Yıldız,20,Left Winger,Türkiye / Germany,€45.00m,Juventus FC
+Samuel Mbangula,21,Left Winger,Belgium / DR Congo,€14.00m,Juventus FC
+Francisco Conceição,22,Right Winger,Portugal,€36.00m,Juventus FC
+Nico González,27,Right Winger,Argentina / Italy,€28.00m,Juventus FC
+Timothy Weah,25,Right Winger,United States / France,€17.00m,Juventus FC
+Dušan Vlahović,25,Centre-Forward,Serbia,€45.00m,Juventus FC
+Randal Kolo Muani,26,Centre-Forward,France / DR Congo,€30.00m,Juventus FC
+Arkadiusz Milik,31,Centre-Forward,Poland,€2.00m,Juventus FC
+David de Gea,34,Goalkeeper,Spain,€5.00m,ACF Fiorentina
+Tommaso Martinelli,19,Goalkeeper,Italy,€1.80m,ACF Fiorentina
+Pietro Terracciano,35,Goalkeeper,Italy,€1.50m,ACF Fiorentina
+Pietro Comuzzo,20,Centre-Back,Italy,€25.00m,ACF Fiorentina
+Luca Ranieri,26,Centre-Back,Italy,€12.00m,ACF Fiorentina
+Marin Pongračić,27,Centre-Back,Croatia / Germany,€10.00m,ACF Fiorentina
+Matías Moreno,21,Centre-Back,Argentina,€4.00m,ACF Fiorentina
+Pablo Marí,31,Centre-Back,Spain,€3.50m,ACF Fiorentina
+Robin Gosens,30,Left-Back,Germany / Netherlands,€8.00m,ACF Fiorentina
+Fabiano Parisi,24,Left-Back,Italy,€5.00m,ACF Fiorentina
+Dodô,26,Right-Back,Brazil,€22.00m,ACF Fiorentina
+Yacine Adli,24,Defensive Midfield,France / Algeria,€15.00m,ACF Fiorentina
+Rolando Mandragora,27,Defensive Midfield,Italy,€10.00m,ACF Fiorentina
+Danilo Cataldi,30,Defensive Midfield,Italy,€4.00m,ACF Fiorentina
+Nicolò Fagioli,24,Central Midfield,Italy,€18.00m,ACF Fiorentina
+Amir Richardson,23,Central Midfield,Morocco / France,€9.00m,ACF Fiorentina
+Michael Folorunsho,27,Central Midfield,Italy / Nigeria,€7.00m,ACF Fiorentina
+Edoardo Bove,22,Central Midfield,Italy,€5.00m,ACF Fiorentina
+Cher Ndour,20,Central Midfield,Italy / Senegal,€5.00m,ACF Fiorentina
+Lucas Beltrán,24,Attacking Midfield,Argentina / Italy,€18.00m,ACF Fiorentina
+Nicolò Zaniolo,25,Attacking Midfield,Italy,€16.00m,ACF Fiorentina
+Andrea Colpani,26,Attacking Midfield,Italy,€12.00m,ACF Fiorentina
+Maat Daniel Caprini,19,Left Winger,Italy / France,€2.00m,ACF Fiorentina
+Albert Gudmundsson,27,Second Striker,Iceland,€23.00m,ACF Fiorentina
+Moise Kean,25,Centre-Forward,Italy / Cote d'Ivoire,€40.00m,ACF Fiorentina
+Filip Stanković,23,Goalkeeper,Serbia,€6.00m,Venezia FC
+Andrei Radu,27,Goalkeeper,Romania,€2.50m,Venezia FC
+Jesse Joronen,32,Goalkeeper,Finland,€600k,Venezia FC
+Matteo Grandi,32,Goalkeeper,Italy,€150k,Venezia FC
+Jay Idzes,24,Centre-Back,Indonesia / Netherlands,€5.00m,Venezia FC
+Joël Schingtienne,22,Centre-Back,Belgium / DR Congo,€3.00m,Venezia FC
+Michael Svoboda,26,Centre-Back,Austria,€3.00m,Venezia FC
+Fali Candé,27,Centre-Back,Guinea-Bissau / Portugal,€2.00m,Venezia FC
+Alessandro Marcandalli,22,Centre-Back,Italy / Nigeria,€2.00m,Venezia FC
+Marin Šverko,27,Centre-Back,Croatia / Germany,€1.20m,Venezia FC
+Ridgeciano Haps,31,Left-Back,Suriname / Netherlands,€1.00m,Venezia FC
+Franco Carboni,22,Left-Back,Argentina / Italy,€1.00m,Venezia FC
+Richie Sagrado,21,Right-Back,Belgium,€2.00m,Venezia FC
+Francesco Zampano,31,Right-Back,Italy,€1.10m,Venezia FC
+Cheick Condé,24,Defensive Midfield,Guinea,€2.00m,Venezia FC
+Hans Nicolussi Caviglia,24,Central Midfield,Italy,€8.00m,Venezia FC
+Gianluca Busio,22,Central Midfield,United States / Italy,€6.50m,Venezia FC
+Kike Pérez,28,Central Midfield,Spain,€2.80m,Venezia FC
+Mikael Egill Ellertsson,23,Central Midfield,Iceland,€2.80m,Venezia FC
+Alfred Duncan,32,Central Midfield,Ghana / Italy,€2.50m,Venezia FC
+Issa Doumbia,21,Central Midfield,Italy / Cote d'Ivoire,€2.00m,Venezia FC
+Domen Crnigoj,29,Central Midfield,Slovenia,€900k,Venezia FC
+Bjarki Bjarkason,25,Left Midfield,Iceland,€800k,Venezia FC
+Gaetano Oristanio,22,Attacking Midfield,Italy,€6.50m,Venezia FC
+John Yeboah,24,Attacking Midfield,Ecuador / Germany,€2.50m,Venezia FC
+Saad El Haddad,19,Attacking Midfield,Morocco / Italy,€250k,Venezia FC
+Alessio Zerbin,26,Left Winger,Italy,€4.00m,Venezia FC
+Daniel Fila,22,Centre-Forward,Czech Republic,€3.00m,Venezia FC
+Christian Gytkjær,35,Centre-Forward,Denmark,€700k,Venezia FC
+Mirko Marić,29,Centre-Forward,Croatia / Bosnia-Herzegovina,€700k,Venezia FC
+Mile Svilar,25,Goalkeeper,Serbia / Belgium,€17.00m,AS Roma
+Pierluigi Gollini,30,Goalkeeper,Italy,€1.00m,AS Roma
+Renato Marin,18,Goalkeeper,Italy / Brazil,€500k,AS Roma
+Evan Ndicka,25,Centre-Back,Cote d'Ivoire / France,€25.00m,AS Roma
+Gianluca Mancini,29,Centre-Back,Italy,€18.00m,AS Roma
+Victor Nelsson,26,Centre-Back,Denmark,€14.00m,AS Roma
+Mats Hummels,36,Centre-Back,Germany,€2.50m,AS Roma
+Angeliño,28,Left-Back,Spain,€15.00m,AS Roma
+Anass Salah-Eddine,23,Left-Back,Netherlands / Morocco,€8.00m,AS Roma
+Devyne Rensch,22,Right-Back,Netherlands / Suriname,€12.00m,AS Roma
+Zeki Çelik,28,Right-Back,Türkiye,€5.00m,AS Roma
+Saud Abdulhamid,25,Right-Back,Saudi Arabia,€4.00m,AS Roma
+Buba Sangaré,17,Right-Back,Spain / Mali,€1.00m,AS Roma
+Lucas Gourna-Douath,21,Defensive Midfield,France / Central African Republic,€8.00m,AS Roma
+Bryan Cristante,30,Defensive Midfield,Italy / Canada,€7.00m,AS Roma
+Leandro Paredes,30,Defensive Midfield,Argentina,€5.00m,AS Roma
+Manu Koné,23,Central Midfield,France / Cote d'Ivoire,€35.00m,AS Roma
+Niccolò Pisilli,20,Central Midfield,Italy,€12.00m,AS Roma
+Lorenzo Pellegrini,28,Attacking Midfield,Italy,€14.00m,AS Roma
+Tommaso Baldanzi,22,Attacking Midfield,Italy,€14.00m,AS Roma
+Stephan El Shaarawy,32,Left Winger,Italy / Egypt,€5.00m,AS Roma
+Matías Soulé,22,Right Winger,Argentina / Italy,€22.00m,AS Roma
+Alexis Saelemaekers,25,Right Winger,Belgium,€17.00m,AS Roma
+Paulo Dybala,31,Second Striker,Argentina / Italy,€8.00m,AS Roma
+Artem Dovbyk,27,Centre-Forward,Ukraine,€30.00m,AS Roma
+Eldor Shomurodov,29,Centre-Forward,Uzbekistan,€4.00m,AS Roma
+Vanja Milinković-Savić,28,Goalkeeper,Serbia / Spain,€12.00m,Torino FC
+Alberto Paleari,32,Goalkeeper,Italy,€500k,Torino FC
+Antonio Donnarumma,34,Goalkeeper,Italy,€300k,Torino FC
+Saúl Coco,26,Centre-Back,Equatorial Guinea / Spain,€12.00m,Torino FC
+Perr Schuurs,25,Centre-Back,Netherlands,€10.00m,Torino FC
+Sebastian Walukiewicz,25,Centre-Back,Poland,€5.00m,Torino FC
+Guillermo Maripán,31,Centre-Back,Chile,€4.00m,Torino FC
+Adam Masina,31,Centre-Back,Morocco / Italy,€1.50m,Torino FC
+Cristiano Biraghi,32,Left-Back,Italy,€2.00m,Torino FC
+Samuele Ricci,23,Defensive Midfield,Italy,€30.00m,Torino FC
+Adrien Tamèze,31,Defensive Midfield,France / Cameroon,€3.50m,Torino FC
+Ivan Ilić,24,Central Midfield,Serbia,€18.00m,Torino FC
+Cesare Casadei,22,Central Midfield,Italy,€15.00m,Torino FC
+Gvidas Gineitis,21,Central Midfield,Lithuania,€5.00m,Torino FC
+Emirhan İlkhan,20,Central Midfield,Türkiye,€2.50m,Torino FC
+Karol Linetty,30,Central Midfield,Poland,€2.50m,Torino FC
+Marcus Pedersen,24,Right Midfield,Norway,€3.50m,Torino FC
+Ali Dembélé,21,Right Midfield,France / Mali,€800k,Torino FC
+Borna Sosa,27,Left Midfield,Croatia / Germany,€6.00m,Torino FC
+Valentino Lazaro,29,Left Midfield,Austria,€4.50m,Torino FC
+Eljif Elmas,25,Attacking Midfield,North Macedonia,€14.00m,Torino FC
+Nikola Vlašić,27,Attacking Midfield,Croatia,€8.00m,Torino FC
+Alieu Njie,19,Left Winger,Sweden / The Gambia,€2.50m,Torino FC
+Yann Karamoh,26,Left Winger,France / Cote d'Ivoire,€2.20m,Torino FC
+Zanos Savva,19,Right Winger,Cyprus,€1.00m,Torino FC
+Ché Adams,28,Centre-Forward,Scotland / England,€15.00m,Torino FC
+Antonio Sanabria,29,Centre-Forward,Paraguay / Spain,€4.00m,Torino FC
+Duván Zapata,34,Centre-Forward,Colombia,€4.00m,Torino FC
+Amine Salama,24,Centre-Forward,France / Morocco,€1.80m,Torino FC
