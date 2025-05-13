@@ -1,0 +1,543 @@
+Name,Age,Position,Nationality,Market Value,Club Name
+André Onana,29,Goalkeeper,Cameroon,€32.00m,Manchester United
+Altay Bayındır,27,Goalkeeper,Türkiye,€10.00m,Manchester United
+Tom Heaton,39,Goalkeeper,England,€250k,Manchester United
+Leny Yoro,19,Centre-Back,France / Cote d'Ivoire,€55.00m,Manchester United
+Lisandro Martínez,27,Centre-Back,Argentina,€45.00m,Manchester United
+Matthijs de Ligt,25,Centre-Back,Netherlands,€40.00m,Manchester United
+Harry Maguire,32,Centre-Back,England,€15.00m,Manchester United
+Victor Lindelöf,30,Centre-Back,Sweden,€10.00m,Manchester United
+Ayden Heaven,18,Centre-Back,England,€1.50m,Manchester United
+Jonny Evans,37,Centre-Back,Northern Ireland,€1.50m,Manchester United
+Patrick Dorgu,20,Left-Back,Denmark / Nigeria,€25.00m,Manchester United
+Luke Shaw,29,Left-Back,England,€16.00m,Manchester United
+Harry Amass,18,Left-Back,England,-,Manchester United
+Diogo Dalot,26,Right-Back,Portugal,€35.00m,Manchester United
+Noussair Mazraoui,27,Right-Back,Morocco / Netherlands,€32.00m,Manchester United
+Manuel Ugarte,24,Defensive Midfield,Uruguay,€50.00m,Manchester United
+Casemiro,33,Defensive Midfield,Brazil / Spain,€12.00m,Manchester United
+Toby Collyer,21,Defensive Midfield,England,€5.00m,Manchester United
+Kobbie Mainoo,20,Central Midfield,England / Ghana,€55.00m,Manchester United
+Christian Eriksen,33,Central Midfield,Denmark,€6.00m,Manchester United
+Bruno Fernandes,30,Attacking Midfield,Portugal,€55.00m,Manchester United
+Alejandro Garnacho,20,Attacking Midfield,Argentina / Spain,€45.00m,Manchester United
+Mason Mount,26,Attacking Midfield,England,€28.00m,Manchester United
+Amad Diallo,22,Right Winger,Cote d'Ivoire / Italy,€40.00m,Manchester United
+Rasmus Højlund,22,Centre-Forward,Denmark,€45.00m,Manchester United
+Joshua Zirkzee,23,Centre-Forward,Netherlands / Nigeria,€35.00m,Manchester United
+Chido Obi,17,Centre-Forward,Denmark / Nigeria,€5.00m,Manchester United
+Kepa Arrizabalaga,30,Goalkeeper,Spain,€11.00m,AFC Bournemouth
+Will Dennis,24,Goalkeeper,England,€350k,AFC Bournemouth
+Dean Huijsen,20,Centre-Back,Spain / Netherlands,€42.00m,AFC Bournemouth
+Ilya Zabarnyi,22,Centre-Back,Ukraine,€40.00m,AFC Bournemouth
+Marcos Senesi,28,Centre-Back,Argentina / Italy,€24.00m,AFC Bournemouth
+James Hill,23,Centre-Back,England,€2.00m,AFC Bournemouth
+Matai Akinmboni,18,Centre-Back,United States / Nigeria,€1.00m,AFC Bournemouth
+Max Kinsey,20,Centre-Back,England,-,AFC Bournemouth
+Milos Kerkez,21,Left-Back,Hungary / Serbia,€35.00m,AFC Bournemouth
+Julio Soler,20,Left-Back,Argentina / Paraguay,€8.00m,AFC Bournemouth
+Julián Araujo,23,Right-Back,Mexico / United States,€10.00m,AFC Bournemouth
+Adam Smith,34,Right-Back,England,€1.00m,AFC Bournemouth
+Tyler Adams,26,Defensive Midfield,United States,€18.00m,AFC Bournemouth
+Ryan Christie,30,Defensive Midfield,Scotland,€12.00m,AFC Bournemouth
+Alex Scott,21,Central Midfield,England / Guernsey,€20.00m,AFC Bournemouth
+Lewis Cook,28,Central Midfield,England,€15.00m,AFC Bournemouth
+Antoine Semenyo,25,Left Midfield,Ghana / England,€35.00m,AFC Bournemouth
+Marcus Tavernier,26,Left Midfield,England,€20.00m,AFC Bournemouth
+Justin Kluivert,26,Attacking Midfield,Netherlands / Suriname,€35.00m,AFC Bournemouth
+Dango Ouattara,23,Left Winger,Burkina Faso,€25.00m,AFC Bournemouth
+Luis Sinisterra,25,Left Winger,Colombia,€17.00m,AFC Bournemouth
+David Brooks,27,Right Winger,Wales / England,€12.00m,AFC Bournemouth
+Evanilson,25,Centre-Forward,Brazil,€35.00m,AFC Bournemouth
+Enes Ünal,28,Centre-Forward,Türkiye,€13.00m,AFC Bournemouth
+Daniel Jebbison,21,Centre-Forward,Canada / England,€4.00m,AFC Bournemouth
+Aaron Ramsdale,26,Goalkeeper,England,€16.00m,Southampton FC
+Gavin Bazunu,23,Goalkeeper,Ireland / Nigeria,€11.00m,Southampton FC
+Joe Lumley,30,Goalkeeper,England,€600k,Southampton FC
+Alex McCarthy,35,Goalkeeper,England,€500k,Southampton FC
+Taylor Harwood-Bellis,23,Centre-Back,England,€25.00m,Southampton FC
+Armel Bella-Kotchap,23,Centre-Back,Germany / Cameroon,€12.00m,Southampton FC
+Jan Bednarek,29,Centre-Back,Poland,€11.00m,Southampton FC
+Nathan Wood,22,Centre-Back,England / Jamaica,€3.80m,Southampton FC
+Jack Stephens,31,Centre-Back,England,€2.00m,Southampton FC
+Joachim Kayi Sanda,18,Centre-Back,France / DR Congo,€1.50m,Southampton FC
+Juan Larios,21,Left-Back,Spain,€4.50m,Southampton FC
+Ryan Manning,28,Left-Back,Ireland,€3.50m,Southampton FC
+Welington,24,Left-Back,Brazil,€3.50m,Southampton FC
+Charlie Taylor,31,Left-Back,England,€2.80m,Southampton FC
+Kyle Walker-Peters,28,Right-Back,England / Jamaica,€18.00m,Southampton FC
+Yukinari Sugawara,24,Right-Back,Japan,€12.00m,Southampton FC
+James Bree,27,Right-Back,England,€2.50m,Southampton FC
+Lesley Ugochukwu,21,Defensive Midfield,France / Nigeria,€20.00m,Southampton FC
+Flynn Downes,26,Defensive Midfield,England,€15.00m,Southampton FC
+Mateus Fernandes,20,Central Midfield,Portugal,€15.00m,Southampton FC
+Will Smallbone,25,Central Midfield,Ireland / England,€7.00m,Southampton FC
+Joe Aribo,28,Central Midfield,Nigeria / England,€6.00m,Southampton FC
+Albert Grønbæk,23,Attacking Midfield,Denmark,€12.00m,Southampton FC
+Adam Lallana,37,Attacking Midfield,England,€900k,Southampton FC
+Kamaldeen Sulemana,23,Left Winger,Ghana,€13.00m,Southampton FC
+Ryan Fraser,31,Left Winger,Scotland,€3.00m,Southampton FC
+Tyler Dibling,19,Right Winger,England,€25.00m,Southampton FC
+Cameron Archer,23,Centre-Forward,England / Jamaica,€14.00m,Southampton FC
+Paul Onuachu,30,Centre-Forward,Nigeria,€8.00m,Southampton FC
+Ross Stewart,28,Centre-Forward,Scotland,€4.50m,Southampton FC
+Robert Sánchez,27,Goalkeeper,Spain / England,€20.00m,Chelsea FC
+Filip Jørgensen,23,Goalkeeper,Denmark / Sweden,€20.00m,Chelsea FC
+Marcus Bettinelli,32,Goalkeeper,England / Italy,€800k,Chelsea FC
+Lucas Bergström,22,Goalkeeper,Finland,€700k,Chelsea FC
+Levi Colwill,22,Centre-Back,England,€55.00m,Chelsea FC
+Wesley Fofana,24,Centre-Back,France / Cote d'Ivoire,€27.00m,Chelsea FC
+Benoît Badiashile,24,Centre-Back,France / DR Congo,€25.00m,Chelsea FC
+Tosin Adarabioyo,27,Centre-Back,England / Nigeria,€20.00m,Chelsea FC
+Trevoh Chalobah,25,Centre-Back,England / Sierra Leone,€17.00m,Chelsea FC
+Aarón Anselmino,20,Centre-Back,Argentina,€8.00m,Chelsea FC
+Marc Cucurella,26,Left-Back,Spain,€30.00m,Chelsea FC
+Malo Gusto,21,Right-Back,France / Martinique,€35.00m,Chelsea FC
+Reece James,25,Right-Back,England,€30.00m,Chelsea FC
+Josh Acheampong,19,Right-Back,England / Ghana,€5.00m,Chelsea FC
+Moisés Caicedo,23,Defensive Midfield,Ecuador,€80.00m,Chelsea FC
+Roméo Lavia,21,Defensive Midfield,Belgium,€40.00m,Chelsea FC
+Enzo Fernández,24,Central Midfield,Argentina,€75.00m,Chelsea FC
+Kiernan Dewsbury-Hall,26,Central Midfield,England,€22.00m,Chelsea FC
+Mathis Amougou,19,Central Midfield,France / Cameroon,€10.00m,Chelsea FC
+Cole Palmer,23,Attacking Midfield,England,€130.00m,Chelsea FC
+Omari Kellyman,19,Attacking Midfield,England / Northern Ireland,€1.50m,Chelsea FC
+Mykhaylo Mudryk,24,Left Winger,Ukraine,€30.00m,Chelsea FC
+Jadon Sancho,25,Left Winger,England / Jamaica,€30.00m,Chelsea FC
+Tyrique George,19,Left Winger,England / Nigeria,€3.50m,Chelsea FC
+Pedro Neto,25,Right Winger,Portugal,€50.00m,Chelsea FC
+Noni Madueke,23,Right Winger,England / Nigeria,€40.00m,Chelsea FC
+Nicolas Jackson,23,Centre-Forward,Senegal / The Gambia,€55.00m,Chelsea FC
+Christopher Nkunku,27,Centre-Forward,France / DR Congo,€45.00m,Chelsea FC
+David Datro Fofana,22,Centre-Forward,Cote d'Ivoire,€8.50m,Chelsea FC
+Marc Guiu,19,Centre-Forward,Spain,€8.00m,Chelsea FC
+Mark Flekken,31,Goalkeeper,Netherlands,€10.00m,Brentford FC
+Hákon Rafn Valdimarsson,23,Goalkeeper,Iceland,€2.50m,Brentford FC
+Nathan Collins,24,Centre-Back,Ireland,€28.00m,Brentford FC
+Sepp van den Berg,23,Centre-Back,Netherlands,€20.00m,Brentford FC
+Kristoffer Ajer,27,Centre-Back,Norway,€18.00m,Brentford FC
+Ethan Pinnock,31,Centre-Back,Jamaica / England,€8.00m,Brentford FC
+Ben Mee,35,Centre-Back,England,€900k,Brentford FC
+Ji-soo Kim,20,Centre-Back,"Korea, South",€600k,Brentford FC
+Keane Lewis-Potter,24,Left-Back,England,€23.00m,Brentford FC
+Rico Henry,27,Left-Back,England / Jamaica,€17.00m,Brentford FC
+Aaron Hickey,22,Right-Back,Scotland,€18.00m,Brentford FC
+Michael Kayode,20,Right-Back,Italy / Nigeria,€18.00m,Brentford FC
+Vitaly Janelt,27,Defensive Midfield,Germany / Bosnia-Herzegovina,€22.00m,Brentford FC
+Christian Nørgaard,31,Defensive Midfield,Denmark,€12.00m,Brentford FC
+Yunus Emre Konak,19,Defensive Midfield,Türkiye,€4.50m,Brentford FC
+Mathias Jensen,29,Central Midfield,Denmark,€16.00m,Brentford FC
+Yegor Yarmolyuk,21,Central Midfield,Ukraine,€12.00m,Brentford FC
+Josh Dasilva,26,Central Midfield,England / Angola,€7.00m,Brentford FC
+Paris Maghoma,24,Central Midfield,England / DR Congo,€600k,Brentford FC
+Mikkel Damsgaard,24,Attacking Midfield,Denmark,€25.00m,Brentford FC
+Fábio Carvalho,22,Attacking Midfield,Portugal / England,€15.00m,Brentford FC
+Kevin Schade,23,Left Winger,Germany / Nigeria,€27.00m,Brentford FC
+Gustavo Nunes,19,Left Winger,Brazil,€10.00m,Brentford FC
+Bryan Mbeumo,25,Right Winger,Cameroon / France,€50.00m,Brentford FC
+Yoane Wissa,28,Centre-Forward,DR Congo / France,€30.00m,Brentford FC
+Igor Thiago,23,Centre-Forward,Brazil / Bulgaria,€22.00m,Brentford FC
+Guglielmo Vicario,28,Goalkeeper,Italy,€35.00m,Tottenham Hotspur
+Antonín Kinský,22,Goalkeeper,Czech Republic,€15.00m,Tottenham Hotspur
+Fraser Forster,37,Goalkeeper,England,€1.20m,Tottenham Hotspur
+Brandon Austin,26,Goalkeeper,England / United States,€600k,Tottenham Hotspur
+Alfie Whiteman,26,Goalkeeper,England,€500k,Tottenham Hotspur
+Cristian Romero,27,Centre-Back,Argentina,€55.00m,Tottenham Hotspur
+Micky van de Ven,24,Centre-Back,Netherlands,€55.00m,Tottenham Hotspur
+Kevin Danso,26,Centre-Back,Austria,€25.00m,Tottenham Hotspur
+Radu Drăgușin,23,Centre-Back,Romania,€25.00m,Tottenham Hotspur
+Ben Davies,32,Centre-Back,Wales,€8.00m,Tottenham Hotspur
+Destiny Udogie,22,Left-Back,Italy / Nigeria,€45.00m,Tottenham Hotspur
+Sergio Reguilón,28,Left-Back,Spain,€8.00m,Tottenham Hotspur
+Pedro Porro,25,Right-Back,Spain,€45.00m,Tottenham Hotspur
+Archie Gray,19,Right-Back,England / Scotland,€35.00m,Tottenham Hotspur
+Djed Spence,24,Right-Back,England / Jamaica,€15.00m,Tottenham Hotspur
+Rodrigo Bentancur,27,Defensive Midfield,Uruguay,€30.00m,Tottenham Hotspur
+Yves Bissouma,28,Defensive Midfield,Mali / Cote d'Ivoire,€28.00m,Tottenham Hotspur
+Pape Matar Sarr,22,Central Midfield,Senegal,€40.00m,Tottenham Hotspur
+Lucas Bergvall,19,Central Midfield,Sweden,€25.00m,Tottenham Hotspur
+Dejan Kulusevski,25,Attacking Midfield,Sweden / North Macedonia,€60.00m,Tottenham Hotspur
+James Maddison,28,Attacking Midfield,England,€50.00m,Tottenham Hotspur
+Heung-min Son,32,Left Winger,"Korea, South",€30.00m,Tottenham Hotspur
+Wilson Odobert,20,Left Winger,France / Martinique,€18.00m,Tottenham Hotspur
+Mikey Moore,17,Left Winger,England,€15.00m,Tottenham Hotspur
+Timo Werner,29,Left Winger,Germany,€10.00m,Tottenham Hotspur
+Brennan Johnson,23,Right Winger,Wales / England,€50.00m,Tottenham Hotspur
+Dominic Solanke,27,Centre-Forward,England / Nigeria,€45.00m,Tottenham Hotspur
+Mathys Tel,20,Centre-Forward,France / Guadeloupe,€40.00m,Tottenham Hotspur
+Richarlison,28,Centre-Forward,Brazil,€25.00m,Tottenham Hotspur
+Dane Scarlett,21,Centre-Forward,England / Jamaica,€1.80m,Tottenham Hotspur
+Nick Pope,33,Goalkeeper,England,€10.00m,Newcastle United
+Odysseas Vlachodimos,31,Goalkeeper,Greece / Germany,€7.00m,Newcastle United
+Martin Dúbravka,36,Goalkeeper,Slovakia,€1.00m,Newcastle United
+Mark Gillespie,33,Goalkeeper,England,€300k,Newcastle United
+John Ruddy,38,Goalkeeper,England,€200k,Newcastle United
+Sven Botman,25,Centre-Back,Netherlands,€45.00m,Newcastle United
+Fabian Schär,33,Centre-Back,Switzerland,€9.00m,Newcastle United
+Dan Burn,33,Centre-Back,England,€7.00m,Newcastle United
+Jamaal Lascelles,31,Centre-Back,England / Barbados,€6.00m,Newcastle United
+Lewis Hall,20,Left-Back,England,€30.00m,Newcastle United
+Matt Targett,29,Left-Back,England / Scotland,€8.00m,Newcastle United
+Jamal Lewis,27,Left-Back,Northern Ireland / England,€3.00m,Newcastle United
+Tino Livramento,22,Right-Back,England / Scotland,€35.00m,Newcastle United
+Kieran Trippier,34,Right-Back,England,€5.00m,Newcastle United
+Emil Krafth,30,Right-Back,Sweden,€2.50m,Newcastle United
+Bruno Guimarães,27,Defensive Midfield,Brazil / Spain,€80.00m,Newcastle United
+Sandro Tonali,25,Central Midfield,Italy,€45.00m,Newcastle United
+Joelinton,28,Central Midfield,Brazil,€40.00m,Newcastle United
+Joe Willock,25,Central Midfield,England / Montserrat,€28.00m,Newcastle United
+Sean Longstaff,27,Central Midfield,England,€22.00m,Newcastle United
+Lewis Miley,19,Central Midfield,England,€22.00m,Newcastle United
+Anthony Gordon,24,Left Winger,England,€65.00m,Newcastle United
+Harvey Barnes,27,Left Winger,England / Scotland,€30.00m,Newcastle United
+Jacob Murphy,30,Right Winger,England / Ireland,€16.00m,Newcastle United
+Alexander Isak,25,Centre-Forward,Sweden / Eritrea,€100.00m,Newcastle United
+Callum Wilson,33,Centre-Forward,England,€11.00m,Newcastle United
+William Osula,21,Centre-Forward,Denmark / England,€7.00m,Newcastle United
+David Raya,29,Goalkeeper,Spain,€40.00m,Arsenal FC
+Neto,35,Goalkeeper,Brazil / Italy,€2.00m,Arsenal FC
+William Saliba,24,Centre-Back,France / Cameroon,€80.00m,Arsenal FC
+Gabriel Magalhães,27,Centre-Back,Brazil,€75.00m,Arsenal FC
+Jakub Kiwior,25,Centre-Back,Poland,€22.00m,Arsenal FC
+Riccardo Calafiori,22,Left-Back,Italy,€40.00m,Arsenal FC
+Myles Lewis-Skelly,18,Left-Back,England / Barbados,€28.00m,Arsenal FC
+Oleksandr Zinchenko,28,Left-Back,Ukraine,€22.00m,Arsenal FC
+Kieran Tierney,27,Left-Back,Scotland / Isle of Man,€10.00m,Arsenal FC
+Ben White,27,Right-Back,England,€50.00m,Arsenal FC
+Jurrien Timber,23,Right-Back,Netherlands / Curacao,€50.00m,Arsenal FC
+Takehiro Tomiyasu,26,Right-Back,Japan,€25.00m,Arsenal FC
+Thomas Partey,31,Defensive Midfield,Ghana,€15.00m,Arsenal FC
+Jorginho,33,Defensive Midfield,Italy / Brazil,€8.00m,Arsenal FC
+Declan Rice,26,Central Midfield,England / Ireland,€110.00m,Arsenal FC
+Mikel Merino,28,Central Midfield,Spain,€35.00m,Arsenal FC
+Martin Ødegaard,26,Attacking Midfield,Norway,€100.00m,Arsenal FC
+Gabriel Martinelli,23,Left Winger,Brazil / Italy,€55.00m,Arsenal FC
+Leandro Trossard,30,Left Winger,Belgium,€30.00m,Arsenal FC
+Bukayo Saka,23,Right Winger,England / Nigeria,€150.00m,Arsenal FC
+Ethan Nwaneri,18,Right Winger,England / Nigeria,€55.00m,Arsenal FC
+Raheem Sterling,30,Right Winger,England / Jamaica,€15.00m,Arsenal FC
+Kai Havertz,25,Centre-Forward,Germany,€70.00m,Arsenal FC
+Gabriel Jesus,28,Centre-Forward,Brazil,€40.00m,Arsenal FC
+Bart Verbruggen,22,Goalkeeper,Netherlands,€25.00m,Brighton & Hove Albion
+Carl Rushworth,23,Goalkeeper,England,€3.00m,Brighton & Hove Albion
+Jason Steele,34,Goalkeeper,England,€2.00m,Brighton & Hove Albion
+Tom McGill,25,Goalkeeper,Canada / England,€600k,Brighton & Hove Albion
+Jan Paul van Hecke,24,Centre-Back,Netherlands,€32.00m,Brighton & Hove Albion
+Igor,27,Centre-Back,Brazil,€22.00m,Brighton & Hove Albion
+Adam Webster,30,Centre-Back,England,€12.00m,Brighton & Hove Albion
+Lewis Dunk,33,Centre-Back,England,€8.00m,Brighton & Hove Albion
+Eiran Cashin,23,Centre-Back,Ireland / England,€8.00m,Brighton & Hove Albion
+Ferdi Kadıoğlu,25,Left-Back,Türkiye / Netherlands,€30.00m,Brighton & Hove Albion
+Pervis Estupiñán,27,Left-Back,Ecuador / Spain,€30.00m,Brighton & Hove Albion
+Tariq Lamptey,24,Right-Back,Ghana / England,€12.00m,Brighton & Hove Albion
+Joël Veltman,33,Right-Back,Netherlands,€7.00m,Brighton & Hove Albion
+Carlos Baleba,21,Defensive Midfield,Cameroon,€35.00m,Brighton & Hove Albion
+Mats Wieffer,25,Defensive Midfield,Netherlands,€27.00m,Brighton & Hove Albion
+Jack Hinshelwood,20,Central Midfield,England,€24.00m,Brighton & Hove Albion
+Matt O'Riley,24,Central Midfield,Denmark / England,€22.00m,Brighton & Hove Albion
+Yasin Ayari,21,Central Midfield,Sweden / Tunisia,€17.00m,Brighton & Hove Albion
+Diego Gómez,22,Central Midfield,Paraguay,€13.00m,Brighton & Hove Albion
+James Milner,39,Central Midfield,England,€1.00m,Brighton & Hove Albion
+Kaoru Mitoma,27,Left Winger,Japan,€45.00m,Brighton & Hove Albion
+Simon Adingra,23,Left Winger,Cote d'Ivoire,€30.00m,Brighton & Hove Albion
+Yankuba Minteh,20,Right Winger,The Gambia,€30.00m,Brighton & Hove Albion
+Brajan Gruda,20,Right Winger,Germany / Albania,€25.00m,Brighton & Hove Albion
+Solly March,30,Right Winger,England,€8.00m,Brighton & Hove Albion
+João Pedro,23,Centre-Forward,Brazil,€50.00m,Brighton & Hove Albion
+Georginio Rutter,23,Centre-Forward,France / Martinique,€32.00m,Brighton & Hove Albion
+Danny Welbeck,34,Centre-Forward,England / Ghana,€5.00m,Brighton & Hove Albion
+Emiliano Martínez,32,Goalkeeper,Argentina / Spain,€25.00m,Aston Villa
+Robin Olsen,35,Goalkeeper,Sweden / Denmark,€1.50m,Aston Villa
+Pau Torres,28,Centre-Back,Spain,€40.00m,Aston Villa
+Ezri Konsa,27,Centre-Back,England / DR Congo,€35.00m,Aston Villa
+Axel Disasi,27,Centre-Back,France / DR Congo,€25.00m,Aston Villa
+Tyrone Mings,32,Centre-Back,England,€6.00m,Aston Villa
+Kortney Hause,29,Centre-Back,England / Bermuda,€2.00m,Aston Villa
+Ian Maatsen,23,Left-Back,Netherlands / Suriname,€28.00m,Aston Villa
+Lucas Digne,31,Left-Back,France,€12.00m,Aston Villa
+Matty Cash,27,Right-Back,Poland / England,€28.00m,Aston Villa
+Andrés García,22,Right-Back,Spain,€7.00m,Aston Villa
+Amadou Onana,23,Defensive Midfield,Belgium / Senegal,€55.00m,Aston Villa
+Boubacar Kamara,25,Defensive Midfield,France / Senegal,€38.00m,Aston Villa
+Lamare Bogarde,21,Defensive Midfield,Netherlands / Suriname,€5.00m,Aston Villa
+Youri Tielemans,28,Central Midfield,Belgium / DR Congo,€35.00m,Aston Villa
+John McGinn,30,Central Midfield,Scotland,€18.00m,Aston Villa
+Ross Barkley,31,Central Midfield,England,€8.00m,Aston Villa
+Jacob Ramsey,23,Left Midfield,England,€32.00m,Aston Villa
+Morgan Rogers,22,Attacking Midfield,England,€50.00m,Aston Villa
+Marcus Rashford,27,Left Winger,England / St. Kitts & Nevis,€50.00m,Aston Villa
+Leon Bailey,27,Right Winger,Jamaica,€32.00m,Aston Villa
+Donyell Malen,26,Right Winger,Netherlands / Suriname,€25.00m,Aston Villa
+Marco Asensio,29,Right Winger,Spain / Netherlands,€20.00m,Aston Villa
+Ollie Watkins,29,Centre-Forward,England,€50.00m,Aston Villa
+Alphonse Areola,32,Goalkeeper,France / Philippines,€10.00m,West Ham United
+Wes Foderingham,34,Goalkeeper,England,€900k,West Ham United
+Lukasz Fabianski,40,Goalkeeper,Poland,€700k,West Ham United
+Maximilian Kilman,27,Centre-Back,England / Ukraine,€30.00m,West Ham United
+Jean-Clair Todibo,25,Centre-Back,France / French Guiana,€28.00m,West Ham United
+Konstantinos Mavropanos,27,Centre-Back,Greece,€17.00m,West Ham United
+Kaelan Casey,20,Centre-Back,England,€1.00m,West Ham United
+Emerson,30,Left-Back,Italy / Brazil,€12.00m,West Ham United
+Oliver Scarles,19,Left-Back,England,€4.00m,West Ham United
+Aaron Cresswell,35,Left-Back,England,€700k,West Ham United
+Aaron Wan-Bissaka,27,Right-Back,DR Congo / England,€22.00m,West Ham United
+Vladimír Coufal,32,Right-Back,Czech Republic,€7.00m,West Ham United
+Edson Álvarez,27,Defensive Midfield,Mexico,€30.00m,West Ham United
+Tomas Soucek,30,Defensive Midfield,Czech Republic,€22.00m,West Ham United
+Guido Rodríguez,31,Defensive Midfield,Argentina / Italy,€12.00m,West Ham United
+Carlos Soler,28,Central Midfield,Spain,€20.00m,West Ham United
+James Ward-Prowse,30,Central Midfield,England,€10.00m,West Ham United
+Andrew Irving,25,Central Midfield,Scotland,€5.00m,West Ham United
+Lucas Paquetá,27,Attacking Midfield,Brazil / Portugal,€35.00m,West Ham United
+Crysencio Summerville,23,Left Winger,Netherlands / Suriname,€22.00m,West Ham United
+Mohammed Kudus,24,Right Winger,Ghana,€50.00m,West Ham United
+Jarrod Bowen,28,Right Winger,England,€45.00m,West Ham United
+Luis Guilherme,19,Right Winger,Brazil,€18.00m,West Ham United
+Evan Ferguson,20,Centre-Forward,Ireland / England,€32.00m,West Ham United
+Niclas Füllkrug,32,Centre-Forward,Germany,€12.00m,West Ham United
+Danny Ings,32,Centre-Forward,England,€7.00m,West Ham United
+Michail Antonio,35,Centre-Forward,Jamaica / England,€1.00m,West Ham United
+Arijanet Muric,26,Goalkeeper,Kosovo / Montenegro,€6.00m,Ipswich Town
+Christian Walton,29,Goalkeeper,England,€1.50m,Ipswich Town
+Alex Palmer,28,Goalkeeper,England,€1.20m,Ipswich Town
+Cieran Slicker,22,Goalkeeper,Scotland / England,€300k,Ipswich Town
+Jacob Greaves,24,Centre-Back,England,€20.00m,Ipswich Town
+Dara O'Shea,26,Centre-Back,Ireland,€14.00m,Ipswich Town
+Ben Godfrey,27,Centre-Back,England / Jamaica,€8.00m,Ipswich Town
+Cameron Burgess,29,Centre-Back,Australia / Scotland,€2.50m,Ipswich Town
+Luke Woolfenden,26,Centre-Back,England,€2.00m,Ipswich Town
+Leif Davis,25,Left-Back,England,€25.00m,Ipswich Town
+Conor Townsend,32,Left-Back,England,€1.20m,Ipswich Town
+Ben Johnson,25,Right-Back,England,€9.00m,Ipswich Town
+Axel Tuanzebe,27,Right-Back,DR Congo / England,€5.00m,Ipswich Town
+Kalvin Phillips,29,Defensive Midfield,England / Jamaica,€15.00m,Ipswich Town
+Jens Cajuste,25,Defensive Midfield,Sweden / United States,€12.00m,Ipswich Town
+Jack Taylor,26,Central Midfield,Ireland / England,€3.00m,Ipswich Town
+Sam Morsy,33,Central Midfield,Egypt / England,€900k,Ipswich Town
+Massimo Luongo,32,Central Midfield,Australia / Italy,€500k,Ipswich Town
+Julio Enciso,21,Attacking Midfield,Paraguay,€22.00m,Ipswich Town
+Omari Hutchinson,21,Attacking Midfield,England / Jamaica,€22.00m,Ipswich Town
+Sammie Szmodics,29,Attacking Midfield,Ireland / Hungary,€12.00m,Ipswich Town
+Jaden Philogene,23,Left Winger,England / Dominica,€18.00m,Ipswich Town
+Jack Clarke,24,Left Winger,England,€15.00m,Ipswich Town
+Nathan Broadhead,27,Left Winger,Wales,€5.00m,Ipswich Town
+Chiedozie Ogbene,28,Right Winger,Ireland / Nigeria,€8.00m,Ipswich Town
+Wes Burns,30,Right Winger,Wales,€2.50m,Ipswich Town
+Conor Chaplin,28,Second Striker,England,€8.00m,Ipswich Town
+Liam Delap,22,Centre-Forward,England / Ireland,€35.00m,Ipswich Town
+George Hirst,26,Centre-Forward,Scotland / England,€5.00m,Ipswich Town
+Jordan Pickford,31,Goalkeeper,England,€20.00m,Everton FC
+João Virgínia,25,Goalkeeper,Portugal,€800k,Everton FC
+Asmir Begovic,37,Goalkeeper,Bosnia-Herzegovina / Canada,€300k,Everton FC
+Jarrad Branthwaite,22,Centre-Back,England,€50.00m,Everton FC
+James Tarkowski,32,Centre-Back,England / Poland,€10.00m,Everton FC
+Michael Keane,32,Centre-Back,England / Ireland,€6.00m,Everton FC
+Vitaliy Mykolenko,25,Left-Back,Ukraine,€28.00m,Everton FC
+Nathan Patterson,23,Right-Back,Scotland,€15.00m,Everton FC
+Jake O'Brien,23,Right-Back,Ireland,€15.00m,Everton FC
+Ashley Young,39,Right-Back,England / Jamaica,€500k,Everton FC
+Séamus Coleman,36,Right-Back,Ireland,€500k,Everton FC
+Orel Mangala,27,Defensive Midfield,Belgium / DR Congo,€20.00m,Everton FC
+James Garner,24,Defensive Midfield,England,€20.00m,Everton FC
+Idrissa Gueye,35,Defensive Midfield,Senegal,€2.00m,Everton FC
+Carlos Alcaraz,22,Central Midfield,Argentina,€14.00m,Everton FC
+Tim Iroegbunam,21,Central Midfield,England / Nigeria,€10.00m,Everton FC
+Abdoulaye Doucouré,32,Central Midfield,Mali / France,€8.00m,Everton FC
+Dwight McNeil,25,Attacking Midfield,England / Jamaica,€25.00m,Everton FC
+Iliman Ndiaye,25,Left Winger,Senegal / France,€22.00m,Everton FC
+Jesper Lindstrøm,25,Right Winger,Denmark,€20.00m,Everton FC
+Jack Harrison,28,Right Winger,England,€16.00m,Everton FC
+Dominic Calvert-Lewin,28,Centre-Forward,England,€20.00m,Everton FC
+Beto,27,Centre-Forward,Guinea-Bissau / Portugal,€20.00m,Everton FC
+Armando Broja,23,Centre-Forward,Albania / England,€13.00m,Everton FC
+Chermiti,20,Centre-Forward,Portugal / Tunisia,€9.00m,Everton FC
+Mads Hermansen,24,Goalkeeper,Denmark,€15.00m,Leicester City
+Daniel Iversen,27,Goalkeeper,Denmark,€3.00m,Leicester City
+Danny Ward,31,Goalkeeper,Wales,€1.50m,Leicester City
+Jakub Stolarczyk,24,Goalkeeper,Poland,€400k,Leicester City
+Wout Faes,27,Centre-Back,Belgium,€20.00m,Leicester City
+Caleb Okoli,23,Centre-Back,Italy / Nigeria,€12.00m,Leicester City
+Harry Souttar,26,Centre-Back,Australia / Scotland,€8.00m,Leicester City
+Conor Coady,32,Centre-Back,England,€3.00m,Leicester City
+Jannik Vestergaard,32,Centre-Back,Denmark / Germany,€3.00m,Leicester City
+Victor Kristiansen,22,Left-Back,Denmark,€16.00m,Leicester City
+Luke Thomas,23,Left-Back,England,€6.00m,Leicester City
+James Justin,27,Right-Back,England / St. Lucia,€15.00m,Leicester City
+Ricardo Pereira,31,Right-Back,Portugal / Cape Verde,€5.00m,Leicester City
+Woyo Coulibaly,25,Right-Back,France / Mali,€2.00m,Leicester City
+Wilfred Ndidi,28,Defensive Midfield,Nigeria / England,€18.00m,Leicester City
+Boubakary Soumaré,26,Defensive Midfield,France / Senegal,€14.00m,Leicester City
+Oliver Skipp,24,Defensive Midfield,England,€12.00m,Leicester City
+Harry Winks,29,Defensive Midfield,England,€10.00m,Leicester City
+Michael Golding,18,Central Midfield,England / Ireland,€2.00m,Leicester City
+Bilal El Khannouss,21,Attacking Midfield,Morocco / Belgium,€30.00m,Leicester City
+Facundo Buonanotte,20,Attacking Midfield,Argentina / Italy,€22.00m,Leicester City
+Stephy Mavididi,26,Left Winger,England / DR Congo,€11.00m,Leicester City
+Issahaku Fatawu,21,Right Winger,Ghana,€13.00m,Leicester City
+Bobby De Cordova-Reid,32,Right Winger,Jamaica / England,€4.00m,Leicester City
+Jordan Ayew,33,Right Winger,Ghana / France,€3.50m,Leicester City
+Kasey McAteer,23,Right Winger,Ireland / England,€900k,Leicester City
+Patson Daka,26,Centre-Forward,Zambia,€12.00m,Leicester City
+Odsonne Edouard,27,Centre-Forward,France / French Guiana,€10.00m,Leicester City
+Jamie Vardy,38,Centre-Forward,England,€1.00m,Leicester City
+Ederson,31,Goalkeeper,Brazil / Portugal,€25.00m,Manchester City
+Stefan Ortega,32,Goalkeeper,Germany / Spain,€9.00m,Manchester City
+Scott Carson,39,Goalkeeper,England,€200k,Manchester City
+Rúben Dias,27,Centre-Back,Portugal,€70.00m,Manchester City
+Abdukodir Khusanov,21,Centre-Back,Uzbekistan,€35.00m,Manchester City
+Nathan Aké,30,Centre-Back,Netherlands / Cote d'Ivoire,€32.00m,Manchester City
+Manuel Akanji,29,Centre-Back,Switzerland / Nigeria,€32.00m,Manchester City
+John Stones,30,Centre-Back,England,€30.00m,Manchester City
+Vitor Reis,19,Centre-Back,Brazil,€30.00m,Manchester City
+Josko Gvardiol,23,Left-Back,Croatia,€75.00m,Manchester City
+Rico Lewis,20,Right-Back,England,€40.00m,Manchester City
+Rodri,28,Defensive Midfield,Spain,€130.00m,Manchester City
+Nico González,23,Central Midfield,Spain,€40.00m,Manchester City
+Matheus Nunes,26,Central Midfield,Portugal / Brazil,€35.00m,Manchester City
+Mateo Kovacic,31,Central Midfield,Croatia,€25.00m,Manchester City
+İlkay Gündoğan,34,Central Midfield,Germany,€7.00m,Manchester City
+Bernardo Silva,30,Attacking Midfield,Portugal,€45.00m,Manchester City
+Kevin De Bruyne,33,Attacking Midfield,Belgium,€27.00m,Manchester City
+Claudio Echeverri,19,Attacking Midfield,Argentina,€18.00m,Manchester City
+James McAtee,22,Attacking Midfield,England,€18.00m,Manchester City
+Nico O'Reilly,20,Attacking Midfield,England / Jamaica,€7.00m,Manchester City
+Jérémy Doku,22,Left Winger,Belgium / Ghana,€55.00m,Manchester City
+Jack Grealish,29,Left Winger,England / Ireland,€35.00m,Manchester City
+Phil Foden,24,Right Winger,England,€130.00m,Manchester City
+Savinho,21,Right Winger,Brazil,€55.00m,Manchester City
+Oscar Bobb,21,Right Winger,Norway / The Gambia,€25.00m,Manchester City
+Erling Haaland,24,Centre-Forward,Norway,€200.00m,Manchester City
+Omar Marmoush,26,Centre-Forward,Egypt / Canada,€75.00m,Manchester City
+Matz Sels,33,Goalkeeper,Belgium,€7.00m,Nottingham Forest
+Carlos Miguel,26,Goalkeeper,Brazil,€4.00m,Nottingham Forest
+Wayne Hennessey,38,Goalkeeper,Wales,€175k,Nottingham Forest
+Murillo,22,Centre-Back,Brazil,€55.00m,Nottingham Forest
+Nikola Milenković,27,Centre-Back,Serbia,€28.00m,Nottingham Forest
+Morato,23,Centre-Back,Brazil,€15.00m,Nottingham Forest
+Willy Boly,34,Centre-Back,Cote d'Ivoire / France,€2.00m,Nottingham Forest
+Álex Moreno,31,Left-Back,Spain,€11.00m,Nottingham Forest
+Harry Toffolo,29,Left-Back,England / Italy,€4.00m,Nottingham Forest
+Neco Williams,24,Right-Back,Wales,€20.00m,Nottingham Forest
+Ola Aina,28,Right-Back,Nigeria / England,€20.00m,Nottingham Forest
+Ibrahim Sangaré,27,Defensive Midfield,Cote d'Ivoire,€28.00m,Nottingham Forest
+Danilo,24,Defensive Midfield,Brazil,€28.00m,Nottingham Forest
+Elliot Anderson,22,Central Midfield,England / Scotland,€30.00m,Nottingham Forest
+Nicolás Domínguez,26,Central Midfield,Argentina / Italy,€17.00m,Nottingham Forest
+Ryan Yates,27,Central Midfield,England,€13.00m,Nottingham Forest
+Eric da Silva Moreira,19,Right Midfield,Germany / Portugal,€1.00m,Nottingham Forest
+Morgan Gibbs-White,25,Attacking Midfield,England / Jamaica,€50.00m,Nottingham Forest
+Callum Hudson-Odoi,24,Left Winger,England / Ghana,€24.00m,Nottingham Forest
+Ramón Sosa,25,Left Winger,Paraguay / Argentina,€13.00m,Nottingham Forest
+Anthony Elanga,23,Right Winger,Sweden / Cameroon,€35.00m,Nottingham Forest
+Jota Silva,25,Right Winger,Portugal,€14.00m,Nottingham Forest
+Taiwo Awoniyi,27,Centre-Forward,Nigeria,€18.00m,Nottingham Forest
+Chris Wood,33,Centre-Forward,New Zealand,€10.00m,Nottingham Forest
+Dean Henderson,28,Goalkeeper,England,€15.00m,Crystal Palace
+Matt Turner,30,Goalkeeper,United States / Lithuania,€4.00m,Crystal Palace
+Remi Matthews,31,Goalkeeper,England,€500k,Crystal Palace
+Marc Guéhi,24,Centre-Back,England / Cote d'Ivoire,€45.00m,Crystal Palace
+Maxence Lacroix,25,Centre-Back,France / Guadeloupe,€22.00m,Crystal Palace
+Chadi Riad,21,Centre-Back,Morocco / Spain,€15.00m,Crystal Palace
+Chris Richards,25,Centre-Back,United States,€12.00m,Crystal Palace
+Tyrick Mitchell,25,Left-Back,England / Jamaica,€25.00m,Crystal Palace
+Ben Chilwell,28,Left-Back,England / New Zealand,€18.00m,Crystal Palace
+Daniel Muñoz,28,Right-Back,Colombia,€25.00m,Crystal Palace
+Nathaniel Clyne,34,Right-Back,England / Grenada,€1.50m,Crystal Palace
+Caleb Kporha,18,Right-Back,England / Ghana,€1.00m,Crystal Palace
+Joel Ward,35,Right-Back,England,€600k,Crystal Palace
+Adam Wharton,21,Defensive Midfield,England,€35.00m,Crystal Palace
+Cheick Doucouré,25,Defensive Midfield,Mali,€30.00m,Crystal Palace
+Jefferson Lerma,30,Defensive Midfield,Colombia,€12.00m,Crystal Palace
+Kaden Rodney,20,Defensive Midfield,England,€200k,Crystal Palace
+Will Hughes,30,Central Midfield,England,€9.00m,Crystal Palace
+Justin Devenny,21,Central Midfield,Northern Ireland / Scotland,€3.00m,Crystal Palace
+Eberechi Eze,26,Attacking Midfield,England / Nigeria,€55.00m,Crystal Palace
+Daichi Kamada,28,Attacking Midfield,Japan,€15.00m,Crystal Palace
+Matheus França,21,Attacking Midfield,Brazil,€10.00m,Crystal Palace
+Ismaïla Sarr,27,Right Winger,Senegal,€22.00m,Crystal Palace
+Romain Esse,20,Right Winger,England / Cote d'Ivoire,€12.00m,Crystal Palace
+Malcolm Ebiowei,21,Right Winger,England / Netherlands,€1.20m,Crystal Palace
+Jean-Philippe Mateta,27,Centre-Forward,France / DR Congo,€30.00m,Crystal Palace
+Eddie Nketiah,25,Centre-Forward,England / Ghana,€22.00m,Crystal Palace
+José Sá,32,Goalkeeper,Portugal,€8.00m,Wolverhampton Wanderers
+Sam Johnstone,32,Goalkeeper,England,€8.00m,Wolverhampton Wanderers
+Daniel Bentley,31,Goalkeeper,England,€2.00m,Wolverhampton Wanderers
+Tom King,30,Goalkeeper,Wales / England,€200k,Wolverhampton Wanderers
+Toti,26,Centre-Back,Portugal / Guinea-Bissau,€25.00m,Wolverhampton Wanderers
+Emmanuel Agbadou,27,Centre-Back,Cote d'Ivoire,€17.00m,Wolverhampton Wanderers
+Nasser Djiga,22,Centre-Back,Burkina Faso / Serbia,€10.00m,Wolverhampton Wanderers
+Santiago Bueno,26,Centre-Back,Uruguay / Italy,€8.00m,Wolverhampton Wanderers
+Yerson Mosquera,24,Centre-Back,Colombia,€8.00m,Wolverhampton Wanderers
+Bastien Meupiyou,19,Centre-Back,France / Cameroon,€2.50m,Wolverhampton Wanderers
+Craig Dawson,35,Centre-Back,England,€2.00m,Wolverhampton Wanderers
+Rayan Aït-Nouri,23,Left-Back,Algeria / France,€35.00m,Wolverhampton Wanderers
+Nélson Semedo,31,Right-Back,Portugal / Cape Verde,€10.00m,Wolverhampton Wanderers
+Pedro Lima,18,Right-Back,Brazil,€5.00m,Wolverhampton Wanderers
+Matt Doherty,33,Right-Back,Ireland,€2.50m,Wolverhampton Wanderers
+André,23,Defensive Midfield,Brazil,€25.00m,Wolverhampton Wanderers
+Boubacar Traoré,23,Defensive Midfield,Mali,€6.00m,Wolverhampton Wanderers
+João Gomes,24,Central Midfield,Brazil,€40.00m,Wolverhampton Wanderers
+Jean-Ricner Bellegarde,26,Central Midfield,France / Haiti,€18.00m,Wolverhampton Wanderers
+Marshall Munetsi,28,Central Midfield,Zimbabwe,€15.00m,Wolverhampton Wanderers
+Tommy Doyle,23,Central Midfield,England,€10.00m,Wolverhampton Wanderers
+Rodrigo Gomes,21,Right Midfield,Portugal,€15.00m,Wolverhampton Wanderers
+Gonçalo Guedes,28,Left Winger,Portugal,€13.00m,Wolverhampton Wanderers
+Carlos Forbs,21,Left Winger,Portugal / Guinea-Bissau,€8.00m,Wolverhampton Wanderers
+Enso González,20,Left Winger,Paraguay,€4.00m,Wolverhampton Wanderers
+Pablo Sarabia,33,Right Winger,Spain,€7.00m,Wolverhampton Wanderers
+Matheus Cunha,25,Centre-Forward,Brazil,€55.00m,Wolverhampton Wanderers
+Jørgen Strand Larsen,25,Centre-Forward,Norway,€27.00m,Wolverhampton Wanderers
+Hee-chan Hwang,29,Centre-Forward,"Korea, South",€17.00m,Wolverhampton Wanderers
+Sasa Kalajdzic,27,Centre-Forward,Austria,€5.00m,Wolverhampton Wanderers
+Nathan Fraser,20,Centre-Forward,Ireland / England,€600k,Wolverhampton Wanderers
+Alisson,32,Goalkeeper,Brazil,€25.00m,Liverpool FC
+Caoimhín Kelleher,26,Goalkeeper,Ireland,€22.00m,Liverpool FC
+Vitezslav Jaros,23,Goalkeeper,Czech Republic,€5.00m,Liverpool FC
+Harvey Davies,21,Goalkeeper,England,€500k,Liverpool FC
+Ibrahima Konaté,25,Centre-Back,France / Mali,€60.00m,Liverpool FC
+Virgil van Dijk,33,Centre-Back,Netherlands / Suriname,€28.00m,Liverpool FC
+Joe Gomez,27,Centre-Back,England / The Gambia,€25.00m,Liverpool FC
+Jarell Quansah,22,Centre-Back,England / Scotland,€22.00m,Liverpool FC
+Konstantinos Tsimikas,29,Left-Back,Greece,€20.00m,Liverpool FC
+Andrew Robertson,31,Left-Back,Scotland,€20.00m,Liverpool FC
+Trent Alexander-Arnold,26,Right-Back,England,€75.00m,Liverpool FC
+Conor Bradley,21,Right-Back,Northern Ireland,€25.00m,Liverpool FC
+Ryan Gravenberch,22,Defensive Midfield,Netherlands / Suriname,€70.00m,Liverpool FC
+Wataru Endo,32,Defensive Midfield,Japan,€10.00m,Liverpool FC
+Tyler Morton,22,Defensive Midfield,England,€8.00m,Liverpool FC
+Alexis Mac Allister,26,Central Midfield,Argentina / Italy,€90.00m,Liverpool FC
+Curtis Jones,24,Central Midfield,England,€50.00m,Liverpool FC
+Harvey Elliott,22,Central Midfield,England,€35.00m,Liverpool FC
+Dominik Szoboszlai,24,Attacking Midfield,Hungary,€80.00m,Liverpool FC
+Luis Díaz,28,Left Winger,Colombia,€85.00m,Liverpool FC
+Cody Gakpo,26,Left Winger,Netherlands / Togo,€70.00m,Liverpool FC
+Mohamed Salah,32,Right Winger,Egypt,€55.00m,Liverpool FC
+Federico Chiesa,27,Right Winger,Italy,€18.00m,Liverpool FC
+Darwin Núñez,25,Centre-Forward,Uruguay,€50.00m,Liverpool FC
+Diogo Jota,28,Centre-Forward,Portugal,€45.00m,Liverpool FC
+Bernd Leno,33,Goalkeeper,Germany,€11.00m,Fulham FC
+Steven Benda,26,Goalkeeper,Germany,€1.00m,Fulham FC
+Joachim Andersen,28,Centre-Back,Denmark,€32.00m,Fulham FC
+Calvin Bassey,25,Centre-Back,Nigeria / England,€25.00m,Fulham FC
+Issa Diop,28,Centre-Back,France / Senegal,€16.00m,Fulham FC
+Jorge Cuenca,25,Centre-Back,Spain,€6.00m,Fulham FC
+Antonee Robinson,27,Left-Back,United States / England,€35.00m,Fulham FC
+Ryan Sessegnon,24,Left-Back,England,€9.00m,Fulham FC
+Kenny Tete,29,Right-Back,Netherlands / Mozambique,€15.00m,Fulham FC
+Timothy Castagne,29,Right-Back,Belgium,€15.00m,Fulham FC
+Sander Berge,27,Defensive Midfield,Norway,€25.00m,Fulham FC
+Saša Lukić,28,Central Midfield,Serbia,€10.00m,Fulham FC
+Harrison Reed,30,Central Midfield,England,€7.00m,Fulham FC
+Tom Cairney,34,Central Midfield,Scotland / England,€2.00m,Fulham FC
+Josh King,18,Central Midfield,England,€1.00m,Fulham FC
+Emile Smith Rowe,24,Attacking Midfield,England,€32.00m,Fulham FC
+Andreas Pereira,29,Attacking Midfield,Brazil / Belgium,€20.00m,Fulham FC
+Alex Iwobi,29,Left Winger,Nigeria / England,€25.00m,Fulham FC
+Willian,36,Left Winger,Brazil,€1.00m,Fulham FC
+Martial Godo,22,Left Winger,England / Cote d'Ivoire,€600k,Fulham FC
+Reiss Nelson,25,Right Winger,England / Jamaica,€18.00m,Fulham FC
+Harry Wilson,28,Right Winger,Wales / England,€17.00m,Fulham FC
+Adama Traoré,29,Right Winger,Spain / Mali,€10.00m,Fulham FC
+Rodrigo Muniz,24,Centre-Forward,Brazil,€20.00m,Fulham FC
+Raúl Jiménez,34,Centre-Forward,Mexico,€5.00m,Fulham FC
+Carlos Vinícius,30,Centre-Forward,Brazil,€4.00m,Fulham FC
