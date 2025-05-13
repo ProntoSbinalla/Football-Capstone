@@ -1,76 +1,57 @@
 Name,Age,Position,Nationality,Market Value,Club Name
-Guillaume Restes,20,Goalkeeper,France / Cote d'Ivoire,€20.00m,FC Toulouse
-Kjetil Haug,26,Goalkeeper,Norway,€600k,FC Toulouse
-Justin Lacombe,22,Goalkeeper,France,€50k,FC Toulouse
-Charlie Cresswell,22,Centre-Back,England,€7.00m,FC Toulouse
-Mark McKenzie,26,Centre-Back,United States / Jamaica,€6.00m,FC Toulouse
-Rasmus Nicolaisen,28,Centre-Back,Denmark,€5.00m,FC Toulouse
-Jaydee Canvot,18,Centre-Back,France,€2.50m,FC Toulouse
-Ümit Akdağ,21,Centre-Back,Romania / Türkiye,€800k,FC Toulouse
-Gabriel Suazo,27,Left-Back,Chile,€4.00m,FC Toulouse
-Ylies Aradj,19,Left-Back,France / Algeria,-,FC Toulouse
-Warren Kamanzi,24,Right-Back,Norway,€2.00m,FC Toulouse
-Djibril Sidibé,32,Right-Back,France / Mali,€1.20m,FC Toulouse
-Cristian Cásseres Jr.,25,Central Midfield,Venezuela,€5.00m,FC Toulouse
-Vincent Sierro,29,Central Midfield,Switzerland,€4.00m,FC Toulouse
-Niklas Schmidt,27,Central Midfield,Germany,€2.00m,FC Toulouse
-Miha Zajc,30,Central Midfield,Slovenia,€1.80m,FC Toulouse
-Rafik Messali,22,Right Midfield,Algeria / France,€800k,FC Toulouse
-Aron Dønnum,27,Left Midfield,Norway,€4.00m,FC Toulouse
-Mathis Saka,18,Attacking Midfield,France,-,FC Toulouse
-Yann Gboho,24,Left Winger,France / Cote d'Ivoire,€8.00m,FC Toulouse
-Zakaria Aboukhlal,25,Right Winger,Morocco / Netherlands,€12.00m,FC Toulouse
-Shavy Babicka,24,Right Winger,Gabon,€3.00m,FC Toulouse
-Noah Edjouma,19,Right Winger,France / Cameroon,€500k,FC Toulouse
-Frank Magri,25,Centre-Forward,Cameroon / France,€2.50m,FC Toulouse
-Joshua King,33,Centre-Forward,Norway,€2.00m,FC Toulouse
-Lucas Perri,27,Goalkeeper,Brazil / Italy,€10.00m,Olympique Lyon
-Rémy Descamps,28,Goalkeeper,France,€1.50m,Olympique Lyon
-Lassine Diarra,22,Goalkeeper,Mali,€25k,Olympique Lyon
-Moussa Niakhaté,29,Centre-Back,Senegal / France,€15.00m,Olympique Lyon
-Duje Caleta-Car,28,Centre-Back,Croatia,€8.00m,Olympique Lyon
-Warmed Omari,25,Centre-Back,Comoros / France,€4.00m,Olympique Lyon
-Abner,24,Left-Back,Brazil,€9.00m,Olympique Lyon
-Nicolás Tagliafico,32,Left-Back,Argentina / Italy,€7.00m,Olympique Lyon
-Ainsley Maitland-Niles,27,Right-Back,England / Jamaica,€10.00m,Olympique Lyon
-Saël Kumbedi,20,Right-Back,France / DR Congo,€6.00m,Olympique Lyon
-Clinton Mata,32,Right-Back,Angola / Belgium,€4.00m,Olympique Lyon
-Tanner Tessmann,23,Defensive Midfield,United States,€6.00m,Olympique Lyon
-Nemanja Matic,36,Defensive Midfield,Serbia / Slovakia,€2.50m,Olympique Lyon
-Paul Akouokou,27,Defensive Midfield,Cote d'Ivoire,€800k,Olympique Lyon
-Corentin Tolisso,30,Central Midfield,France / Togo,€10.00m,Olympique Lyon
-Jordan Veretout,32,Central Midfield,France,€5.00m,Olympique Lyon
-Thiago Almada,24,Attacking Midfield,Argentina,€25.00m,Olympique Lyon
-Malick Fofana,20,Left Winger,Belgium / Guinea,€25.00m,Olympique Lyon
-Rayan Cherki,21,Right Winger,France / Algeria,€35.00m,Olympique Lyon
-Ernest Nuamah,21,Right Winger,Ghana,€15.00m,Olympique Lyon
-Georges Mikautadze,24,Centre-Forward,Georgia / France,€20.00m,Olympique Lyon
-Alexandre Lacazette,33,Centre-Forward,France / Guadeloupe,€8.00m,Olympique Lyon
-Enzo Molebe,17,Centre-Forward,France / DR Congo,€100k,Olympique Lyon
-Gianluigi Donnarumma,26,Goalkeeper,Italy,€35.00m,Paris Saint-Germain
-Matvey Safonov,26,Goalkeeper,Russia,€22.00m,Paris Saint-Germain
-Arnau Tenas,23,Goalkeeper,Spain,€4.00m,Paris Saint-Germain
-Willian Pacho,23,Centre-Back,Ecuador,€45.00m,Paris Saint-Germain
-Marquinhos,30,Centre-Back,Brazil / Portugal,€40.00m,Paris Saint-Germain
-Lucas Beraldo,21,Centre-Back,Brazil,€25.00m,Paris Saint-Germain
-Presnel Kimpembe,29,Centre-Back,France / DR Congo,€8.00m,Paris Saint-Germain
-Naoufel El Hannach,18,Centre-Back,Morocco / France,-,Paris Saint-Germain
-Nuno Mendes,22,Left-Back,Portugal,€55.00m,Paris Saint-Germain
-Lucas Hernández,29,Left-Back,France / Spain,€30.00m,Paris Saint-Germain
-Achraf Hakimi,26,Right-Back,Morocco / Spain,€65.00m,Paris Saint-Germain
-Yoram Zague,18,Right-Back,France / Cote d'Ivoire,€2.50m,Paris Saint-Germain
-João Neves,20,Defensive Midfield,Portugal,€65.00m,Paris Saint-Germain
-Vitinha,25,Central Midfield,Portugal,€60.00m,Paris Saint-Germain
-Warren Zaïre-Emery,19,Central Midfield,France / Martinique,€60.00m,Paris Saint-Germain
-Fabián Ruiz,29,Central Midfield,Spain,€35.00m,Paris Saint-Germain
-Senny Mayulu,18,Central Midfield,France / DR Congo,€10.00m,Paris Saint-Germain
-Khvicha Kvaratskhelia,24,Left Winger,Georgia,€80.00m,Paris Saint-Germain
-Bradley Barcola,22,Left Winger,France / Togo,€70.00m,Paris Saint-Germain
-Désiré Doué,19,Left Winger,France / Cote d'Ivoire,€60.00m,Paris Saint-Germain
-Ousmane Dembélé,27,Right Winger,France,€75.00m,Paris Saint-Germain
-Kang-in Lee,24,Right Winger,"Korea, South",€30.00m,Paris Saint-Germain
-Ibrahim Mbaye,17,Right Winger,France / Senegal,€2.00m,Paris Saint-Germain
-Gonçalo Ramos,23,Centre-Forward,Portugal,€45.00m,Paris Saint-Germain
+Alban Lafont,26,Goalkeeper,France / Burkina Faso,€4.00m,FC Nantes
+Anthony Lopes,34,Goalkeeper,Portugal / France,€1.50m,FC Nantes
+Patrik Carlgren,33,Goalkeeper,Sweden,€800k,FC Nantes
+Hugo Barbet,23,Goalkeeper,France,€100k,FC Nantes
+Nathan Zézé,19,Centre-Back,France / Cote d'Ivoire,€12.00m,FC Nantes
+Saïdou Sow,22,Centre-Back,Guinea / France,€6.00m,FC Nantes
+Jean-Charles Castelletto,30,Centre-Back,Cameroon / France,€3.50m,FC Nantes
+Nicolas Pallois,37,Centre-Back,France,€500k,FC Nantes
+Nicolas Cozza,26,Left-Back,France / Italy,€3.50m,FC Nantes
+Kelvin Amian,27,Right-Back,France / Cote d'Ivoire,€2.50m,FC Nantes
+Fabien Centonze,29,Right-Back,France,€2.00m,FC Nantes
+Marcus Coco,28,Right-Back,Guadeloupe / France,€1.50m,FC Nantes
+Johann Lepenant,22,Defensive Midfield,France,€7.00m,FC Nantes
+Pedro Chirivella,27,Defensive Midfield,Spain,€5.00m,FC Nantes
+Francis Coquelin,34,Defensive Midfield,France / Réunion,€1.00m,FC Nantes
+Douglas Augusto,28,Central Midfield,Brazil,€6.00m,FC Nantes
+Dehmaine Tabibou,20,Central Midfield,France / Comoros,€100k,FC Nantes
+Louis Leroux,19,Attacking Midfield,France,€2.00m,FC Nantes
+Florent Mollet,33,Attacking Midfield,France,€1.50m,FC Nantes
+Moses Simon,29,Left Winger,Nigeria,€12.00m,FC Nantes
+Herba Guirassy,18,Left Winger,France / Guinea,€1.00m,FC Nantes
+Sorba Thomas,26,Right Winger,Wales / England,€4.00m,FC Nantes
+Matthis Abline,22,Centre-Forward,France,€12.00m,FC Nantes
+Mostafa Mohamed,27,Centre-Forward,Egypt,€6.00m,FC Nantes
+Meschack Elia,27,Centre-Forward,DR Congo,€5.00m,FC Nantes
+Tino Kadewere,29,Centre-Forward,Zimbabwe,€3.00m,FC Nantes
+Gerónimo Rulli,32,Goalkeeper,Argentina / Italy,€8.00m,Olympique Marseille
+Jeffrey de Lange,27,Goalkeeper,Netherlands,€2.50m,Olympique Marseille
+Rubén Blanco,29,Goalkeeper,Spain,€1.50m,Olympique Marseille
+Jelle Van Neck,21,Goalkeeper,Belgium,€100k,Olympique Marseille
+Leonardo Balerdi,26,Centre-Back,Argentina / Italy,€20.00m,Olympique Marseille
+Luiz Felipe,28,Centre-Back,Italy / Brazil,€6.00m,Olympique Marseille
+Derek Cornelius,27,Centre-Back,Canada / Jamaica,€5.00m,Olympique Marseille
+Chancel Mbemba,30,Centre-Back,DR Congo,€3.00m,Olympique Marseille
+Quentin Merlin,22,Left-Back,France,€12.00m,Olympique Marseille
+Ulisses Garcia,29,Left-Back,Switzerland / Cape Verde,€4.00m,Olympique Marseille
+Amar Dedic,22,Right-Back,Bosnia-Herzegovina,€15.00m,Olympique Marseille
+Amir Murillo,29,Right-Back,Panama,€9.00m,Olympique Marseille
+Pol Lirola,27,Right-Back,Spain,€4.00m,Olympique Marseille
+Pierre-Emile Højbjerg,29,Defensive Midfield,Denmark / France,€20.00m,Olympique Marseille
+Ismaël Bennacer,27,Defensive Midfield,Algeria / France,€15.00m,Olympique Marseille
+Geoffrey Kondogbia,32,Defensive Midfield,Central African Republic / France,€8.00m,Olympique Marseille
+Adrien Rabiot,30,Central Midfield,France,€25.00m,Olympique Marseille
+Valentin Rongier,30,Central Midfield,France,€9.00m,Olympique Marseille
+Bilal Nadir,21,Central Midfield,Morocco / France,€5.00m,Olympique Marseille
+Amine Harit,27,Attacking Midfield,Morocco / France,€10.00m,Olympique Marseille
+Darryl Bakola,17,Attacking Midfield,France / Congo,€200k,Olympique Marseille
+Jonathan Rowe,22,Left Winger,England / Jamaica,€12.00m,Olympique Marseille
+Mason Greenwood,23,Right Winger,England,€35.00m,Olympique Marseille
+Luis Henrique,23,Right Winger,Brazil,€18.00m,Olympique Marseille
+Amine Gouiri,25,Centre-Forward,Algeria / France,€20.00m,Olympique Marseille
+Neal Maupay,28,Centre-Forward,France / Argentina,€10.00m,Olympique Marseille
+Faris Moumbagna,24,Centre-Forward,Cameroon,€8.00m,Olympique Marseille
 Brice Samba,31,Goalkeeper,France / Congo,€15.00m,Stade Rennais FC
 Doğan Alemdar,22,Goalkeeper,Türkiye,€2.00m,Stade Rennais FC
 Gauthier Gallon,32,Goalkeeper,France,€1.00m,Stade Rennais FC
@@ -101,89 +82,57 @@ Arnaud Kalimuendo,23,Centre-Forward,France / DR Congo,€20.00m,Stade Rennais FC
 Kyogo Furuhashi,30,Centre-Forward,Japan,€12.00m,Stade Rennais FC
 Mohamed Kader Meïté,17,Centre-Forward,France / Cote d'Ivoire,€600k,Stade Rennais FC
 Wilson Samaké,21,Centre-Forward,Mali / France,€150k,Stade Rennais FC
-Arthur Desmas,31,Goalkeeper,France,€1.50m,Le Havre AC
-Mathieu Gorgelin,34,Goalkeeper,France,€200k,Le Havre AC
-Arouna Sangante,23,Centre-Back,Senegal / Guinea-Bissau,€10.00m,Le Havre AC
-Étienne Youté Kinkoué,23,Centre-Back,France / Cameroon,€8.00m,Le Havre AC
-Gautier Lloris,29,Centre-Back,France,€3.00m,Le Havre AC
-Fodé Ballo-Touré,28,Left-Back,Senegal / France,€1.50m,Le Havre AC
-Yanis Zouaoui,27,Left-Back,France / Algeria,€800k,Le Havre AC
-Timothée Pembélé,22,Right-Back,France / DR Congo,€2.50m,Le Havre AC
-Loïc Nego,34,Right-Back,Hungary / France,€800k,Le Havre AC
-Oualid El Hajjam,34,Right-Back,Morocco / France,€400k,Le Havre AC
-Junior Mwanga,22,Defensive Midfield,France / DR Congo,€6.00m,Le Havre AC
-Abdoulaye Touré,31,Defensive Midfield,Guinea / France,€3.00m,Le Havre AC
-Rassoul Ndiaye,23,Defensive Midfield,Senegal / France,€2.50m,Le Havre AC
-Aloïs Confais,28,Defensive Midfield,France,€200k,Le Havre AC
-Yassine Kechta,23,Central Midfield,Morocco / France,€5.00m,Le Havre AC
-Daler Kuzyaev,32,Central Midfield,Russia,€5.00m,Le Havre AC
-Mahamadou Diawara,20,Central Midfield,France / Mali,€2.50m,Le Havre AC
-Ismaïl Bouneb,18,Attacking Midfield,France / Algeria,€50k,Le Havre AC
-Antoine Joujou,22,Left Winger,France / Guadeloupe,€2.50m,Le Havre AC
-Issa Soumaré,24,Left Winger,Senegal / Mauritania,€1.50m,Le Havre AC
-Josué Casimir,23,Right Winger,Guadeloupe / France,€3.50m,Le Havre AC
-Ruben Londja,18,Right Winger,Switzerland,-,Le Havre AC
-Ilyes Housni,19,Centre-Forward,Morocco / France,€2.00m,Le Havre AC
-Ahmed Hassan,32,Centre-Forward,Egypt / Portugal,€900k,Le Havre AC
-André Ayew,35,Centre-Forward,Ghana / France,€700k,Le Havre AC
-Elysée Logbo,21,Centre-Forward,France / Cote d'Ivoire,€600k,Le Havre AC
-Yann Kitala,27,Centre-Forward,DR Congo / France,€500k,Le Havre AC
-Yahia Fofana,24,Goalkeeper,Cote d'Ivoire / France,€6.00m,Angers SCO
-Melvin Zinga,23,Goalkeeper,Congo / France,€250k,Angers SCO
-Oumar Pona,18,Goalkeeper,France / Mali,-,Angers SCO
-Emmanuel Biumla,20,Centre-Back,France / Cameroon,€4.00m,Angers SCO
-Cédric Hountondji,31,Centre-Back,Benin / France,€1.50m,Angers SCO
-Jordan Lefort,31,Centre-Back,France,€1.20m,Angers SCO
-Ousmane Camara,22,Centre-Back,France / Mali,€500k,Angers SCO
-Abdoulaye Bamba,35,Centre-Back,Cote d'Ivoire / Italy,€350k,Angers SCO
-Jacques Ekomié,21,Left-Back,Gabon / France,€800k,Angers SCO
-Florent Hanin,35,Left-Back,France,€350k,Angers SCO
-Carlens Arcus,28,Right-Back,Haiti,€1.50m,Angers SCO
-Lilian Raolisoa,24,Right-Back,France / Madagascar,€700k,Angers SCO
-Halid Sabanovic,25,Right-Back,Bosnia-Herzegovina,€200k,Angers SCO
-Jean-Eudes Aholou,31,Defensive Midfield,Cote d'Ivoire,€2.00m,Angers SCO
-Zinédine Ould Khaled,25,Defensive Midfield,France / Algeria,€300k,Angers SCO
-Haris Belkebla,31,Central Midfield,Algeria / France,€2.00m,Angers SCO
-Yassin Belkhdim,23,Central Midfield,Morocco / France,€800k,Angers SCO
-Pierrick Capelle,38,Central Midfield,France,€200k,Angers SCO
-Himad Abdelli,25,Attacking Midfield,Algeria / France,€7.00m,Angers SCO
-Farid El Melali,27,Left Winger,Algeria,€4.00m,Angers SCO
-Jim Allevinah,30,Right Winger,Gabon / France,€1.80m,Angers SCO
-Zinedine Ferhat,32,Right Winger,Algeria,€1.20m,Angers SCO
-Justin Kalumba,20,Right Winger,France / DR Congo,€600k,Angers SCO
-Estéban Lepaul,25,Centre-Forward,France,€5.00m,Angers SCO
-Bamba Dieng,25,Centre-Forward,Senegal,€3.50m,Angers SCO
-Ibrahima Niane,26,Centre-Forward,Senegal / France,€1.50m,Angers SCO
-Sidiki Chérif,18,Centre-Forward,France / Guinea,€1.00m,Angers SCO
-Adrien Hunou,31,Centre-Forward,France / Poland,€500k,Angers SCO
-Marcin Bulka,25,Goalkeeper,Poland,€20.00m,OGC Nice
-Maxime Dupé,32,Goalkeeper,France,€1.20m,OGC Nice
-Teddy Boulhendi,24,Goalkeeper,Algeria / France,€100k,OGC Nice
-Youssouf Ndayishimiye,26,Centre-Back,Burundi,€12.00m,OGC Nice
-Moïse Bombito,25,Centre-Back,Canada / DR Congo,€10.00m,OGC Nice
-Mohamed Abdelmonem,26,Centre-Back,Egypt,€4.00m,OGC Nice
-Dante,41,Centre-Back,Brazil,€500k,OGC Nice
-Amidou Doumbouya,17,Centre-Back,France / Guinea,€300k,OGC Nice
-Melvin Bard,24,Left-Back,France,€12.00m,OGC Nice
-Ali Abdi,31,Left-Back,Tunisia,€3.00m,OGC Nice
-Yaël Nandjou,19,Left-Back,France / Cameroon,€150k,OGC Nice
-Jonathan Clauss,32,Right-Back,France,€6.00m,OGC Nice
-Antoine Mendy,20,Right-Back,Senegal / France,€3.00m,OGC Nice
-Pablo Rosario,28,Defensive Midfield,Netherlands / Dominican Republic,€8.00m,OGC Nice
-Baptiste Santamaria,30,Defensive Midfield,France,€7.00m,OGC Nice
-Hicham Boudaoui,25,Central Midfield,Algeria,€10.00m,OGC Nice
-Tanguy Ndombélé,28,Central Midfield,France / DR Congo,€10.00m,OGC Nice
-Morgan Sanson,30,Central Midfield,France,€5.00m,OGC Nice
-Tom Louchet,22,Right Midfield,France,€3.00m,OGC Nice
-Jérémie Boga,28,Left Winger,Cote d'Ivoire / France,€12.00m,OGC Nice
-Sofiane Diop,24,Left Winger,Morocco / France,€12.00m,OGC Nice
-Mohamed-Ali Cho,21,Right Winger,France / England,€15.00m,OGC Nice
-Badredine Bouanani,20,Right Winger,Algeria / France,€5.00m,OGC Nice
-Evann Guessand,23,Centre-Forward,Cote d'Ivoire / France,€25.00m,OGC Nice
-Terem Moffi,25,Centre-Forward,Nigeria,€15.00m,OGC Nice
-Youssoufa Moukoko,20,Centre-Forward,Germany / Cameroon,€10.00m,OGC Nice
-Gaëtan Laborde,31,Centre-Forward,France,€6.00m,OGC Nice
-Victor Orakpo,19,Centre-Forward,Nigeria,€500k,OGC Nice
+Mathew Ryan,33,Goalkeeper,Australia / Scotland,€2.50m,RC Lens
+Hervé Koffi,28,Goalkeeper,Burkina Faso / Cote d'Ivoire,€1.50m,RC Lens
+Denis Petric,36,Goalkeeper,Slovenia / Serbia,€100k,RC Lens
+Facundo Medina,25,Centre-Back,Argentina,€25.00m,RC Lens
+Malang Sarr,26,Centre-Back,France / Senegal,€5.00m,RC Lens
+Jonathan Gradit,32,Centre-Back,France,€4.00m,RC Lens
+Juma Bah,19,Centre-Back,Sierra Leone,€4.00m,RC Lens
+Nidal Celik,18,Centre-Back,Bosnia-Herzegovina,€1.80m,RC Lens
+Jhoanner Chávez,23,Left-Back,Ecuador,€4.00m,RC Lens
+Deiver Machado,31,Left-Back,Colombia,€3.50m,RC Lens
+Ruben Aguilar,32,Right-Back,France / Spain,€4.00m,RC Lens
+Hamzat Ojediran,21,Defensive Midfield,Nigeria,€2.00m,RC Lens
+Nampalys Mendy,32,Defensive Midfield,Senegal / France,€2.00m,RC Lens
+Tom Pouilly,21,Defensive Midfield,France,€100k,RC Lens
+Andy Diouf,21,Central Midfield,France / Senegal,€10.00m,RC Lens
+Neil El Aynaoui,23,Central Midfield,Morocco / France,€10.00m,RC Lens
+Anass Zaroury,24,Attacking Midfield,Morocco / Belgium,€8.00m,RC Lens
+Angelo Fulgini,28,Attacking Midfield,France / Cote d'Ivoire,€6.00m,RC Lens
+Adrien Thomasson,31,Attacking Midfield,France / Croatia,€5.00m,RC Lens
+Jeremy Agbonifo,19,Right Winger,Sweden / Nigeria,€5.00m,RC Lens
+M'Bala Nzola,28,Centre-Forward,Angola / France,€8.00m,RC Lens
+Martín Satriano,24,Centre-Forward,Uruguay / Italy,€5.00m,RC Lens
+Wesley Saïd,30,Centre-Forward,France / Comoros,€3.50m,RC Lens
+Florian Sotoca,34,Centre-Forward,France,€2.50m,RC Lens
+Rémy Labeau Lascary,22,Centre-Forward,Guadeloupe / France,€2.50m,RC Lens
+Goduine Koyalipou,25,Centre-Forward,Central African Republic / France,€1.80m,RC Lens
+Yehvann Diouf,25,Goalkeeper,Senegal / France,€9.00m,Stade Reims
+Alexandre Olliero,29,Goalkeeper,France,€300k,Stade Reims
+Ludovic Butelle,42,Goalkeeper,France,€100k,Stade Reims
+Joseph Okumu,27,Centre-Back,Kenya,€7.00m,Stade Reims
+Cédric Kipré,28,Centre-Back,Cote d'Ivoire / France,€3.00m,Stade Reims
+Malcolm Jeng,20,Centre-Back,Sweden,€2.50m,Stade Reims
+Abdoul Koné,20,Centre-Back,France / Cote d'Ivoire,€500k,Stade Reims
+Sergio Akieme,27,Left-Back,Spain / Equatorial Guinea,€7.00m,Stade Reims
+Nhoa Sangui,19,Left-Back,France / Congo,€2.50m,Stade Reims
+Aurélio Buta,28,Right-Back,Portugal / Angola,€5.00m,Stade Reims
+Hiroki Sekine,22,Right-Back,Japan,€800k,Stade Reims
+Gabriel Moscardo,19,Defensive Midfield,Brazil,€10.00m,Stade Reims
+Mory Gbane,24,Defensive Midfield,Cote d'Ivoire,€4.00m,Stade Reims
+Amadou Koné,20,Defensive Midfield,Cote d'Ivoire / Mali,€1.50m,Stade Reims
+Valentin Atangana,19,Central Midfield,France / Cameroon,€9.00m,Stade Reims
+Yaya Fofana,20,Central Midfield,Cote d'Ivoire / Mali,€5.00m,Stade Reims
+Teddy Teuma,31,Central Midfield,Malta / France,€4.00m,Stade Reims
+John Patrick,21,Central Midfield,Ireland / Spain,€1.00m,Stade Reims
+Reda Khadra,23,Attacking Midfield,Germany,€2.50m,Stade Reims
+Keito Nakamura,24,Left Winger,Japan,€10.00m,Stade Reims
+Mohamed Daramy,23,Left Winger,Denmark / Sierra Leone,€5.00m,Stade Reims
+Mamadou Diakhon,19,Left Winger,France / Senegal,€1.50m,Stade Reims
+Junya Ito,32,Right Winger,Japan,€8.00m,Stade Reims
+Oumar Diakité,21,Centre-Forward,Cote d'Ivoire,€7.00m,Stade Reims
+Jordan,29,Centre-Forward,United States / France,€3.00m,Stade Reims
 Gautier Larsonneur,28,Goalkeeper,France,€3.50m,AS Saint-Étienne
 Brice Maubleu,35,Goalkeeper,France,€300k,AS Saint-Étienne
 Boubacar Fall,24,Goalkeeper,Senegal,€100k,AS Saint-Étienne
@@ -211,31 +160,6 @@ Irvin Cardona,27,Centre-Forward,France / Malta,€2.00m,AS Saint-Étienne
 Ibrahim Sissoko,29,Centre-Forward,Mali / France,€2.00m,AS Saint-Étienne
 Ibrahima Wadji,30,Centre-Forward,Senegal,€800k,AS Saint-Étienne
 Djylian N'Guessan,16,Centre-Forward,France / Cote d'Ivoire,€800k,AS Saint-Étienne
-Yehvann Diouf,25,Goalkeeper,Senegal / France,€9.00m,Stade Reims
-Alexandre Olliero,29,Goalkeeper,France,€300k,Stade Reims
-Ludovic Butelle,42,Goalkeeper,France,€100k,Stade Reims
-Joseph Okumu,27,Centre-Back,Kenya,€7.00m,Stade Reims
-Cédric Kipré,28,Centre-Back,Cote d'Ivoire / France,€3.00m,Stade Reims
-Malcolm Jeng,20,Centre-Back,Sweden,€2.50m,Stade Reims
-Abdoul Koné,20,Centre-Back,France / Cote d'Ivoire,€500k,Stade Reims
-Sergio Akieme,27,Left-Back,Spain / Equatorial Guinea,€7.00m,Stade Reims
-Nhoa Sangui,19,Left-Back,France / Congo,€2.50m,Stade Reims
-Aurélio Buta,28,Right-Back,Portugal / Angola,€5.00m,Stade Reims
-Hiroki Sekine,22,Right-Back,Japan,€800k,Stade Reims
-Gabriel Moscardo,19,Defensive Midfield,Brazil,€10.00m,Stade Reims
-Mory Gbane,24,Defensive Midfield,Cote d'Ivoire,€4.00m,Stade Reims
-Amadou Koné,19,Defensive Midfield,Cote d'Ivoire / Mali,€1.50m,Stade Reims
-Valentin Atangana,19,Central Midfield,France / Cameroon,€9.00m,Stade Reims
-Yaya Fofana,20,Central Midfield,Cote d'Ivoire / Mali,€5.00m,Stade Reims
-Teddy Teuma,31,Central Midfield,Malta / France,€4.00m,Stade Reims
-John Patrick,21,Central Midfield,Ireland / Spain,€1.00m,Stade Reims
-Reda Khadra,23,Attacking Midfield,Germany,€2.50m,Stade Reims
-Keito Nakamura,24,Left Winger,Japan,€10.00m,Stade Reims
-Mohamed Daramy,23,Left Winger,Denmark / Sierra Leone,€5.00m,Stade Reims
-Mamadou Diakhon,19,Left Winger,France / Senegal,€1.50m,Stade Reims
-Junya Ito,32,Right Winger,Japan,€8.00m,Stade Reims
-Oumar Diakité,21,Centre-Forward,Cote d'Ivoire,€7.00m,Stade Reims
-Jordan,29,Centre-Forward,United States / France,€3.00m,Stade Reims
 Donovan Léon,32,Goalkeeper,French Guiana / France,€800k,AJ Auxerre
 Théo De Percin,24,Goalkeeper,France / Martinique,€300k,AJ Auxerre
 Raphaël Adiceam,34,Goalkeeper,France,€50k,AJ Auxerre
@@ -264,32 +188,240 @@ Eros Maddy,24,Right Winger,Netherlands / Liberia,€200k,AJ Auxerre
 Theo Bair,25,Centre-Forward,Canada / Jamaica,€1.80m,AJ Auxerre
 Ado Onaiwu,29,Centre-Forward,Japan,€1.80m,AJ Auxerre
 Florian Ayé,28,Centre-Forward,France / Benin,€1.50m,AJ Auxerre
-Mathew Ryan,33,Goalkeeper,Australia / Scotland,€2.50m,RC Lens
-Hervé Koffi,28,Goalkeeper,Burkina Faso / Cote d'Ivoire,€1.50m,RC Lens
-Denis Petric,36,Goalkeeper,Slovenia / Serbia,€100k,RC Lens
-Facundo Medina,25,Centre-Back,Argentina,€25.00m,RC Lens
-Malang Sarr,26,Centre-Back,France / Senegal,€5.00m,RC Lens
-Jonathan Gradit,32,Centre-Back,France,€4.00m,RC Lens
-Juma Bah,19,Centre-Back,Sierra Leone,€4.00m,RC Lens
-Nidal Celik,18,Centre-Back,Bosnia-Herzegovina,€1.80m,RC Lens
-Jhoanner Chávez,23,Left-Back,Ecuador,€4.00m,RC Lens
-Deiver Machado,31,Left-Back,Colombia,€3.50m,RC Lens
-Ruben Aguilar,32,Right-Back,France / Spain,€4.00m,RC Lens
-Hamzat Ojediran,21,Defensive Midfield,Nigeria,€2.00m,RC Lens
-Nampalys Mendy,32,Defensive Midfield,Senegal / France,€2.00m,RC Lens
-Tom Pouilly,21,Defensive Midfield,France,€100k,RC Lens
-Andy Diouf,21,Central Midfield,France / Senegal,€10.00m,RC Lens
-Neil El Aynaoui,23,Central Midfield,Morocco / France,€10.00m,RC Lens
-Anass Zaroury,24,Attacking Midfield,Morocco / Belgium,€8.00m,RC Lens
-Angelo Fulgini,28,Attacking Midfield,France / Cote d'Ivoire,€6.00m,RC Lens
-Adrien Thomasson,31,Attacking Midfield,France / Croatia,€5.00m,RC Lens
-Jeremy Agbonifo,19,Right Winger,Sweden / Nigeria,€5.00m,RC Lens
-M'Bala Nzola,28,Centre-Forward,Angola / France,€8.00m,RC Lens
-Martín Satriano,24,Centre-Forward,Uruguay / Italy,€5.00m,RC Lens
-Wesley Saïd,30,Centre-Forward,France / Comoros,€3.50m,RC Lens
-Florian Sotoca,34,Centre-Forward,France,€2.50m,RC Lens
-Rémy Labeau Lascary,22,Centre-Forward,Guadeloupe / France,€2.50m,RC Lens
-Goduine Koyalipou,25,Centre-Forward,Central African Republic / France,€1.80m,RC Lens
+Marco Bizot,34,Goalkeeper,Netherlands,€3.50m,Stade Brestois 29
+Grégoire Coudert,26,Goalkeeper,France,€400k,Stade Brestois 29
+Noah Jauny,20,Goalkeeper,Ireland,-,Stade Brestois 29
+Soumaïla Coulibaly,21,Centre-Back,France / Mali,€9.00m,Stade Brestois 29
+Brendan Chardonnet,30,Centre-Back,France,€6.00m,Stade Brestois 29
+Abdoulaye Ndiaye,23,Centre-Back,Senegal,€3.00m,Stade Brestois 29
+Julien Le Cardinal,27,Centre-Back,France,€1.50m,Stade Brestois 29
+Bradley Locko,23,Left-Back,France / Congo,€9.00m,Stade Brestois 29
+Jordan Amavi,31,Left-Back,France / Senegal,€2.00m,Stade Brestois 29
+Massadio Haidara,32,Left-Back,Mali / France,€1.80m,Stade Brestois 29
+Justin Bourgault,19,Left-Back,France,€300k,Stade Brestois 29
+Luck Zogbé,20,Right-Back,Cote d'Ivoire,€3.00m,Stade Brestois 29
+Kenny Lala,33,Right-Back,France / Martinique,€2.50m,Stade Brestois 29
+Pierre Lees-Melou,31,Defensive Midfield,France,€7.00m,Stade Brestois 29
+Edimilson Fernandes,29,Defensive Midfield,Switzerland / Portugal,€3.50m,Stade Brestois 29
+Jonas Martin,35,Defensive Midfield,France,€800k,Stade Brestois 29
+Hamidou Makalou,18,Defensive Midfield,Mali,€200k,Stade Brestois 29
+Mahdi Camara,26,Central Midfield,France / The Gambia,€10.00m,Stade Brestois 29
+Hugo Magnetti,26,Central Midfield,France,€7.00m,Stade Brestois 29
+Romain Faivre,26,Right Midfield,France / Algeria,€7.00m,Stade Brestois 29
+Kamory Doumbia,22,Attacking Midfield,Mali,€5.00m,Stade Brestois 29
+Abdallah Sima,23,Left Winger,Senegal,€10.00m,Stade Brestois 29
+Ibrahim Salah,23,Left Winger,Morocco / Belgium,€4.00m,Stade Brestois 29
+Mathias Pereira Lage,28,Left Winger,France / Portugal,€2.00m,Stade Brestois 29
+Romain Del Castillo,29,Right Winger,France / Spain,€8.00m,Stade Brestois 29
+Mama Baldé,29,Centre-Forward,Guinea-Bissau / Portugal,€4.50m,Stade Brestois 29
+Ludovic Ajorque,31,Centre-Forward,France / Réunion,€4.00m,Stade Brestois 29
+Lucas Perri,27,Goalkeeper,Brazil / Italy,€10.00m,Olympique Lyon
+Rémy Descamps,28,Goalkeeper,France,€1.50m,Olympique Lyon
+Lassine Diarra,22,Goalkeeper,Mali,€25k,Olympique Lyon
+Moussa Niakhaté,29,Centre-Back,Senegal / France,€15.00m,Olympique Lyon
+Duje Caleta-Car,28,Centre-Back,Croatia,€8.00m,Olympique Lyon
+Warmed Omari,25,Centre-Back,Comoros / France,€4.00m,Olympique Lyon
+Abner,24,Left-Back,Brazil,€9.00m,Olympique Lyon
+Nicolás Tagliafico,32,Left-Back,Argentina / Italy,€7.00m,Olympique Lyon
+Ainsley Maitland-Niles,27,Right-Back,England / Jamaica,€10.00m,Olympique Lyon
+Saël Kumbedi,20,Right-Back,France / DR Congo,€6.00m,Olympique Lyon
+Clinton Mata,32,Right-Back,Angola / Belgium,€4.00m,Olympique Lyon
+Tanner Tessmann,23,Defensive Midfield,United States,€6.00m,Olympique Lyon
+Nemanja Matic,36,Defensive Midfield,Serbia / Slovakia,€2.50m,Olympique Lyon
+Paul Akouokou,27,Defensive Midfield,Cote d'Ivoire,€800k,Olympique Lyon
+Corentin Tolisso,30,Central Midfield,France / Togo,€10.00m,Olympique Lyon
+Jordan Veretout,32,Central Midfield,France,€5.00m,Olympique Lyon
+Thiago Almada,24,Attacking Midfield,Argentina,€25.00m,Olympique Lyon
+Malick Fofana,20,Left Winger,Belgium / Guinea,€25.00m,Olympique Lyon
+Rayan Cherki,21,Right Winger,France / Algeria,€35.00m,Olympique Lyon
+Ernest Nuamah,21,Right Winger,Ghana,€15.00m,Olympique Lyon
+Georges Mikautadze,24,Centre-Forward,Georgia / France,€20.00m,Olympique Lyon
+Alexandre Lacazette,33,Centre-Forward,France / Guadeloupe,€8.00m,Olympique Lyon
+Enzo Molebe,17,Centre-Forward,France / DR Congo,€100k,Olympique Lyon
+Lucas Chevalier,23,Goalkeeper,France,€30.00m,LOSC Lille
+Vito Mannone,37,Goalkeeper,Italy,€200k,LOSC Lille
+Marc-Aurèle Caillard,31,Goalkeeper,France,€150k,LOSC Lille
+Bafodé Diakité,24,Centre-Back,France / Guinea,€25.00m,LOSC Lille
+Alexsandro,25,Centre-Back,Brazil,€15.00m,LOSC Lille
+Samuel Umtiti,31,Centre-Back,France / Cameroon,€2.00m,LOSC Lille
+Aïssa Mandi,33,Centre-Back,Algeria / France,€1.50m,LOSC Lille
+Gabriel Gudmundsson,26,Left-Back,Sweden,€9.00m,LOSC Lille
+Mitchel Bakker,24,Left-Back,Netherlands,€7.00m,LOSC Lille
+Ismaily,35,Left-Back,Brazil,€1.50m,LOSC Lille
+Tiago Santos,22,Right-Back,Portugal,€15.00m,LOSC Lille
+Thomas Meunier,33,Right-Back,Belgium,€2.00m,LOSC Lille
+Ngal'ayel Mukau,20,Defensive Midfield,DR Congo / Belgium,€15.00m,LOSC Lille
+Nabil Bentaleb,30,Defensive Midfield,Algeria / France,€8.00m,LOSC Lille
+Benjamin André,34,Defensive Midfield,France,€6.00m,LOSC Lille
+Ayyoub Bouaddi,17,Central Midfield,France / Morocco,€30.00m,LOSC Lille
+André Gomes,31,Central Midfield,Portugal,€8.00m,LOSC Lille
+Ethan Mbappé,18,Central Midfield,France / Cameroon,€5.00m,LOSC Lille
+Angel Gomes,24,Attacking Midfield,England / Portugal,€20.00m,LOSC Lille
+Hákon Arnar Haraldsson,22,Attacking Midfield,Iceland,€15.00m,LOSC Lille
+Rémy Cabella,35,Attacking Midfield,France / Italy,€3.00m,LOSC Lille
+Osame Sahraoui,23,Left Winger,Morocco / Norway,€12.00m,LOSC Lille
+Edon Zhegrova,26,Right Winger,Kosovo / Germany,€25.00m,LOSC Lille
+Jonathan David,25,Centre-Forward,Canada / United States,€45.00m,LOSC Lille
+Matías Fernández-Pardo,20,Centre-Forward,Spain / Belgium,€10.00m,LOSC Lille
+Chuba Akpom,29,Centre-Forward,England / Nigeria,€8.00m,LOSC Lille
+Djordje Petrovic,25,Goalkeeper,Serbia,€18.00m,RC Strasbourg Alsace
+Alaa Bellaarouch,23,Goalkeeper,Morocco,€500k,RC Strasbourg Alsace
+Karl-Johan Johnsson,35,Goalkeeper,Sweden,€400k,RC Strasbourg Alsace
+Mamadou Sarr,19,Centre-Back,France / Senegal,€15.00m,RC Strasbourg Alsace
+Ismaël Doukouré,21,Centre-Back,France / Cote d'Ivoire,€15.00m,RC Strasbourg Alsace
+Abakar Sylla,22,Centre-Back,Cote d'Ivoire,€12.00m,RC Strasbourg Alsace
+Andrew Omobamidele,22,Centre-Back,Ireland / Nigeria,€10.00m,RC Strasbourg Alsace
+Yoni Gomis,19,Centre-Back,France / Senegal,€1.00m,RC Strasbourg Alsace
+Eduard Sobol,30,Left-Back,Ukraine,€1.20m,RC Strasbourg Alsace
+Thomas Delaine,33,Left-Back,France,€800k,RC Strasbourg Alsace
+Guéla Doué,22,Right-Back,Cote d'Ivoire / France,€12.00m,RC Strasbourg Alsace
+Pape Diong,18,Defensive Midfield,Senegal,€800k,RC Strasbourg Alsace
+Andrey Santos,21,Central Midfield,Brazil,€25.00m,RC Strasbourg Alsace
+Habib Diarra,21,Central Midfield,Senegal / France,€20.00m,RC Strasbourg Alsace
+Valentín Barco,20,Central Midfield,Argentina,€8.00m,RC Strasbourg Alsace
+Sebastian Nanasi,22,Left Midfield,Sweden / Hungary,€15.00m,RC Strasbourg Alsace
+Félix Lemaréchal,21,Attacking Midfield,France / Cote d'Ivoire,€7.00m,RC Strasbourg Alsace
+Tidiane Diallo,18,Attacking Midfield,France / Senegal,-,RC Strasbourg Alsace
+Diego Moreira,20,Left Winger,Portugal / Belgium,€10.00m,RC Strasbourg Alsace
+Óscar Perea,19,Left Winger,Colombia,€2.50m,RC Strasbourg Alsace
+Dilane Bakwa,22,Right Winger,France / DR Congo,€18.00m,RC Strasbourg Alsace
+Samuel Amo-Ameyaw,18,Right Winger,England / Ghana,€2.00m,RC Strasbourg Alsace
+Abdoul Ouattara,19,Right Winger,Cote d'Ivoire / France,€800k,RC Strasbourg Alsace
+Emanuel Emegha,22,Centre-Forward,Netherlands / Nigeria,€20.00m,RC Strasbourg Alsace
+Sékou Mara,22,Centre-Forward,France / Senegal,€6.00m,RC Strasbourg Alsace
+Moïse Sahi Dion,23,Centre-Forward,Cote d'Ivoire / Mali,€1.50m,RC Strasbourg Alsace
+Guillaume Restes,20,Goalkeeper,France / Cote d'Ivoire,€20.00m,FC Toulouse
+Kjetil Haug,26,Goalkeeper,Norway,€600k,FC Toulouse
+Justin Lacombe,22,Goalkeeper,France,€50k,FC Toulouse
+Charlie Cresswell,22,Centre-Back,England,€7.00m,FC Toulouse
+Mark McKenzie,26,Centre-Back,United States / Jamaica,€6.00m,FC Toulouse
+Rasmus Nicolaisen,28,Centre-Back,Denmark,€5.00m,FC Toulouse
+Jaydee Canvot,18,Centre-Back,France,€2.50m,FC Toulouse
+Ümit Akdağ,21,Centre-Back,Romania / Türkiye,€800k,FC Toulouse
+Gabriel Suazo,27,Left-Back,Chile,€4.00m,FC Toulouse
+Ylies Aradj,19,Left-Back,France / Algeria,-,FC Toulouse
+Warren Kamanzi,24,Right-Back,Norway,€2.00m,FC Toulouse
+Djibril Sidibé,32,Right-Back,France / Mali,€1.20m,FC Toulouse
+Cristian Cásseres Jr.,25,Central Midfield,Venezuela,€5.00m,FC Toulouse
+Vincent Sierro,29,Central Midfield,Switzerland,€4.00m,FC Toulouse
+Niklas Schmidt,27,Central Midfield,Germany,€2.00m,FC Toulouse
+Miha Zajc,30,Central Midfield,Slovenia,€1.80m,FC Toulouse
+Rafik Messali,22,Right Midfield,Algeria / France,€800k,FC Toulouse
+Aron Dønnum,27,Left Midfield,Norway,€4.00m,FC Toulouse
+Mathis Saka,18,Attacking Midfield,France,-,FC Toulouse
+Yann Gboho,24,Left Winger,France / Cote d'Ivoire,€8.00m,FC Toulouse
+Zakaria Aboukhlal,25,Right Winger,Morocco / Netherlands,€12.00m,FC Toulouse
+Shavy Babicka,24,Right Winger,Gabon,€3.00m,FC Toulouse
+Noah Edjouma,19,Right Winger,France / Cameroon,€500k,FC Toulouse
+Frank Magri,25,Centre-Forward,Cameroon / France,€2.50m,FC Toulouse
+Joshua King,33,Centre-Forward,Norway,€2.00m,FC Toulouse
+Marcin Bulka,25,Goalkeeper,Poland,€20.00m,OGC Nice
+Maxime Dupé,32,Goalkeeper,France,€1.20m,OGC Nice
+Teddy Boulhendi,24,Goalkeeper,Algeria / France,€100k,OGC Nice
+Youssouf Ndayishimiye,26,Centre-Back,Burundi,€12.00m,OGC Nice
+Moïse Bombito,25,Centre-Back,Canada / DR Congo,€10.00m,OGC Nice
+Mohamed Abdelmonem,26,Centre-Back,Egypt,€4.00m,OGC Nice
+Dante,41,Centre-Back,Brazil,€500k,OGC Nice
+Amidou Doumbouya,17,Centre-Back,France / Guinea,€300k,OGC Nice
+Melvin Bard,24,Left-Back,France,€12.00m,OGC Nice
+Ali Abdi,31,Left-Back,Tunisia,€3.00m,OGC Nice
+Yaël Nandjou,19,Left-Back,France / Cameroon,€150k,OGC Nice
+Jonathan Clauss,32,Right-Back,France,€6.00m,OGC Nice
+Antoine Mendy,20,Right-Back,Senegal / France,€3.00m,OGC Nice
+Pablo Rosario,28,Defensive Midfield,Netherlands / Dominican Republic,€8.00m,OGC Nice
+Baptiste Santamaria,30,Defensive Midfield,France,€7.00m,OGC Nice
+Hicham Boudaoui,25,Central Midfield,Algeria,€10.00m,OGC Nice
+Tanguy Ndombélé,28,Central Midfield,France / DR Congo,€10.00m,OGC Nice
+Morgan Sanson,30,Central Midfield,France,€5.00m,OGC Nice
+Tom Louchet,22,Right Midfield,France,€3.00m,OGC Nice
+Jérémie Boga,28,Left Winger,Cote d'Ivoire / France,€12.00m,OGC Nice
+Sofiane Diop,24,Left Winger,Morocco / France,€12.00m,OGC Nice
+Mohamed-Ali Cho,21,Right Winger,France / England,€15.00m,OGC Nice
+Badredine Bouanani,20,Right Winger,Algeria / France,€5.00m,OGC Nice
+Evann Guessand,23,Centre-Forward,Cote d'Ivoire / France,€25.00m,OGC Nice
+Terem Moffi,25,Centre-Forward,Nigeria,€15.00m,OGC Nice
+Youssoufa Moukoko,20,Centre-Forward,Germany / Cameroon,€10.00m,OGC Nice
+Gaëtan Laborde,31,Centre-Forward,France,€6.00m,OGC Nice
+Victor Orakpo,19,Centre-Forward,Nigeria,€500k,OGC Nice
+Yahia Fofana,24,Goalkeeper,Cote d'Ivoire / France,€6.00m,Angers SCO
+Melvin Zinga,23,Goalkeeper,Congo / France,€250k,Angers SCO
+Oumar Pona,18,Goalkeeper,France / Mali,-,Angers SCO
+Emmanuel Biumla,20,Centre-Back,France / Cameroon,€4.00m,Angers SCO
+Cédric Hountondji,31,Centre-Back,Benin / France,€1.50m,Angers SCO
+Jordan Lefort,31,Centre-Back,France,€1.20m,Angers SCO
+Ousmane Camara,22,Centre-Back,France / Mali,€500k,Angers SCO
+Abdoulaye Bamba,35,Centre-Back,Cote d'Ivoire / Italy,€350k,Angers SCO
+Jacques Ekomié,21,Left-Back,Gabon / France,€800k,Angers SCO
+Florent Hanin,35,Left-Back,France,€350k,Angers SCO
+Carlens Arcus,28,Right-Back,Haiti,€1.50m,Angers SCO
+Lilian Raolisoa,24,Right-Back,France / Madagascar,€700k,Angers SCO
+Halid Sabanovic,25,Right-Back,Bosnia-Herzegovina,€200k,Angers SCO
+Jean-Eudes Aholou,31,Defensive Midfield,Cote d'Ivoire,€2.00m,Angers SCO
+Zinédine Ould Khaled,25,Defensive Midfield,France / Algeria,€300k,Angers SCO
+Haris Belkebla,31,Central Midfield,Algeria / France,€2.00m,Angers SCO
+Yassin Belkhdim,23,Central Midfield,Morocco / France,€800k,Angers SCO
+Pierrick Capelle,38,Central Midfield,France,€200k,Angers SCO
+Himad Abdelli,25,Attacking Midfield,Algeria / France,€7.00m,Angers SCO
+Farid El Melali,27,Left Winger,Algeria,€4.00m,Angers SCO
+Jim Allevinah,30,Right Winger,Gabon / France,€1.80m,Angers SCO
+Zinedine Ferhat,32,Right Winger,Algeria,€1.20m,Angers SCO
+Justin Kalumba,20,Right Winger,France / DR Congo,€600k,Angers SCO
+Estéban Lepaul,25,Centre-Forward,France,€5.00m,Angers SCO
+Bamba Dieng,25,Centre-Forward,Senegal,€3.50m,Angers SCO
+Ibrahima Niane,26,Centre-Forward,Senegal / France,€1.50m,Angers SCO
+Sidiki Chérif,18,Centre-Forward,France / Guinea,€1.00m,Angers SCO
+Adrien Hunou,31,Centre-Forward,France / Poland,€500k,Angers SCO
+Gianluigi Donnarumma,26,Goalkeeper,Italy,€35.00m,Paris Saint-Germain
+Matvey Safonov,26,Goalkeeper,Russia,€22.00m,Paris Saint-Germain
+Arnau Tenas,23,Goalkeeper,Spain,€4.00m,Paris Saint-Germain
+Willian Pacho,23,Centre-Back,Ecuador,€45.00m,Paris Saint-Germain
+Marquinhos,31,Centre-Back,Brazil / Portugal,€40.00m,Paris Saint-Germain
+Lucas Beraldo,21,Centre-Back,Brazil,€25.00m,Paris Saint-Germain
+Presnel Kimpembe,29,Centre-Back,France / DR Congo,€8.00m,Paris Saint-Germain
+Naoufel El Hannach,18,Centre-Back,Morocco / France,-,Paris Saint-Germain
+Nuno Mendes,22,Left-Back,Portugal,€55.00m,Paris Saint-Germain
+Lucas Hernández,29,Left-Back,France / Spain,€30.00m,Paris Saint-Germain
+Achraf Hakimi,26,Right-Back,Morocco / Spain,€65.00m,Paris Saint-Germain
+Yoram Zague,18,Right-Back,France / Cote d'Ivoire,€2.50m,Paris Saint-Germain
+João Neves,20,Defensive Midfield,Portugal,€65.00m,Paris Saint-Germain
+Vitinha,25,Central Midfield,Portugal,€60.00m,Paris Saint-Germain
+Warren Zaïre-Emery,19,Central Midfield,France / Martinique,€60.00m,Paris Saint-Germain
+Fabián Ruiz,29,Central Midfield,Spain,€35.00m,Paris Saint-Germain
+Senny Mayulu,18,Central Midfield,France / DR Congo,€10.00m,Paris Saint-Germain
+Khvicha Kvaratskhelia,24,Left Winger,Georgia,€80.00m,Paris Saint-Germain
+Bradley Barcola,22,Left Winger,France / Togo,€70.00m,Paris Saint-Germain
+Désiré Doué,19,Left Winger,France / Cote d'Ivoire,€60.00m,Paris Saint-Germain
+Ousmane Dembélé,27,Right Winger,France,€75.00m,Paris Saint-Germain
+Kang-in Lee,24,Right Winger,"Korea, South",€30.00m,Paris Saint-Germain
+Ibrahim Mbaye,17,Right Winger,France / Senegal,€2.00m,Paris Saint-Germain
+Gonçalo Ramos,23,Centre-Forward,Portugal,€45.00m,Paris Saint-Germain
+Arthur Desmas,31,Goalkeeper,France,€1.50m,Le Havre AC
+Mathieu Gorgelin,34,Goalkeeper,France,€200k,Le Havre AC
+Arouna Sangante,23,Centre-Back,Senegal / Guinea-Bissau,€10.00m,Le Havre AC
+Étienne Youté Kinkoué,23,Centre-Back,France / Cameroon,€8.00m,Le Havre AC
+Gautier Lloris,29,Centre-Back,France,€3.00m,Le Havre AC
+Fodé Ballo-Touré,28,Left-Back,Senegal / France,€1.50m,Le Havre AC
+Yanis Zouaoui,27,Left-Back,France / Algeria,€800k,Le Havre AC
+Timothée Pembélé,22,Right-Back,France / DR Congo,€2.50m,Le Havre AC
+Loïc Nego,34,Right-Back,Hungary / France,€800k,Le Havre AC
+Oualid El Hajjam,34,Right-Back,Morocco / France,€400k,Le Havre AC
+Junior Mwanga,22,Defensive Midfield,France / DR Congo,€6.00m,Le Havre AC
+Abdoulaye Touré,31,Defensive Midfield,Guinea / France,€3.00m,Le Havre AC
+Rassoul Ndiaye,23,Defensive Midfield,Senegal / France,€2.50m,Le Havre AC
+Aloïs Confais,28,Defensive Midfield,France,€200k,Le Havre AC
+Yassine Kechta,23,Central Midfield,Morocco / France,€5.00m,Le Havre AC
+Daler Kuzyaev,32,Central Midfield,Russia,€5.00m,Le Havre AC
+Mahamadou Diawara,20,Central Midfield,France / Mali,€2.50m,Le Havre AC
+Ismaïl Bouneb,18,Attacking Midfield,France / Algeria,€50k,Le Havre AC
+Antoine Joujou,22,Left Winger,France / Guadeloupe,€2.50m,Le Havre AC
+Issa Soumaré,24,Left Winger,Senegal / Mauritania,€1.50m,Le Havre AC
+Josué Casimir,23,Right Winger,Guadeloupe / France,€3.50m,Le Havre AC
+Ruben Londja,18,Right Winger,Switzerland,-,Le Havre AC
+Ilyes Housni,20,Centre-Forward,Morocco / France,€2.00m,Le Havre AC
+Ahmed Hassan,32,Centre-Forward,Egypt / Portugal,€900k,Le Havre AC
+André Ayew,35,Centre-Forward,Ghana / France,€700k,Le Havre AC
+Elysée Logbo,21,Centre-Forward,France / Cote d'Ivoire,€600k,Le Havre AC
+Yann Kitala,27,Centre-Forward,DR Congo / France,€500k,Le Havre AC
 Benjamin Lecomte,34,Goalkeeper,France,€2.00m,Montpellier HSC
 Dimitry Bertaud,26,Goalkeeper,DR Congo / France,€1.20m,Montpellier HSC
 Belmin Dizdarevic,23,Goalkeeper,Bosnia-Herzegovina,€150k,Montpellier HSC
@@ -341,135 +473,3 @@ Mika Biereth,22,Centre-Forward,Denmark / England,€25.00m,AS Monaco
 Folarin Balogun,23,Centre-Forward,United States / England,€20.00m,AS Monaco
 George Ilenikhena,18,Centre-Forward,Nigeria / France,€15.00m,AS Monaco
 Breel Embolo,28,Centre-Forward,Switzerland / Cameroon,€12.00m,AS Monaco
-Lucas Chevalier,23,Goalkeeper,France,€30.00m,LOSC Lille
-Vito Mannone,37,Goalkeeper,Italy,€200k,LOSC Lille
-Marc-Aurèle Caillard,31,Goalkeeper,France,€150k,LOSC Lille
-Bafodé Diakité,24,Centre-Back,France / Guinea,€25.00m,LOSC Lille
-Alexsandro,25,Centre-Back,Brazil,€15.00m,LOSC Lille
-Samuel Umtiti,31,Centre-Back,France / Cameroon,€2.00m,LOSC Lille
-Aïssa Mandi,33,Centre-Back,Algeria / France,€1.50m,LOSC Lille
-Gabriel Gudmundsson,26,Left-Back,Sweden,€9.00m,LOSC Lille
-Mitchel Bakker,24,Left-Back,Netherlands,€7.00m,LOSC Lille
-Ismaily,35,Left-Back,Brazil,€1.50m,LOSC Lille
-Tiago Santos,22,Right-Back,Portugal,€15.00m,LOSC Lille
-Thomas Meunier,33,Right-Back,Belgium,€2.00m,LOSC Lille
-Ngal'ayel Mukau,20,Defensive Midfield,DR Congo / Belgium,€15.00m,LOSC Lille
-Nabil Bentaleb,30,Defensive Midfield,Algeria / France,€8.00m,LOSC Lille
-Benjamin André,34,Defensive Midfield,France,€6.00m,LOSC Lille
-Ayyoub Bouaddi,17,Central Midfield,France / Morocco,€30.00m,LOSC Lille
-André Gomes,31,Central Midfield,Portugal,€8.00m,LOSC Lille
-Ethan Mbappé,18,Central Midfield,France / Cameroon,€5.00m,LOSC Lille
-Angel Gomes,24,Attacking Midfield,England / Portugal,€20.00m,LOSC Lille
-Hákon Arnar Haraldsson,22,Attacking Midfield,Iceland,€15.00m,LOSC Lille
-Rémy Cabella,35,Attacking Midfield,France / Italy,€3.00m,LOSC Lille
-Osame Sahraoui,23,Left Winger,Morocco / Norway,€12.00m,LOSC Lille
-Edon Zhegrova,26,Right Winger,Kosovo / Germany,€25.00m,LOSC Lille
-Jonathan David,25,Centre-Forward,Canada / United States,€45.00m,LOSC Lille
-Matías Fernández-Pardo,20,Centre-Forward,Spain / Belgium,€10.00m,LOSC Lille
-Chuba Akpom,29,Centre-Forward,England / Nigeria,€8.00m,LOSC Lille
-Alban Lafont,26,Goalkeeper,France / Burkina Faso,€4.00m,FC Nantes
-Anthony Lopes,34,Goalkeeper,Portugal / France,€1.50m,FC Nantes
-Patrik Carlgren,33,Goalkeeper,Sweden,€800k,FC Nantes
-Hugo Barbet,23,Goalkeeper,France,€100k,FC Nantes
-Nathan Zézé,19,Centre-Back,France / Cote d'Ivoire,€12.00m,FC Nantes
-Saïdou Sow,22,Centre-Back,Guinea / France,€6.00m,FC Nantes
-Jean-Charles Castelletto,30,Centre-Back,Cameroon / France,€3.50m,FC Nantes
-Nicolas Pallois,37,Centre-Back,France,€500k,FC Nantes
-Nicolas Cozza,26,Left-Back,France / Italy,€3.50m,FC Nantes
-Kelvin Amian,27,Right-Back,France / Cote d'Ivoire,€2.50m,FC Nantes
-Fabien Centonze,29,Right-Back,France,€2.00m,FC Nantes
-Marcus Coco,28,Right-Back,Guadeloupe / France,€1.50m,FC Nantes
-Johann Lepenant,22,Defensive Midfield,France,€7.00m,FC Nantes
-Pedro Chirivella,27,Defensive Midfield,Spain,€5.00m,FC Nantes
-Francis Coquelin,34,Defensive Midfield,France / Réunion,€1.00m,FC Nantes
-Douglas Augusto,28,Central Midfield,Brazil,€6.00m,FC Nantes
-Dehmaine Tabibou,20,Central Midfield,France / Comoros,€100k,FC Nantes
-Louis Leroux,19,Attacking Midfield,France,€2.00m,FC Nantes
-Florent Mollet,33,Attacking Midfield,France,€1.50m,FC Nantes
-Moses Simon,29,Left Winger,Nigeria,€12.00m,FC Nantes
-Herba Guirassy,18,Left Winger,France / Guinea,€1.00m,FC Nantes
-Sorba Thomas,26,Right Winger,Wales / England,€4.00m,FC Nantes
-Matthis Abline,22,Centre-Forward,France,€12.00m,FC Nantes
-Mostafa Mohamed,27,Centre-Forward,Egypt,€6.00m,FC Nantes
-Meschack Elia,27,Centre-Forward,DR Congo,€5.00m,FC Nantes
-Tino Kadewere,29,Centre-Forward,Zimbabwe,€3.00m,FC Nantes
-Djordje Petrovic,25,Goalkeeper,Serbia,€18.00m,RC Strasbourg Alsace
-Alaa Bellaarouch,23,Goalkeeper,Morocco,€500k,RC Strasbourg Alsace
-Karl-Johan Johnsson,35,Goalkeeper,Sweden,€400k,RC Strasbourg Alsace
-Mamadou Sarr,19,Centre-Back,France / Senegal,€15.00m,RC Strasbourg Alsace
-Ismaël Doukouré,21,Centre-Back,France / Cote d'Ivoire,€15.00m,RC Strasbourg Alsace
-Abakar Sylla,22,Centre-Back,Cote d'Ivoire,€12.00m,RC Strasbourg Alsace
-Andrew Omobamidele,22,Centre-Back,Ireland / Nigeria,€10.00m,RC Strasbourg Alsace
-Yoni Gomis,19,Centre-Back,France / Senegal,€1.00m,RC Strasbourg Alsace
-Valentín Barco,20,Left-Back,Argentina,€8.00m,RC Strasbourg Alsace
-Eduard Sobol,30,Left-Back,Ukraine,€1.20m,RC Strasbourg Alsace
-Thomas Delaine,33,Left-Back,France,€800k,RC Strasbourg Alsace
-Guéla Doué,22,Right-Back,Cote d'Ivoire / France,€12.00m,RC Strasbourg Alsace
-Pape Diong,18,Defensive Midfield,Senegal,€800k,RC Strasbourg Alsace
-Andrey Santos,21,Central Midfield,Brazil,€25.00m,RC Strasbourg Alsace
-Habib Diarra,21,Central Midfield,Senegal / France,€20.00m,RC Strasbourg Alsace
-Sebastian Nanasi,22,Left Midfield,Sweden / Hungary,€15.00m,RC Strasbourg Alsace
-Félix Lemaréchal,21,Attacking Midfield,France / Cote d'Ivoire,€7.00m,RC Strasbourg Alsace
-Tidiane Diallo,18,Attacking Midfield,France / Senegal,-,RC Strasbourg Alsace
-Diego Moreira,20,Left Winger,Portugal / Belgium,€10.00m,RC Strasbourg Alsace
-Óscar Perea,19,Left Winger,Colombia,€2.50m,RC Strasbourg Alsace
-Dilane Bakwa,22,Right Winger,France / DR Congo,€18.00m,RC Strasbourg Alsace
-Samuel Amo-Ameyaw,18,Right Winger,England / Ghana,€2.00m,RC Strasbourg Alsace
-Abdoul Ouattara,19,Right Winger,Cote d'Ivoire / France,€800k,RC Strasbourg Alsace
-Emanuel Emegha,22,Centre-Forward,Netherlands / Nigeria,€20.00m,RC Strasbourg Alsace
-Sékou Mara,22,Centre-Forward,France / Senegal,€6.00m,RC Strasbourg Alsace
-Moïse Sahi Dion,23,Centre-Forward,Cote d'Ivoire / Mali,€1.50m,RC Strasbourg Alsace
-Marco Bizot,34,Goalkeeper,Netherlands,€3.50m,Stade Brestois 29
-Grégoire Coudert,26,Goalkeeper,France,€400k,Stade Brestois 29
-Noah Jauny,20,Goalkeeper,Ireland,-,Stade Brestois 29
-Soumaïla Coulibaly,21,Centre-Back,France / Mali,€9.00m,Stade Brestois 29
-Brendan Chardonnet,30,Centre-Back,France,€6.00m,Stade Brestois 29
-Abdoulaye Ndiaye,23,Centre-Back,Senegal,€3.00m,Stade Brestois 29
-Julien Le Cardinal,27,Centre-Back,France,€1.50m,Stade Brestois 29
-Bradley Locko,23,Left-Back,France / Congo,€9.00m,Stade Brestois 29
-Jordan Amavi,31,Left-Back,France / Senegal,€2.00m,Stade Brestois 29
-Massadio Haidara,32,Left-Back,Mali / France,€1.80m,Stade Brestois 29
-Justin Bourgault,19,Left-Back,France,€300k,Stade Brestois 29
-Luck Zogbé,20,Right-Back,Cote d'Ivoire,€3.00m,Stade Brestois 29
-Kenny Lala,33,Right-Back,France / Martinique,€2.50m,Stade Brestois 29
-Pierre Lees-Melou,31,Defensive Midfield,France,€7.00m,Stade Brestois 29
-Edimilson Fernandes,29,Defensive Midfield,Switzerland / Portugal,€3.50m,Stade Brestois 29
-Jonas Martin,35,Defensive Midfield,France,€800k,Stade Brestois 29
-Hamidou Makalou,18,Defensive Midfield,Mali,€200k,Stade Brestois 29
-Mahdi Camara,26,Central Midfield,France / The Gambia,€10.00m,Stade Brestois 29
-Hugo Magnetti,26,Central Midfield,France,€7.00m,Stade Brestois 29
-Romain Faivre,26,Right Midfield,France / Algeria,€7.00m,Stade Brestois 29
-Kamory Doumbia,22,Attacking Midfield,Mali,€5.00m,Stade Brestois 29
-Abdallah Sima,23,Left Winger,Senegal,€10.00m,Stade Brestois 29
-Ibrahim Salah,23,Left Winger,Morocco / Belgium,€4.00m,Stade Brestois 29
-Mathias Pereira Lage,28,Left Winger,France / Portugal,€2.00m,Stade Brestois 29
-Romain Del Castillo,29,Right Winger,France / Spain,€8.00m,Stade Brestois 29
-Mama Baldé,29,Centre-Forward,Guinea-Bissau / Portugal,€4.50m,Stade Brestois 29
-Ludovic Ajorque,31,Centre-Forward,France / Réunion,€4.00m,Stade Brestois 29
-Gerónimo Rulli,32,Goalkeeper,Argentina / Italy,€8.00m,Olympique Marseille
-Jeffrey de Lange,27,Goalkeeper,Netherlands,€2.50m,Olympique Marseille
-Rubén Blanco,29,Goalkeeper,Spain,€1.50m,Olympique Marseille
-Jelle Van Neck,21,Goalkeeper,Belgium,€100k,Olympique Marseille
-Leonardo Balerdi,26,Centre-Back,Argentina / Italy,€20.00m,Olympique Marseille
-Luiz Felipe,28,Centre-Back,Italy / Brazil,€6.00m,Olympique Marseille
-Derek Cornelius,27,Centre-Back,Canada / Jamaica,€5.00m,Olympique Marseille
-Chancel Mbemba,30,Centre-Back,DR Congo,€3.00m,Olympique Marseille
-Quentin Merlin,22,Left-Back,France,€12.00m,Olympique Marseille
-Ulisses Garcia,29,Left-Back,Switzerland / Cape Verde,€4.00m,Olympique Marseille
-Amar Dedic,22,Right-Back,Bosnia-Herzegovina,€15.00m,Olympique Marseille
-Amir Murillo,29,Right-Back,Panama,€9.00m,Olympique Marseille
-Pol Lirola,27,Right-Back,Spain,€4.00m,Olympique Marseille
-Pierre-Emile Højbjerg,29,Defensive Midfield,Denmark / France,€20.00m,Olympique Marseille
-Ismaël Bennacer,27,Defensive Midfield,Algeria / France,€15.00m,Olympique Marseille
-Geoffrey Kondogbia,32,Defensive Midfield,Central African Republic / France,€8.00m,Olympique Marseille
-Adrien Rabiot,30,Central Midfield,France,€25.00m,Olympique Marseille
-Valentin Rongier,30,Central Midfield,France,€9.00m,Olympique Marseille
-Bilal Nadir,21,Central Midfield,Morocco / France,€5.00m,Olympique Marseille
-Amine Harit,27,Attacking Midfield,Morocco / France,€10.00m,Olympique Marseille
-Darryl Bakola,17,Attacking Midfield,France / Congo,€200k,Olympique Marseille
-Jonathan Rowe,22,Left Winger,England / Jamaica,€12.00m,Olympique Marseille
-Mason Greenwood,23,Right Winger,England,€35.00m,Olympique Marseille
-Luis Henrique,23,Right Winger,Brazil,€18.00m,Olympique Marseille
-Amine Gouiri,25,Centre-Forward,Algeria / France,€20.00m,Olympique Marseille
-Neal Maupay,28,Centre-Forward,France / Argentina,€10.00m,Olympique Marseille
-Faris Moumbagna,24,Centre-Forward,Cameroon,€8.00m,Olympique Marseille
