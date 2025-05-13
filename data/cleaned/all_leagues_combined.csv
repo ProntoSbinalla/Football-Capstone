@@ -32,13 +32,13 @@ Dean Huijsen,20,Centre-Back,Spain,Premier League,AFC Bournemouth,€42.00m
 Ilya Zabarnyi,22,Centre-Back,Ukraine,Premier League,AFC Bournemouth,€40.00m
 Marcos Senesi,28,Centre-Back,Argentina,Premier League,AFC Bournemouth,€24.00m
 James Hill,23,Centre-Back,England,Premier League,AFC Bournemouth,€2.00m
-Matai Akinmboni,18,Centre-Back,United States,Premier League,AFC Bournemouth,€1.00m
+Matai Akinmboni,18,Centre-Back,USA,Premier League,AFC Bournemouth,€1.00m
 Max Kinsey,20,Centre-Back,England,Premier League,AFC Bournemouth,-
 Milos Kerkez,21,Left-Back,Hungary,Premier League,AFC Bournemouth,€35.00m
 Julio Soler,20,Left-Back,Argentina,Premier League,AFC Bournemouth,€8.00m
 Julián Araujo,23,Right-Back,Mexico,Premier League,AFC Bournemouth,€10.00m
 Adam Smith,34,Right-Back,England,Premier League,AFC Bournemouth,€1.00m
-Tyler Adams,26,Defensive Midfield,United States,Premier League,AFC Bournemouth,€18.00m
+Tyler Adams,26,Defensive Midfield,USA,Premier League,AFC Bournemouth,€18.00m
 Ryan Christie,30,Defensive Midfield,Scotland,Premier League,AFC Bournemouth,€12.00m
 Alex Scott,21,Central Midfield,England,Premier League,AFC Bournemouth,€20.00m
 Lewis Cook,28,Central Midfield,England,Premier League,AFC Bournemouth,€15.00m
@@ -118,7 +118,7 @@ Sepp van den Berg,23,Centre-Back,Netherlands,Premier League,Brentford FC,€20.0
 Kristoffer Ajer,27,Centre-Back,Norway,Premier League,Brentford FC,€18.00m
 Ethan Pinnock,31,Centre-Back,Jamaica,Premier League,Brentford FC,€8.00m
 Ben Mee,35,Centre-Back,England,Premier League,Brentford FC,€900k
-Ji-soo Kim,20,Centre-Back,"Korea, South",Premier League,Brentford FC,€600k
+Ji-soo Kim,20,Centre-Back,South Korea,Premier League,Brentford FC,€600k
 Keane Lewis-Potter,24,Left-Back,England,Premier League,Brentford FC,€23.00m
 Rico Henry,27,Left-Back,England,Premier League,Brentford FC,€17.00m
 Aaron Hickey,22,Right-Back,Scotland,Premier League,Brentford FC,€18.00m
@@ -158,7 +158,7 @@ Pape Matar Sarr,22,Central Midfield,Senegal,Premier League,Tottenham Hotspur,€
 Lucas Bergvall,19,Central Midfield,Sweden,Premier League,Tottenham Hotspur,€25.00m
 Dejan Kulusevski,25,Attacking Midfield,Sweden,Premier League,Tottenham Hotspur,€60.00m
 James Maddison,28,Attacking Midfield,England,Premier League,Tottenham Hotspur,€50.00m
-Heung-min Son,32,Left Winger,"Korea, South",Premier League,Tottenham Hotspur,€30.00m
+Heung-min Son,32,Left Winger,South Korea,Premier League,Tottenham Hotspur,€30.00m
 Wilson Odobert,20,Left Winger,France,Premier League,Tottenham Hotspur,€18.00m
 Mikey Moore,17,Left Winger,England,Premier League,Tottenham Hotspur,€15.00m
 Timo Werner,29,Left Winger,Germany,Premier League,Tottenham Hotspur,€10.00m
@@ -328,7 +328,7 @@ Liam Delap,22,Centre-Forward,England,Premier League,Ipswich Town,€35.00m
 George Hirst,26,Centre-Forward,Scotland,Premier League,Ipswich Town,€5.00m
 Jordan Pickford,31,Goalkeeper,England,Premier League,Everton FC,€20.00m
 João Virgínia,25,Goalkeeper,Portugal,Premier League,Everton FC,€800k
-Asmir Begovic,37,Goalkeeper,Bosnia-Herzegovina,Premier League,Everton FC,€300k
+Asmir Begovic,37,Goalkeeper,Bosnia and Herzegovina,Premier League,Everton FC,€300k
 Jarrad Branthwaite,22,Centre-Back,England,Premier League,Everton FC,€50.00m
 James Tarkowski,32,Centre-Back,England,Premier League,Everton FC,€10.00m
 Michael Keane,32,Centre-Back,England,Premier League,Everton FC,€6.00m
@@ -433,12 +433,12 @@ Jota Silva,25,Right Winger,Portugal,Premier League,Nottingham Forest,€14.00m
 Taiwo Awoniyi,27,Centre-Forward,Nigeria,Premier League,Nottingham Forest,€18.00m
 Chris Wood,33,Centre-Forward,New Zealand,Premier League,Nottingham Forest,€10.00m
 Dean Henderson,28,Goalkeeper,England,Premier League,Crystal Palace,€15.00m
-Matt Turner,30,Goalkeeper,United States,Premier League,Crystal Palace,€4.00m
+Matt Turner,30,Goalkeeper,USA,Premier League,Crystal Palace,€4.00m
 Remi Matthews,31,Goalkeeper,England,Premier League,Crystal Palace,€500k
 Marc Guéhi,24,Centre-Back,England,Premier League,Crystal Palace,€45.00m
 Maxence Lacroix,25,Centre-Back,France,Premier League,Crystal Palace,€22.00m
 Chadi Riad,21,Centre-Back,Morocco,Premier League,Crystal Palace,€15.00m
-Chris Richards,25,Centre-Back,United States,Premier League,Crystal Palace,€12.00m
+Chris Richards,25,Centre-Back,USA,Premier League,Crystal Palace,€12.00m
 Tyrick Mitchell,25,Left-Back,England,Premier League,Crystal Palace,€25.00m
 Ben Chilwell,28,Left-Back,England,Premier League,Crystal Palace,€18.00m
 Daniel Muñoz,28,Right-Back,Colombia,Premier League,Crystal Palace,€25.00m
@@ -487,7 +487,7 @@ Enso González,20,Left Winger,Paraguay,Premier League,Wolverhampton Wanderers,�
 Pablo Sarabia,33,Right Winger,Spain,Premier League,Wolverhampton Wanderers,€7.00m
 Matheus Cunha,25,Centre-Forward,Brazil,Premier League,Wolverhampton Wanderers,€55.00m
 Jørgen Strand Larsen,25,Centre-Forward,Norway,Premier League,Wolverhampton Wanderers,€27.00m
-Hee-chan Hwang,29,Centre-Forward,"Korea, South",Premier League,Wolverhampton Wanderers,€17.00m
+Hee-chan Hwang,29,Centre-Forward,South Korea,Premier League,Wolverhampton Wanderers,€17.00m
 Sasa Kalajdzic,27,Centre-Forward,Austria,Premier League,Wolverhampton Wanderers,€5.00m
 Nathan Fraser,20,Centre-Forward,Ireland,Premier League,Wolverhampton Wanderers,€600k
 Alisson,32,Goalkeeper,Brazil,Premier League,Liverpool FC,€25.00m
@@ -521,7 +521,7 @@ Joachim Andersen,28,Centre-Back,Denmark,Premier League,Fulham FC,€32.00m
 Calvin Bassey,25,Centre-Back,Nigeria,Premier League,Fulham FC,€25.00m
 Issa Diop,28,Centre-Back,France,Premier League,Fulham FC,€16.00m
 Jorge Cuenca,25,Centre-Back,Spain,Premier League,Fulham FC,€6.00m
-Antonee Robinson,27,Left-Back,United States,Premier League,Fulham FC,€35.00m
+Antonee Robinson,27,Left-Back,USA,Premier League,Fulham FC,€35.00m
 Ryan Sessegnon,24,Left-Back,England,Premier League,Fulham FC,€9.00m
 Kenny Tete,29,Right-Back,Netherlands,Premier League,Fulham FC,€15.00m
 Timothy Castagne,29,Right-Back,Belgium,Premier League,Fulham FC,€15.00m
@@ -581,12 +581,12 @@ Filippo Terracciano,22,Right-Back,Italy,Serie A,AC Milan,€4.50m
 Alessandro Florenzi,34,Right-Back,Italy,Serie A,AC Milan,€1.50m
 Youssouf Fofana,26,Defensive Midfield,France,Serie A,AC Milan,€30.00m
 Tijjani Reijnders,26,Central Midfield,Netherlands,Serie A,AC Milan,€50.00m
-Yunus Musah,22,Central Midfield,United States,Serie A,AC Milan,€22.00m
+Yunus Musah,22,Central Midfield,USA,Serie A,AC Milan,€22.00m
 Ruben Loftus-Cheek,29,Central Midfield,England,Serie A,AC Milan,€16.00m
 Warren Bondo,21,Central Midfield,France,Serie A,AC Milan,€10.00m
 Rafael Leão,25,Left Winger,Portugal,Serie A,AC Milan,€75.00m
 Riccardo Sottil,25,Left Winger,Italy,Serie A,AC Milan,€6.00m
-Christian Pulisic,26,Right Winger,United States,Serie A,AC Milan,€50.00m
+Christian Pulisic,26,Right Winger,USA,Serie A,AC Milan,€50.00m
 Samuel Chukwueze,25,Right Winger,Nigeria,Serie A,AC Milan,€14.00m
 João Félix,25,Second Striker,Portugal,Serie A,AC Milan,€25.00m
 Santiago Gimenez,24,Centre-Forward,Mexico,Serie A,AC Milan,€37.00m
@@ -710,7 +710,7 @@ Mateusz Kowalski,19,Second Striker,Poland,Serie A,Parma Calcio 1913,€300k
 Ange-Yoan Bonny,21,Centre-Forward,France,Serie A,Parma Calcio 1913,€20.00m
 Mateo Pellegrino,23,Centre-Forward,Argentina,Serie A,Parma Calcio 1913,€3.50m
 Gabriel Charpentier,25,Centre-Forward,Congo,Serie A,Parma Calcio 1913,€1.60m
-Milan Djuric,34,Centre-Forward,Bosnia-Herzegovina,Serie A,Parma Calcio 1913,€1.50m
+Milan Djuric,34,Centre-Forward,Bosnia and Herzegovina,Serie A,Parma Calcio 1913,€1.50m
 Wladimiro Falcone,30,Goalkeeper,Italy,Serie A,US Lecce,€4.00m
 Christian Früchtl,25,Goalkeeper,Germany,Serie A,US Lecce,€1.50m
 Jasper Samooja,21,Goalkeeper,Finland,Serie A,US Lecce,€75k
@@ -781,7 +781,7 @@ Giorgio Scalvini,21,Centre-Back,Italy,Serie A,Atalanta BC,€35.00m
 Isak Hien,26,Centre-Back,Sweden,Serie A,Atalanta BC,€30.00m
 Odilon Kossounou,24,Centre-Back,Cote d'Ivoire,Serie A,Atalanta BC,€25.00m
 Stefan Posch,27,Centre-Back,Austria,Serie A,Atalanta BC,€10.00m
-Sead Kolasinac,31,Centre-Back,Bosnia-Herzegovina,Serie A,Atalanta BC,€10.00m
+Sead Kolasinac,31,Centre-Back,Bosnia and Herzegovina,Serie A,Atalanta BC,€10.00m
 Berat Djimsiti,32,Centre-Back,Albania,Serie A,Atalanta BC,€8.00m
 Rafael Tolói,34,Centre-Back,Italy,Serie A,Atalanta BC,€1.50m
 Marten de Roon,34,Defensive Midfield,Netherlands,Serie A,Atalanta BC,€7.00m
@@ -989,14 +989,14 @@ Alberto Costa,21,Right-Back,Portugal,Serie A,Juventus FC,€10.00m
 Manuel Locatelli,27,Defensive Midfield,Italy,Serie A,Juventus FC,€28.00m
 Khéphren Thuram,24,Central Midfield,France,Serie A,Juventus FC,€40.00m
 Douglas Luiz,27,Central Midfield,Brazil,Serie A,Juventus FC,€38.00m
-Weston McKennie,26,Central Midfield,United States,Serie A,Juventus FC,€24.00m
+Weston McKennie,26,Central Midfield,USA,Serie A,Juventus FC,€24.00m
 Teun Koopmeiners,27,Attacking Midfield,Netherlands,Serie A,Juventus FC,€40.00m
 Vasilije Adžić,19,Attacking Midfield,Montenegro,Serie A,Juventus FC,€3.00m
 Kenan Yıldız,20,Left Winger,Türkiye,Serie A,Juventus FC,€45.00m
 Samuel Mbangula,21,Left Winger,Belgium,Serie A,Juventus FC,€14.00m
 Francisco Conceição,22,Right Winger,Portugal,Serie A,Juventus FC,€36.00m
 Nico González,27,Right Winger,Argentina,Serie A,Juventus FC,€28.00m
-Timothy Weah,25,Right Winger,United States,Serie A,Juventus FC,€17.00m
+Timothy Weah,25,Right Winger,USA,Serie A,Juventus FC,€17.00m
 Dušan Vlahović,25,Centre-Forward,Serbia,Serie A,Juventus FC,€45.00m
 Randal Kolo Muani,26,Centre-Forward,France,Serie A,Juventus FC,€30.00m
 Arkadiusz Milik,31,Centre-Forward,Poland,Serie A,Juventus FC,€2.00m
@@ -1041,7 +1041,7 @@ Richie Sagrado,21,Right-Back,Belgium,Serie A,Venezia FC,€2.00m
 Francesco Zampano,31,Right-Back,Italy,Serie A,Venezia FC,€1.10m
 Cheick Condé,24,Defensive Midfield,Guinea,Serie A,Venezia FC,€2.00m
 Hans Nicolussi Caviglia,24,Central Midfield,Italy,Serie A,Venezia FC,€8.00m
-Gianluca Busio,22,Central Midfield,United States,Serie A,Venezia FC,€6.50m
+Gianluca Busio,22,Central Midfield,USA,Serie A,Venezia FC,€6.50m
 Kike Pérez,28,Central Midfield,Spain,Serie A,Venezia FC,€2.80m
 Mikael Egill Ellertsson,23,Central Midfield,Iceland,Serie A,Venezia FC,€2.80m
 Alfred Duncan,32,Central Midfield,Ghana,Serie A,Venezia FC,€2.50m
@@ -1251,7 +1251,7 @@ Iván Martín,26,Attacking Midfield,Spain,La Liga,Girona FC,€10.00m
 Gabriel Misehouy,19,Attacking Midfield,Netherlands,La Liga,Girona FC,€1.00m
 Bryan Gil,24,Left Winger,Spain,La Liga,Girona FC,€15.00m
 Arnaut Danjuma,28,Left Winger,Netherlands,La Liga,Girona FC,€5.00m
-Min-su Kim,19,Left Winger,"Korea, South",La Liga,Girona FC,€1.00m
+Min-su Kim,19,Left Winger,South Korea,La Liga,Girona FC,€1.00m
 Viktor Tsygankov,27,Right Winger,Ukraine,La Liga,Girona FC,€22.00m
 Yáser Asprilla,21,Right Winger,Colombia,La Liga,Girona FC,€18.00m
 Portu,32,Right Winger,Spain,La Liga,Girona FC,€2.50m
@@ -1390,7 +1390,7 @@ Aitor Ruibal,29,Right-Back,Spain,La Liga,Real Betis Balompié,€3.50m
 Héctor Bellerín,30,Right-Back,Spain,La Liga,Real Betis Balompié,€3.00m
 Ángel Ortiz,20,Right-Back,Spain,La Liga,Real Betis Balompié,€2.50m
 Youssouf Sabaly,32,Right-Back,Senegal,La Liga,Real Betis Balompié,€2.00m
-Johnny Cardoso,23,Defensive Midfield,United States,La Liga,Real Betis Balompié,€20.00m
+Johnny Cardoso,23,Defensive Midfield,USA,La Liga,Real Betis Balompié,€20.00m
 Marc Roca,28,Defensive Midfield,Spain,La Liga,Real Betis Balompié,€8.00m
 William Carvalho,33,Defensive Midfield,Portugal,La Liga,Real Betis Balompié,€2.00m
 Giovani Lo Celso,29,Central Midfield,Argentina,La Liga,Real Betis Balompié,€20.00m
@@ -1618,13 +1618,13 @@ Phillipp Mwene,31,Left-Back,Austria,Bundesliga,1.FSV Mainz 05,€1.80m
 Silvan Widmer,32,Right-Back,Switzerland,Bundesliga,1.FSV Mainz 05,€1.50m
 Nikolas Veratschnig,22,Right-Back,Austria,Bundesliga,1.FSV Mainz 05,€800k
 Kaishu Sano,24,Defensive Midfield,Japan,Bundesliga,1.FSV Mainz 05,€17.00m
-Lennard Maloney,25,Defensive Midfield,United States,Bundesliga,1.FSV Mainz 05,€5.00m
+Lennard Maloney,25,Defensive Midfield,USA,Bundesliga,1.FSV Mainz 05,€5.00m
 Dominik Kohr,31,Defensive Midfield,Germany,Bundesliga,1.FSV Mainz 05,€3.50m
 Nadiem Amiri,28,Central Midfield,Germany,Bundesliga,1.FSV Mainz 05,€18.00m
 Anthony Caci,27,Right Midfield,France,Bundesliga,1.FSV Mainz 05,€10.00m
 Paul Nebel,22,Attacking Midfield,Germany,Bundesliga,1.FSV Mainz 05,€17.00m
-Hyun-seok Hong,25,Attacking Midfield,"Korea, South",Bundesliga,1.FSV Mainz 05,€3.50m
-Jae-sung Lee,32,Attacking Midfield,"Korea, South",Bundesliga,1.FSV Mainz 05,€2.50m
+Hyun-seok Hong,25,Attacking Midfield,South Korea,Bundesliga,1.FSV Mainz 05,€3.50m
+Jae-sung Lee,32,Attacking Midfield,South Korea,Bundesliga,1.FSV Mainz 05,€2.50m
 Arnaud Nordin,26,Right Winger,France,Bundesliga,1.FSV Mainz 05,€6.00m
 Armindo Sieb,22,Second Striker,Germany,Bundesliga,1.FSV Mainz 05,€4.00m
 Jonathan Burkardt,24,Centre-Forward,Germany,Bundesliga,1.FSV Mainz 05,€35.00m
@@ -1639,7 +1639,7 @@ Marvin Friedrich,29,Centre-Back,Germany,Bundesliga,Borussia Mönchengladbach,€
 Fabio Chiarodia,19,Centre-Back,Italy,Bundesliga,Borussia Mönchengladbach,€2.00m
 Lukas Ullrich,21,Left-Back,Germany,Bundesliga,Borussia Mönchengladbach,€8.00m
 Luca Netz,21,Left-Back,Germany,Bundesliga,Borussia Mönchengladbach,€7.00m
-Joe Scally,22,Right-Back,United States,Bundesliga,Borussia Mönchengladbach,€10.00m
+Joe Scally,22,Right-Back,USA,Bundesliga,Borussia Mönchengladbach,€10.00m
 Stefan Lainer,32,Right-Back,Austria,Bundesliga,Borussia Mönchengladbach,€1.80m
 Julian Weigl,29,Defensive Midfield,Germany,Bundesliga,Borussia Mönchengladbach,€6.00m
 Niklas Swider,18,Defensive Midfield,Germany,Bundesliga,Borussia Mönchengladbach,-
@@ -1682,7 +1682,7 @@ Jamie Leweling,24,Right Winger,Germany,Bundesliga,VfB Stuttgart,€20.00m
 Fabian Rieder,23,Right Winger,Switzerland,Bundesliga,VfB Stuttgart,€7.00m
 Luca Raimund,20,Right Winger,Germany,Bundesliga,VfB Stuttgart,€500k
 Nick Woltemade,23,Second Striker,Germany,Bundesliga,VfB Stuttgart,€17.00m
-Ermedin Demirovic,27,Centre-Forward,Bosnia-Herzegovina,Bundesliga,VfB Stuttgart,€22.00m
+Ermedin Demirovic,27,Centre-Forward,Bosnia and Herzegovina,Bundesliga,VfB Stuttgart,€22.00m
 Deniz Undav,28,Centre-Forward,Germany,Bundesliga,VfB Stuttgart,€22.00m
 El Bilal Touré,23,Centre-Forward,Mali,Bundesliga,VfB Stuttgart,€17.00m
 Wahid Faghir,21,Centre-Forward,Denmark,Bundesliga,VfB Stuttgart,€1.00m
@@ -1716,7 +1716,7 @@ Marius Bülter,32,Left Winger,Germany,Bundesliga,TSG 1899 Hoffenheim,€2.50m
 Adam Hlozek,22,Second Striker,Czech Republic,Bundesliga,TSG 1899 Hoffenheim,€18.00m
 Gift Orban,22,Centre-Forward,Nigeria,Bundesliga,TSG 1899 Hoffenheim,€10.00m
 Max Moerstedt,19,Centre-Forward,Germany,Bundesliga,TSG 1899 Hoffenheim,€7.00m
-Haris Tabakovic,30,Centre-Forward,Bosnia-Herzegovina,Bundesliga,TSG 1899 Hoffenheim,€3.00m
+Haris Tabakovic,30,Centre-Forward,Bosnia and Herzegovina,Bundesliga,TSG 1899 Hoffenheim,€3.00m
 Erencan Yardımcı,23,Centre-Forward,Türkiye,Bundesliga,TSG 1899 Hoffenheim,€3.00m
 Ihlas Bebou,31,Centre-Forward,Togo,Bundesliga,TSG 1899 Hoffenheim,€2.80m
 David Mokwa,21,Centre-Forward,France,Bundesliga,TSG 1899 Hoffenheim,€1.00m
@@ -1741,11 +1741,11 @@ Marcel Sabitzer,31,Central Midfield,Austria,Bundesliga,Borussia Dortmund,€10.0
 Pascal Groß,33,Central Midfield,Germany,Bundesliga,Borussia Dortmund,€7.00m
 Kjell Wätjen,19,Central Midfield,Germany,Bundesliga,Borussia Dortmund,€2.00m
 Julian Brandt,29,Attacking Midfield,Germany,Bundesliga,Borussia Dortmund,€25.00m
-Giovanni Reyna,22,Attacking Midfield,United States,Bundesliga,Borussia Dortmund,€10.00m
+Giovanni Reyna,22,Attacking Midfield,USA,Bundesliga,Borussia Dortmund,€10.00m
 Jamie Gittens,20,Left Winger,England,Bundesliga,Borussia Dortmund,€50.00m
 Julien Duranville,19,Left Winger,Belgium,Bundesliga,Borussia Dortmund,€8.50m
 Karim Adeyemi,23,Right Winger,Germany,Bundesliga,Borussia Dortmund,€40.00m
-Cole Campbell,19,Right Winger,United States,Bundesliga,Borussia Dortmund,€1.50m
+Cole Campbell,19,Right Winger,USA,Bundesliga,Borussia Dortmund,€1.50m
 Serhou Guirassy,29,Centre-Forward,Guinea,Bundesliga,Borussia Dortmund,€40.00m
 Maximilian Beier,22,Centre-Forward,Germany,Bundesliga,Borussia Dortmund,€25.00m
 Kevin Trapp,34,Goalkeeper,Germany,Bundesliga,Eintracht Frankfurt,€3.00m
@@ -1759,7 +1759,7 @@ Aurèle Amenda,21,Centre-Back,Switzerland,Bundesliga,Eintracht Frankfurt,€7.50
 Nathaniel Brown,21,Left-Back,Germany,Bundesliga,Eintracht Frankfurt,€15.00m
 Niels Nkounkou,24,Left-Back,France,Bundesliga,Eintracht Frankfurt,€5.00m
 Rasmus Kristensen,27,Right-Back,Denmark,Bundesliga,Eintracht Frankfurt,€10.00m
-Timothy Chandler,35,Right-Back,United States,Bundesliga,Eintracht Frankfurt,€350k
+Timothy Chandler,35,Right-Back,USA,Bundesliga,Eintracht Frankfurt,€350k
 Ellyes Skhiri,30,Defensive Midfield,Tunisia,Bundesliga,Eintracht Frankfurt,€9.00m
 Hugo Larsson,20,Central Midfield,Sweden,Bundesliga,Eintracht Frankfurt,€40.00m
 Oscar Højlund,20,Central Midfield,Denmark,Bundesliga,Eintracht Frankfurt,€7.50m
@@ -1794,7 +1794,7 @@ András Schäfer,26,Central Midfield,Hungary,Bundesliga,1.FC Union Berlin,€5.0
 László Bénes,27,Central Midfield,Slovakia,Bundesliga,1.FC Union Berlin,€4.00m
 Janik Haberer,31,Central Midfield,Germany,Bundesliga,1.FC Union Berlin,€2.50m
 Robert Skov,28,Left Midfield,Denmark,Bundesliga,1.FC Union Berlin,€4.00m
-Woo-yeong Jeong,25,Attacking Midfield,"Korea, South",Bundesliga,1.FC Union Berlin,€4.00m
+Woo-yeong Jeong,25,Attacking Midfield,South Korea,Bundesliga,1.FC Union Berlin,€4.00m
 David Preu,20,Left Winger,Germany,Bundesliga,1.FC Union Berlin,€25k
 Tim Skarke,28,Right Winger,Germany,Bundesliga,1.FC Union Berlin,€2.50m
 Benedict Hollerbach,23,Centre-Forward,Germany,Bundesliga,1.FC Union Berlin,€7.50m
@@ -1819,7 +1819,7 @@ Mattias Svanberg,26,Central Midfield,Sweden,Bundesliga,VfL Wolfsburg,€12.00m
 Aster Vranckx,22,Central Midfield,Belgium,Bundesliga,VfL Wolfsburg,€9.00m
 Maximilian Arnold,30,Central Midfield,Germany,Bundesliga,VfL Wolfsburg,€7.00m
 Yannick Gerhardt,31,Central Midfield,Germany,Bundesliga,VfL Wolfsburg,€3.00m
-Kevin Paredes,22,Left Midfield,United States,Bundesliga,VfL Wolfsburg,€7.50m
+Kevin Paredes,22,Left Midfield,USA,Bundesliga,VfL Wolfsburg,€7.50m
 Lovro Majer,27,Attacking Midfield,Croatia,Bundesliga,VfL Wolfsburg,€20.00m
 Bence Dárdai,19,Attacking Midfield,Hungary,Bundesliga,VfL Wolfsburg,€9.00m
 Bennit Bröger,18,Attacking Midfield,Germany,Bundesliga,VfL Wolfsburg,€500k
@@ -1887,7 +1887,7 @@ Marvin Pieringer,25,Centre-Forward,Germany,Bundesliga,1.FC Heidenheim 1846,€5.
 Budu Zivzivadze,31,Centre-Forward,Georgia,Bundesliga,1.FC Heidenheim 1846,€2.50m
 Maximilian Breunig,24,Centre-Forward,Germany,Bundesliga,1.FC Heidenheim 1846,€2.00m
 Stefan Schimmer,31,Centre-Forward,Germany,Bundesliga,1.FC Heidenheim 1846,€500k
-Nikola Vasilj,29,Goalkeeper,Bosnia-Herzegovina,Bundesliga,FC St. Pauli,€3.00m
+Nikola Vasilj,29,Goalkeeper,Bosnia and Herzegovina,Bundesliga,FC St. Pauli,€3.00m
 Ben Voll,24,Goalkeeper,Germany,Bundesliga,FC St. Pauli,€500k
 Eric Oelschlägel,29,Goalkeeper,Germany,Bundesliga,FC St. Pauli,€300k
 Sascha Burchert,35,Goalkeeper,Germany,Bundesliga,FC St. Pauli,€200k
@@ -1903,7 +1903,7 @@ Philipp Treu,24,Left-Back,Germany,Bundesliga,FC St. Pauli,€5.00m
 Lars Ritzka,27,Left-Back,Germany,Bundesliga,FC St. Pauli,€900k
 Manolis Saliakas,28,Right-Back,Greece,Bundesliga,FC St. Pauli,€2.80m
 Fin Stevens,22,Right-Back,Wales,Bundesliga,FC St. Pauli,€600k
-James Sands,24,Defensive Midfield,United States,Bundesliga,FC St. Pauli,€3.00m
+James Sands,24,Defensive Midfield,USA,Bundesliga,FC St. Pauli,€3.00m
 Marwin Schmitz,18,Defensive Midfield,Germany,Bundesliga,FC St. Pauli,€200k
 Robert Wagner,21,Central Midfield,Germany,Bundesliga,FC St. Pauli,€3.00m
 Connor Metcalfe,25,Central Midfield,Australia,Bundesliga,FC St. Pauli,€2.50m
@@ -1932,12 +1932,12 @@ Max Geschwill,23,Centre-Back,Germany,Bundesliga,Holstein Kiel,€1.50m
 Marco Komenda,28,Centre-Back,Germany,Bundesliga,Holstein Kiel,€800k
 Ivan Nekic,24,Centre-Back,Croatia,Bundesliga,Holstein Kiel,€800k
 Carl Johansson,30,Centre-Back,Sweden,Bundesliga,Holstein Kiel,€700k
-John Tolkin,22,Left-Back,United States,Bundesliga,Holstein Kiel,€3.00m
+John Tolkin,22,Left-Back,USA,Bundesliga,Holstein Kiel,€3.00m
 Dominik Javorcek,22,Left-Back,Slovakia,Bundesliga,Holstein Kiel,€550k
 Lasse Rosenboom,23,Right-Back,Germany,Bundesliga,Holstein Kiel,€1.00m
 Patrick Erras,30,Defensive Midfield,Germany,Bundesliga,Holstein Kiel,€1.00m
 Marvin Schulz,30,Defensive Midfield,Germany,Bundesliga,Holstein Kiel,€700k
-Armin Gigovic,23,Central Midfield,Bosnia-Herzegovina,Bundesliga,Holstein Kiel,€3.00m
+Armin Gigovic,23,Central Midfield,Bosnia and Herzegovina,Bundesliga,Holstein Kiel,€3.00m
 Nicolai Remberg,24,Central Midfield,Germany,Bundesliga,Holstein Kiel,€2.80m
 Magnus Knudsen,23,Central Midfield,Norway,Bundesliga,Holstein Kiel,€2.50m
 Lewis Holtby,34,Central Midfield,Germany,Bundesliga,Holstein Kiel,€500k
@@ -1955,7 +1955,7 @@ Manuel Neuer,39,Goalkeeper,Germany,Bundesliga,Bayern Munich,€4.00m
 Daniel Peretz,24,Goalkeeper,Israel,Bundesliga,Bayern Munich,€3.00m
 Sven Ulreich,36,Goalkeeper,Germany,Bundesliga,Bayern Munich,€500k
 Dayot Upamecano,26,Centre-Back,France,Bundesliga,Bayern Munich,€50.00m
-Min-jae Kim,28,Centre-Back,"Korea, South",Bundesliga,Bayern Munich,€45.00m
+Min-jae Kim,28,Centre-Back,South Korea,Bundesliga,Bayern Munich,€45.00m
 Hiroki Ito,26,Centre-Back,Japan,Bundesliga,Bayern Munich,€30.00m
 Eric Dier,31,Centre-Back,England,Bundesliga,Bayern Munich,€8.00m
 Tarek Buchmann,20,Centre-Back,Germany,Bundesliga,Bayern Munich,€500k
@@ -2061,7 +2061,7 @@ Nediljko Labrovic,25,Goalkeeper,Croatia,Bundesliga,FC Augsburg,€3.00m
 Daniel Klein,24,Goalkeeper,Germany,Bundesliga,FC Augsburg,€150k
 Chrislain Matsima,22,Centre-Back,France,Bundesliga,FC Augsburg,€17.00m
 Keven Schlotterbeck,28,Centre-Back,Germany,Bundesliga,FC Augsburg,€7.00m
-Noahkai Banks,18,Centre-Back,United States,Bundesliga,FC Augsburg,€6.00m
+Noahkai Banks,18,Centre-Back,USA,Bundesliga,FC Augsburg,€6.00m
 Cédric Zesiger,26,Centre-Back,Switzerland,Bundesliga,FC Augsburg,€5.50m
 Jeffrey Gouweleeuw,33,Centre-Back,Netherlands,Bundesliga,FC Augsburg,€1.50m
 Reece Oxford,26,Centre-Back,England,Bundesliga,FC Augsburg,€500k
@@ -2113,7 +2113,7 @@ Guillaume Restes,20,Goalkeeper,France,Ligue 1,FC Toulouse,€20.00m
 Kjetil Haug,26,Goalkeeper,Norway,Ligue 1,FC Toulouse,€600k
 Justin Lacombe,22,Goalkeeper,France,Ligue 1,FC Toulouse,€50k
 Charlie Cresswell,22,Centre-Back,England,Ligue 1,FC Toulouse,€7.00m
-Mark McKenzie,26,Centre-Back,United States,Ligue 1,FC Toulouse,€6.00m
+Mark McKenzie,26,Centre-Back,USA,Ligue 1,FC Toulouse,€6.00m
 Rasmus Nicolaisen,28,Centre-Back,Denmark,Ligue 1,FC Toulouse,€5.00m
 Jaydee Canvot,18,Centre-Back,France,Ligue 1,FC Toulouse,€2.50m
 Ümit Akdağ,21,Centre-Back,Romania,Ligue 1,FC Toulouse,€800k
@@ -2145,7 +2145,7 @@ Nicolás Tagliafico,32,Left-Back,Argentina,Ligue 1,Olympique Lyon,€7.00m
 Ainsley Maitland-Niles,27,Right-Back,England,Ligue 1,Olympique Lyon,€10.00m
 Saël Kumbedi,20,Right-Back,France,Ligue 1,Olympique Lyon,€6.00m
 Clinton Mata,32,Right-Back,Angola,Ligue 1,Olympique Lyon,€4.00m
-Tanner Tessmann,23,Defensive Midfield,United States,Ligue 1,Olympique Lyon,€6.00m
+Tanner Tessmann,23,Defensive Midfield,USA,Ligue 1,Olympique Lyon,€6.00m
 Nemanja Matic,36,Defensive Midfield,Serbia,Ligue 1,Olympique Lyon,€2.50m
 Paul Akouokou,27,Defensive Midfield,Cote d'Ivoire,Ligue 1,Olympique Lyon,€800k
 Corentin Tolisso,30,Central Midfield,France,Ligue 1,Olympique Lyon,€10.00m
@@ -2178,7 +2178,7 @@ Khvicha Kvaratskhelia,24,Left Winger,Georgia,Ligue 1,Paris Saint-Germain,€80.0
 Bradley Barcola,22,Left Winger,France,Ligue 1,Paris Saint-Germain,€70.00m
 Désiré Doué,19,Left Winger,France,Ligue 1,Paris Saint-Germain,€60.00m
 Ousmane Dembélé,27,Right Winger,France,Ligue 1,Paris Saint-Germain,€75.00m
-Kang-in Lee,24,Right Winger,"Korea, South",Ligue 1,Paris Saint-Germain,€30.00m
+Kang-in Lee,24,Right Winger,South Korea,Ligue 1,Paris Saint-Germain,€30.00m
 Ibrahim Mbaye,17,Right Winger,France,Ligue 1,Paris Saint-Germain,€2.00m
 Gonçalo Ramos,23,Centre-Forward,Portugal,Ligue 1,Paris Saint-Germain,€45.00m
 Brice Samba,31,Goalkeeper,France,Ligue 1,Stade Rennais FC,€15.00m
@@ -2250,7 +2250,7 @@ Jacques Ekomié,21,Left-Back,Gabon,Ligue 1,Angers SCO,€800k
 Florent Hanin,35,Left-Back,France,Ligue 1,Angers SCO,€350k
 Carlens Arcus,28,Right-Back,Haiti,Ligue 1,Angers SCO,€1.50m
 Lilian Raolisoa,24,Right-Back,France,Ligue 1,Angers SCO,€700k
-Halid Sabanovic,25,Right-Back,Bosnia-Herzegovina,Ligue 1,Angers SCO,€200k
+Halid Sabanovic,25,Right-Back,Bosnia and Herzegovina,Ligue 1,Angers SCO,€200k
 Jean-Eudes Aholou,31,Defensive Midfield,Cote d'Ivoire,Ligue 1,Angers SCO,€2.00m
 Zinédine Ould Khaled,25,Defensive Midfield,France,Ligue 1,Angers SCO,€300k
 Haris Belkebla,31,Central Midfield,Algeria,Ligue 1,Angers SCO,€2.00m
@@ -2345,7 +2345,7 @@ Mohamed Daramy,23,Left Winger,Denmark,Ligue 1,Stade Reims,€5.00m
 Mamadou Diakhon,19,Left Winger,France,Ligue 1,Stade Reims,€1.50m
 Junya Ito,32,Right Winger,Japan,Ligue 1,Stade Reims,€8.00m
 Oumar Diakité,21,Centre-Forward,Cote d'Ivoire,Ligue 1,Stade Reims,€7.00m
-Jordan,29,Centre-Forward,United States,Ligue 1,Stade Reims,€3.00m
+Jordan,29,Centre-Forward,USA,Ligue 1,Stade Reims,€3.00m
 Donovan Léon,32,Goalkeeper,French Guiana,Ligue 1,AJ Auxerre,€800k
 Théo De Percin,24,Goalkeeper,France,Ligue 1,AJ Auxerre,€300k
 Raphaël Adiceam,34,Goalkeeper,France,Ligue 1,AJ Auxerre,€50k
@@ -2381,7 +2381,7 @@ Facundo Medina,25,Centre-Back,Argentina,Ligue 1,RC Lens,€25.00m
 Malang Sarr,26,Centre-Back,France,Ligue 1,RC Lens,€5.00m
 Jonathan Gradit,32,Centre-Back,France,Ligue 1,RC Lens,€4.00m
 Juma Bah,19,Centre-Back,Sierra Leone,Ligue 1,RC Lens,€4.00m
-Nidal Celik,18,Centre-Back,Bosnia-Herzegovina,Ligue 1,RC Lens,€1.80m
+Nidal Celik,18,Centre-Back,Bosnia and Herzegovina,Ligue 1,RC Lens,€1.80m
 Jhoanner Chávez,23,Left-Back,Ecuador,Ligue 1,RC Lens,€4.00m
 Deiver Machado,31,Left-Back,Colombia,Ligue 1,RC Lens,€3.50m
 Ruben Aguilar,32,Right-Back,France,Ligue 1,RC Lens,€4.00m
@@ -2402,7 +2402,7 @@ Rémy Labeau Lascary,22,Centre-Forward,Guadeloupe,Ligue 1,RC Lens,€2.50m
 Goduine Koyalipou,25,Centre-Forward,Central African Republic,Ligue 1,RC Lens,€1.80m
 Benjamin Lecomte,34,Goalkeeper,France,Ligue 1,Montpellier HSC,€2.00m
 Dimitry Bertaud,26,Goalkeeper,DR Congo,Ligue 1,Montpellier HSC,€1.20m
-Belmin Dizdarevic,23,Goalkeeper,Bosnia-Herzegovina,Ligue 1,Montpellier HSC,€150k
+Belmin Dizdarevic,23,Goalkeeper,Bosnia and Herzegovina,Ligue 1,Montpellier HSC,€150k
 Bamo Meïté,23,Centre-Back,Cote d'Ivoire,Ligue 1,Montpellier HSC,€5.00m
 Becir Omeragic,23,Centre-Back,Switzerland,Ligue 1,Montpellier HSC,€5.00m
 Kiki Kouyaté,28,Centre-Back,Mali,Ligue 1,Montpellier HSC,€3.50m
@@ -2448,7 +2448,7 @@ Lucas Michal,19,Left Winger,France,Ligue 1,AS Monaco,€500k
 Maghnes Akliouche,23,Right Winger,France,Ligue 1,AS Monaco,€40.00m
 Krépin Diatta,26,Right Winger,Senegal,Ligue 1,AS Monaco,€10.00m
 Mika Biereth,22,Centre-Forward,Denmark,Ligue 1,AS Monaco,€25.00m
-Folarin Balogun,23,Centre-Forward,United States,Ligue 1,AS Monaco,€20.00m
+Folarin Balogun,23,Centre-Forward,USA,Ligue 1,AS Monaco,€20.00m
 George Ilenikhena,18,Centre-Forward,Nigeria,Ligue 1,AS Monaco,€15.00m
 Breel Embolo,28,Centre-Forward,Switzerland,Ligue 1,AS Monaco,€12.00m
 Lucas Chevalier,23,Goalkeeper,France,Ligue 1,LOSC Lille,€30.00m
@@ -2566,7 +2566,7 @@ Derek Cornelius,27,Centre-Back,Canada,Ligue 1,Olympique Marseille,€5.00m
 Chancel Mbemba,30,Centre-Back,DR Congo,Ligue 1,Olympique Marseille,€3.00m
 Quentin Merlin,22,Left-Back,France,Ligue 1,Olympique Marseille,€12.00m
 Ulisses Garcia,29,Left-Back,Switzerland,Ligue 1,Olympique Marseille,€4.00m
-Amar Dedic,22,Right-Back,Bosnia-Herzegovina,Ligue 1,Olympique Marseille,€15.00m
+Amar Dedic,22,Right-Back,Bosnia and Herzegovina,Ligue 1,Olympique Marseille,€15.00m
 Amir Murillo,29,Right-Back,Panama,Ligue 1,Olympique Marseille,€9.00m
 Pol Lirola,27,Right-Back,Spain,Ligue 1,Olympique Marseille,€4.00m
 Pierre-Emile Højbjerg,29,Defensive Midfield,Denmark,Ligue 1,Olympique Marseille,€20.00m
